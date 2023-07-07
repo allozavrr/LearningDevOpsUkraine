@@ -1,11 +1,21 @@
 # DevOpsUkraine
+**Доброго всім дня.**
+
+**Це невеличкий конспект з допомоги тим, хто хоче вивчати DevOps у 2023 році.**
+
+**Матеріали тут зустрічаються трьома мовами - українською, англійською та мовою країни-загарбника. На жаль, зовсім без останніх обійтися було неможливо, бо для новачків такі пояснення нерідко є зрозумілішими, особливо коли рівень англійської вдосконалюється по ходу справи. Але, як сказав класик, і чужому навчайтесь, і свого не цурайтесь.**
+
+*Перелік не є закінченим. Доповнення і зауваження дуже вітаються.*
+
+**[Never give up!](https://www.youtube.com/watch?v=GC5E8ie2pdM&ab_channel=TinaTurner)**
+
 
 
 # Table of Contents
 
 - **[Roadmaps](#roadmaps)**
 - **[Resouses](#resourses)**
-   - **[Youtube](#youtube)
+   - **[Youtube](#youtube)**
 - **[Git](#git)**
 - **[Linux](#linux)**
 - **[Networking](#networking)**
@@ -19,17 +29,18 @@
 
 ## Roadmaps
 
-
-Bla bla
+**Цей розділ присвячено роадмапам для зручності навчання та самопідготовки.**
 
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
-| **90DaysOfDevOps** | [https://github.com/MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | AWS labs tool preventing you from committing secrets to a git repository  |![Git Secrets](https://img.shields.io/github/stars/MichaelCade/90DaysOfDevOps?style=for-the-badge) |
-| **Become A DevOps Engineer in 2023** | [https://devopscube.com/become-devops-engineer](https://devopscube.com/become-devops-engineerhttps://devopscube.com/become-devops-engineer) | AWS labs tool preventing you from committing secrets to a git repository  | |
+| **90DaysOfDevOps** | [https://github.com/MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | The most famous roadmap for newbies DevOps-engineers  |![Git Secrets](https://img.shields.io/github/stars/MichaelCade/90DaysOfDevOps?style=for-the-badge) |
+| **Become A DevOps Engineer in 2023** | [https://devopscube.com/become-devops-engineer](https://devopscube.com/become-devops-engineerhttps://devopscube.com/become-devops-engineer) | Simple and nice roadmap  | |
 | **DevOps Roadmap** | [https://roadmap.sh/devops](https://roadmap.sh/devops) | Step by step guide for DevOps, SRE or any other Operations Role in 2023  | |
 
 
 ## Resourses
+
+**Цей розділ містить посилання на корисні ресурси українською для DevOps-інженерів.** 
 
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
@@ -49,7 +60,7 @@ Bla bla
 | **Скринкаст по Git** | [Youtube](https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb) | Основні функції  Git |ru | |
 | **Git Tutorial for Beginners** | [w3schools.com](https://www.w3schools.com/git/default.asp?remote=github) | Git простими словами для початківців |EN | |
 | **Pro Git book. Підручник** | [git-scm.com](https://git-scm.com/book/uk/v2) | Основи Git. Підручник  |UA | |
-| **The Git Community Book** | [uleming.github.io](https://uleming.github.io/gitbook/index.html) | Гарні матеріали по Git у вигляді документації  |ru | |
+| **The Git Community Book** | [uleming.github.io](https://uleming.github.io/gitbook/index.html) | Добрі матеріали по Git у вигляді документації  |ru | |
 | **Конспект з Git** | [githowto](https://githowto.com/uk) | Гарно структурований конспект-задачник  |UA | |
 | **Інтерактивний тренажер з Git** | [learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru_RU) | Гарний тренажер-задачник з Git  |EN/ru | |
 | 

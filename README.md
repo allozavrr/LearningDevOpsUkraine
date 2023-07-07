@@ -37,7 +37,6 @@
 | **Become A DevOps Engineer in 2023** | [https://devopscube.com/become-devops-engineer](https://devopscube.com/become-devops-engineerhttps://devopscube.com/become-devops-engineer) | Simple and nice roadmap  | |
 | **DevOps Roadmap** | [https://roadmap.sh/devops](https://roadmap.sh/devops) | Step by step guide for DevOps, SRE or any other Operations Role in 2023  | |
 | **Another DevOps Roadmap** | [https://github.com/milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) | Another detailed DevOps roadmap  |![Git Secrets](https://img.shields.io/github/stars/milanm/DevOps-Roadmap?style=for-the-badge)  |
-| **Another DevOps Roadmap** | [https://github.com/milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) | Another detailed DevOps roadmap  |![Git Secrets](https://img.shields.io/github/stars/milanm/DevOps-Roadmap?style=for-the-badge)  |
 | **Learn to Cloud** | [https://learntocloud.guide](https://learntocloud.guide/docs/Welcome) | Skills you need to learn to get into Cloud Computing  |  |
 | **From Zero to DevOps Engineer - DevOps Roadmap for YOUR specific background** | [YouTube](https://www.youtube.com/watch?v=G_nVMUtaqCk&ab_channel=TechWorldwithNana) | Roadmap in a video  |  |
 
@@ -47,7 +46,7 @@
 
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
-| **Ukrainian IT Communities** | [https://github.com/nikit0ns/Ukrainian_IT_Communities/tree/master#-devops](nikit0ns/Ukrainian_IT_Communities/tree/master#-devops) | Step by step guide for DevOps, SRE or any other Operations Role in 2023  |![Git Secrets](https://img.shields.io/github/stars/nikit0ns/Ukrainian_IT_Communities?style=for-the-badge) | |
+| **Ukrainian IT Communities** | [https://github.com/nikit0ns/Ukrainian_IT_Communities/tree/master#-devops](nikit0ns/Ukrainian_IT_Communities/tree/master#-devops) | Українські DevOps коммʼюніті і не тільки  |![Git Secrets](https://img.shields.io/github/stars/nikit0ns/Ukrainian_IT_Communities?style=for-the-badge) | |
 
 ### Youtube
 

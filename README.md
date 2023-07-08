@@ -17,6 +17,7 @@
 
 - **[Roadmaps](#roadmaps)**
 - **[Resouses](#resourses)**
+   - **[Courses](#courses)
    - **[Youtube](#youtube)**
 - **[Git](#git)**
 - **[Linux](#linux)**
@@ -51,10 +52,12 @@
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
 | **90DaysOfDevOps** | [https://github.com/MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | The most famous roadmap for newbies DevOps-engineers  |![Git Secrets](https://img.shields.io/github/stars/MichaelCade/90DaysOfDevOps?style=for-the-badge) |
-| **Become A DevOps Engineer in 2023** | [https://devopscube.com/become-devops-engineer](https://devopscube.com/become-devops-engineerhttps://devopscube.com/become-devops-engineer) | Simple and nice roadmap  | |
-| **DevOps Roadmap** | [https://roadmap.sh/devops](https://roadmap.sh/devops) | Step by step guide for DevOps, SRE or any other Operations Role in 2023  | |
-| **Another DevOps Roadmap** | [https://github.com/milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) | Another detailed DevOps roadmap  |![Git Secrets](https://img.shields.io/github/stars/milanm/DevOps-Roadmap?style=for-the-badge)  |
-| **Learn to Cloud** | [https://learntocloud.guide](https://learntocloud.guide/docs/Welcome) | Skills you need to learn to get into Cloud Computing  |  |
+| **Another DevOps Roadmap** | [https://github.com/milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) | Another detailed DevOps roadmap  |![Git Secrets](https://img.shields.io/github/stars/milanm/DevOps-Roadmap?style=for-the-badge)  |  
+| **DevOps-Roadmap** | [https://github.com/devopshobbies/devops-roadmap](https://github.com/devopshobbies/devops-roadmap) |  DevOps Roadmap by Ahmadali Bagheri (free resourses included)   |![Git Secrets](https://img.shields.io/github/stars/devopshobbies/devops-roadmap?style=for-the-badge) |
+| **Become A DevOps Engineer in 2023** | [devopscube.com](https://devopscube.com/become-devops-engineerhttps://devopscube.com/become-devops-engineer) | Simple and nice roadmap  | |
+| **DevOps Roadmap** | [roadmap.sh/devops](https://roadmap.sh/devops) | Step by step guide for DevOps, SRE or any other Operations Role in 2023  | |
+| **DevOps Roadmap** | [techworld-with-nana.com](https://www.techworld-with-nana.com/devops-roadmap) | A step by step guide outlining the most efficient path to become a DevOps engineer by TechWorld with Nana  | |
+| **Learn to Cloud** | [learntocloud.guide](https://learntocloud.guide/docs/Welcome) | Skills you need to learn to get into Cloud Computing  |  |
 | **From Zero to DevOps Engineer - DevOps Roadmap for YOUR specific background** | [YouTube](https://www.youtube.com/watch?v=G_nVMUtaqCk&ab_channel=TechWorldwithNana) | Roadmap in a video  |  |
 | **Как стать DevOps Инженером с Нуля, что учить и в каком порядке** | [YouTube](https://www.youtube.com/watch?v=AxCgZ7yUKrU&list=PLg5SS_4L6LYuu1RAT4l1tCkZrJzkIaNgL&index=8&t=14s&ab_channel=ADV-IT) | Roadmap in a video  |  |
 
@@ -62,10 +65,22 @@
 ## Resourses
 
 **Цей розділ містить посилання на корисні ресурси для DevOps-інженерів.** 
+*Вказані добірки курсів та платформ зазвичай платні, якщо не зазначено інше (безкоштовні навчальні матеріали розміщені у відповідних розділах).*
 
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Ukrainian IT Communities** | [https://github.com/nikit0ns/Ukrainian_IT_Communities#-devops](https://github.com/nikit0ns/Ukrainian_IT_Communities#-devops) | Українські DevOps коммʼюніті і не тільки  |![Git Secrets](https://img.shields.io/github/stars/nikit0ns/Ukrainian_IT_Communities?style=for-the-badge) | |
+
+### Courses
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Ресурси для вивчення DevOps-теми** | [dou.ua](https://dou.ua/forums/topic/42056/?from=similar_topics) | Підбірка ресурсів для вивчення DevOps від DOU  |UA | |
+| **StanfordOnline** | [edx.org](https://www.edx.org/school/stanfordonline?irclickid=WNB0XoxkWxyPRWhxQeRIaxGNUkF2qCQE-0kN1U0) | Free online courses from Stanford University  |EN | |
+| **A Cloud Guru** | [acloud.guru](https://acloud.guru/) | Paid online courses from A Cloud Guru  |EN | |
+| **KodeKloud** | [acloud.guru](https://kodekloud.com/) | Paid online courses from KodeKloud  |EN | |
+
+
 
 ### Youtube
 
@@ -74,6 +89,7 @@
 | **DOU DevOps** | [Youtube](https://www.youtube.com/playlist?list=PLwj_3ikgO3CLZM1Jm_n5gw2CcoKMaKgD5) | Корисні підкасти DOU DevOps спільноти  |UA | |
 | **CatOps** | [Youtube](https://www.youtube.com/@catops/playlists) | Корисні підкасти CatOps спільноти  |UA | |
 | **Денис Васильєв** | [Youtube](https://www.youtube.com/@DenysVasyliev) | Senior про DevOps  |UA | |
+| **DataArt Online** | [Youtube](https://www.youtube.com/playlist?list=PLU6_HdJGVDx93bE8cb3gpwRzJX57C1wvt) | Плейлист про DevOps від DataArt Online  |UA | |
 | **Tech World with Nana** | [YouTube](https://www.youtube.com/@TechWorldwithNana) | Really needed materials about all DevOps hard-skills  |EN | |
 | **NetworkChuck** | [YouTube](https://www.youtube.com/@NetworkChuck/playlists) | CCNA, CompTIA A+, CompTIA Network+  |EN | |
 
@@ -190,10 +206,12 @@
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
+| **Kubernetes Roadmap** | [roadmap.sh](https://roadmap.sh/kubernetes) | Kubernetes Roadmap  |EN | |
 | **Kubernetes** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi) | Kubernetes від ADV-IT  |ru | |
 | **Открытая вечерняя школа. Kubernetes для разработчиков** | [Youtube](https://www.youtube.com/playlist?list=PL8D2P0ruohOBSA_CDqJLflJ8FLJNe26K-) | Корисний великий плейлист для початківців  |ru | |
 | **Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]** | [Youtube](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana) | Big Beginners Kubernetes course  |EN | |
 | **Introduction to Kubernetes** | [edx.org](https://www.edx.org/course/introduction-to-kubernetes) | Big Kubernetes course  |EN | |
+| **Kubernetes trainings** | [kube.academy](https://kube.academy/coursess) | Mini Kubernetes trainings by KubeAcademy  |EN | |
 | **Play with Kubernetes** | [labs.play-with-k8s.com](https://labs.play-with-k8s.com/) | Kubernetes stand for labs  |EN | |
 | **Kubernetes CheatSheet** | [minikube.sigs.k8s.io/](https://minikube.sigs.k8s.io/docs/commands/) | MiniKube CheatSheets  |EN | |
 
@@ -210,6 +228,7 @@
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
+| **AWS LEARNING PATH** | [AWS](https://aws.amazon.com/getting-started/learning-path-devops-engineer/) | Learning Path  by AWS  |EN | |
 | **AWS** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYsxrZ_4xE_U95AtGsIB96k9) | Дуже великий курс по AWS від ADV-IT  |ru | |
 | **The Best AWS Cloud Projects To Get You Hired (For Beginners)** | [Youtube](https://www.youtube.com/watch?v=5RVT3BN9Iws&ab_channel=TechWithLucy) | 3 beginner-friendly AWS Cloud Projects you can start building today!  |EN | |
 | **A Cloud Guru - Intro to AWS** | [educative.io](https://learn.acloud.guru/course/intro-to-aws/overview) | Practical AWS course  |EN | |
@@ -219,6 +238,7 @@
 ### Microsoft Azure
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
+| **Azure DevOps Roadmap** | [learn.microsoft.com](https://learn.microsoft.com/en-us/azure/devops/release-notes/features-timeline) | Learning Path  by Microsoft  |EN | |
 | **Getting Started with Cloud Computing using Microsoft Azure [Free Udemy]** | [Udemy](https://www.udemy.com/course/cloud-computing-using-microsoft-azure) | Free course for learning Microsoft Azure  |EN | |
 | **Getting Started with Azure [Coursera Free Course]** | [Coursera](https://dev.to/javinpaul/7-free-courses-to-learn-microsoft-azure-cloud-platform-bg4) | Coursera course to learn the basics of the Microsoft Azure platform online |EN | |
 
@@ -226,6 +246,7 @@
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
+| **Professional Cloud DevOps Engineer Certification** | [Google Cloud](https://cloud.google.com/learn/certification/cloud-devops-engineer) | Google Cloud Certification  |EN | |
 | **Google Cloud** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H) | Курс по Google Cloud Platform ADV-IT  |ru | |
 
 
@@ -298,4 +319,3 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **IT English** | [Youtube](https://www.youtube.com/playlist?list=PLOlyZEVllXBHY79lqGyc4odoVON1oSMQy) | Безкоштовний курс з англійської для програмістів та QA  |EN/UA | |
 | **TECH English** | [Youtube](https://youtube.com/playlist?list=PLOwnXSCq7AoGRr7EuifDZiTAPpi9X1MER) | Ще один безкоштовний курс з англійської для програмістів та QA  |EN/UA | |
-

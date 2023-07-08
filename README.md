@@ -265,12 +265,12 @@
 | **Девопс и Поиск Работы в IT** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYuu1RAT4l1tCkZrJzkIaNgL) | Плейлист з порадами з проходження інтервʼю від ADV-IT  |ru | |
 | **Прямий ефір: технічне інтерв'ю DevOps-джуніора** | [Youtube](https://www.youtube.com/watch?v=S-uAOt2ZLQw&ab_channel=EPAMUkraineCareer) | Питання, які можуть бути задані на технічній співбесіді на рівні джуніора  |UA | |
 | **Співбесіда з DevOps. 300+ запитань для Junior, Middle, Senior** | [dou.ua](https://dou.ua/lenta/articles/interview-devops/) | Великий матеріал з питаннями для самопідготовки  |UA | |
-| **Preparing for a DevOps Engineer Interview: A Comprehensive Guide** | [https://dev.to/](https://dev.to/tutunak/preparing-for-a-devops-engineer-interview-a-comprehensive-guide-26n4) | Really useful manual for a DevOps Engineer Interview  |EN | |
+| **Preparing for a DevOps Engineer Interview: A Comprehensive Guide** | [dev.to](https://dev.to/tutunak/preparing-for-a-devops-engineer-interview-a-comprehensive-guide-26n4) | Really useful manual for a DevOps Engineer Interview  |EN | |
 
 ## English 
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **IT English** | [Youtube](https://www.youtube.com/playlist?list=PLOlyZEVllXBHY79lqGyc4odoVON1oSMQy) | Безкоштовний курс з англійської для програмістів та QA  |EN/UA | |
-| **TECH English** | [Youtube](https://youtube.com/playlist?list=PLOwnXSCq7AoGRr7EuifDZiTAPpi9X1MER) | Ще один езкоштовний курс з англійської для програмістів та QA  |EN/UA | |
+| **TECH English** | [Youtube](https://youtube.com/playlist?list=PLOwnXSCq7AoGRr7EuifDZiTAPpi9X1MER) | Ще один ,езкоштовний курс з англійської для програмістів та QA  |EN/UA | |
 

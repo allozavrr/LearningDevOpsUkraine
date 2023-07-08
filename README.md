@@ -1,4 +1,4 @@
-# DevOpsUkraine
+# LearningDevOpsUkraine
 **Доброго всім дня.**
 
 **Це невеличкий конспект з допомоги тим, хто хоче вивчати DevOps у 2023 році.**
@@ -6,6 +6,8 @@
 **Матеріали тут зустрічаються трьома мовами - українською, англійською та мовою країни-загарбника. На жаль, зовсім без останніх обійтися було неможливо, бо для новачків такі пояснення нерідко є зрозумілішими, особливо коли рівень англійської вдосконалюється по ходу справи. Але, як сказав класик, і чужому навчайтесь, і свого не цурайтесь.**
 
 *Перелік не є закінченим. Доповнення і зауваження дуже вітаються.*
+
+*Також дякую телеграм-спільноті https://t.me/DevOpsMarathon та її очільнику - @edemus. *
 
 **[Never give up!](https://www.youtube.com/watch?v=GC5E8ie2pdM&ab_channel=TinaTurner)**
 
@@ -32,10 +34,10 @@
    - **[Microsoft Azure](#azure)**
    - **[Google Cloud Platform](#gcp)**
 - **[Programming & Scripting](#programming)**
-   - **[Bash](#bash)
-   - **[Python](#python)
-   - **[Go](#go)
-- **[Monitoring](#monitoring)
+   - **[Bash](#bash)**
+   - **[Python](#python)**
+   - **[Go](#go)**
+- **[Monitoring](#monitoring)**
 - **[DevSecOps](#devsecops)**
 - **[Interview](#interview)**
 - **[English](#english)**

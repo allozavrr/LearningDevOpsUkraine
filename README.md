@@ -56,16 +56,16 @@
 | **DevOps-Roadmap** | [https://github.com/devopshobbies/devops-roadmap](https://github.com/devopshobbies/devops-roadmap) |  DevOps Roadmap by Ahmadali Bagheri (free resourses included)   |![Git Secrets](https://img.shields.io/github/stars/devopshobbies/devops-roadmap?style=for-the-badge) |
 | **Become A DevOps Engineer in 2023** | [devopscube.com](https://devopscube.com/become-devops-engineerhttps://devopscube.com/become-devops-engineer) | Simple and nice roadmap  | |
 | **DevOps Roadmap** | [roadmap.sh/devops](https://roadmap.sh/devops) | Step by step guide for DevOps, SRE or any other Operations Role in 2023  | |
-| **DevOps Roadmap** | [techworld-with-nana.com](https://www.techworld-with-nana.com/devops-roadmap) | A step by step guide outlining the most efficient path to become a DevOps engineer by TechWorld with Nana  | |
+| **DevOps Roadmap** | [techworld-with-nana.com](https://www.techworld-with-nana.com/devops-roadmap) | Step by step guide outlining the most efficient path to become a DevOps engineer by TechWorld with Nana  | |
 | **Learn to Cloud** | [learntocloud.guide](https://learntocloud.guide/docs/Welcome) | Skills you need to learn to get into Cloud Computing  |  |
 | **From Zero to DevOps Engineer - DevOps Roadmap for YOUR specific background** | [YouTube](https://www.youtube.com/watch?v=G_nVMUtaqCk&ab_channel=TechWorldwithNana) | Roadmap in a video  |  |
 | **Как стать DevOps Инженером с Нуля, что учить и в каком порядке** | [YouTube](https://www.youtube.com/watch?v=AxCgZ7yUKrU&list=PLg5SS_4L6LYuu1RAT4l1tCkZrJzkIaNgL&index=8&t=14s&ab_channel=ADV-IT) | Roadmap in a video  |  |
 
 
+
 ## Resourses
 
 **Цей розділ містить посилання на корисні ресурси для DevOps-інженерів.** 
-*Вказані добірки курсів та платформ зазвичай платні, якщо не зазначено інше (безкоштовні навчальні матеріали розміщені у відповідних розділах).*
 
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
@@ -73,13 +73,14 @@
 
 ### Courses
 
+*Вказані добірки курсів та платформ зазвичай платні, якщо не зазначено інше (безкоштовні навчальні матеріали розміщені у відповідних розділах).*
+
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Ресурси для вивчення DevOps-теми** | [dou.ua](https://dou.ua/forums/topic/42056/?from=similar_topics) | Підбірка ресурсів для вивчення DevOps від DOU  |UA | |
 | **StanfordOnline** | [edx.org](https://www.edx.org/school/stanfordonline?irclickid=WNB0XoxkWxyPRWhxQeRIaxGNUkF2qCQE-0kN1U0) | Free online courses from Stanford University  |EN | |
 | **A Cloud Guru** | [acloud.guru](https://acloud.guru/) | Paid online courses from A Cloud Guru  |EN | |
 | **KodeKloud** | [acloud.guru](https://kodekloud.com/) | Paid online courses from KodeKloud  |EN | |
-
 
 
 ### Youtube
@@ -92,6 +93,7 @@
 | **DataArt Online** | [Youtube](https://www.youtube.com/playlist?list=PLU6_HdJGVDx93bE8cb3gpwRzJX57C1wvt) | Плейлист про DevOps від DataArt Online  |UA | |
 | **Tech World with Nana** | [YouTube](https://www.youtube.com/@TechWorldwithNana) | Really needed materials about all DevOps hard-skills  |EN | |
 | **NetworkChuck** | [YouTube](https://www.youtube.com/@NetworkChuck/playlists) | CCNA, CompTIA A+, CompTIA Network+  |EN | |
+
 
 
 ## Git
@@ -112,6 +114,7 @@
 | **Інтерактивний тренажер з Git** | [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk) | Гарний тренажер-задачник з Git  |EN/UA | |
 
 
+
 ## Linux
 
 **Розділ для вдосконалення знань з Linux - для новачків та не тільки.**
@@ -126,6 +129,7 @@
 | **LPIC-1 (exam 101)** | [Youtube](https://www.youtube.com/playlist?list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc) | Підготовка до екзамену LPIC-1 (exam 101) від Кирила Сємаєва  |ru | |
 | **LPIC-2 (exam 201)** | [Youtube](https://www.youtube.com/playlist?list=PLmxB7JSpraidTqByo0ihkyExIbKfAB-B9) | Підготовка до екзамену LPIC-2 (exam 201) від Кирила Сємаєва  |ru | |
 | **Into the Terminal (Red Hat Enterprise Linux)** | [Youtube](https://www.youtube.com/playlist?list=PLXJyD2dL4oqeX-C3MvsMUJuEzWM4vLK2C) | Critical Administration Skills for Red Hat Enterprise Linux  |EN | |
+
 
 
 ## Networking
@@ -146,6 +150,7 @@
 | **Network Fundamentals Course** | [educative.io](https://www.educative.io/module/An5VrvSlLQN6R6N8y/10370001/4813190514343936) | Practical Network course  |EN | |
 
 
+
 ## CI/CD
 
 **CI/CD та які тулзи у ньому використовуються.**
@@ -153,6 +158,7 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Курсы: CICD (сентябрь 2020)** | [Youtube](https://www.youtube.com/playlist?list=PLGQiJX6wM-zzEcA_0Wn3SIL8MyammjqSH) | Старенький курс, але для розуміння, що таке CI/CD підійде  |ru | |
+| **Що робити після того, як програма написана? Практичний погляд на SDLC, CI/CD, DevOps для початківців** | [Youtube](https://www.youtube.com/watch?v=zGyXsxNAdt4&t=1s&ab_channel=%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D1%80%D0%BE%D0%86%D0%A2) | Невеликий огляд (не курс!), що таке CI/CD  |UA | |
 | **DevOps Tools Periodic Table** | [digital.ai](https://digital.ai/learn/devops-periodic-table/) | The Periodic Table of DevOps Tools  |EN | |
 | **DevOps Project Examples** | [devopsrealtime.com](https://devopsrealtime.com/category/projects/) | DevOps project Examples  |EN | |
 | **Cognitiveclass.ai** | [cognitiveclass.ai](https://cognitiveclass.ai/courses?type%5B%5D=all&sort%5B%5D=most_popular&skills%5B%5D=devops) | DevOps project small Guides  |EN | |
@@ -187,7 +193,6 @@
 | **Terraform** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYujWDTYb-Zbofdl44Jxb2l8) | Terraform доступно від ADV-IT  |ru | |
 | **Terraform - From Zero to Certified Professional** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYsUzsBeN8rPe1EoqKWhMlnF) | Terraform - From Zero to Certified Professional від ADV-IT  |EN | |
 
-
 ## Containerization
 
 **Розділ з лінками на ресурси по контейнеризації та оркеструванню.**
@@ -214,6 +219,7 @@
 | **Kubernetes trainings** | [kube.academy](https://kube.academy/coursess) | Mini Kubernetes trainings by KubeAcademy  |EN | |
 | **Play with Kubernetes** | [labs.play-with-k8s.com](https://labs.play-with-k8s.com/) | Kubernetes stand for labs  |EN | |
 | **Kubernetes CheatSheet** | [minikube.sigs.k8s.io/](https://minikube.sigs.k8s.io/docs/commands/) | MiniKube CheatSheets  |EN | |
+
 
 
 ## Clouds
@@ -250,6 +256,7 @@
 | **Google Cloud** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H) | Курс по Google Cloud Platform ADV-IT  |ru | |
 
 
+
 ## Programming and Scripting
 
 **Розділ для вивчення програмування та автоматизації всього, що рухається.**
@@ -283,6 +290,7 @@
 **Розділ чекає на матеріали.**
 
 
+
 ## Monitoring
 
 **Розділ чекає на матеріали.**
@@ -299,6 +307,7 @@
 | **DevSecOps Roadmap** | [https://github.com/hahwul/DevSecOps](https://github.com/hahwul/DevSecOps) | Ultimate DevSecOps library  |![Git Secrets](https://img.shields.io/github/stars/hahwul/DevSecOps?style=for-the-badge) |
 
 
+
 ## Interview
 
 **Самопідготовка та селф-чекінг.**
@@ -309,6 +318,7 @@
 | **Прямий ефір: технічне інтерв'ю DevOps-джуніора** | [Youtube](https://www.youtube.com/watch?v=S-uAOt2ZLQw&ab_channel=EPAMUkraineCareer) | Питання, які можуть бути задані на технічній співбесіді на рівні джуніора  |UA | |
 | **Співбесіда з DevOps. 300+ запитань для Junior, Middle, Senior** | [dou.ua](https://dou.ua/lenta/articles/interview-devops/) | Великий матеріал з питаннями для самопідготовки  |UA | |
 | **Preparing for a DevOps Engineer Interview: A Comprehensive Guide** | [dev.to](https://dev.to/tutunak/preparing-for-a-devops-engineer-interview-a-comprehensive-guide-26n4) | Really useful manual for a DevOps Engineer Interview  |EN | |
+
 
 
 ## English 

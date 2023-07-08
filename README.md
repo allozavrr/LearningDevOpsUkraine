@@ -28,12 +28,12 @@
 - **[Infrastructure as code](#infrastructure-as-code)**
 - **[Containerization](#containerization)**
    - **[Docker](#docker)**
-   - **[Kubernetes](#k8s)**
+   - **[Kubernetes](#kubernetets)**
 - **[Clouds](#clouds)**
    - **[AWS](#aws)**
-   - **[Microsoft Azure](#azure)**
-   - **[Google Cloud Platform](#gcp)**
-- **[Programming & Scripting](#programming)**
+   - **[Microsoft Azure](#microsoft-azure)**
+   - **[Google Cloud Platform](#google-cloud-plarform)**
+- **[Programming and Scripting](#programmin-and-scripting)**
    - **[Bash](#bash)**
    - **[Python](#python)**
    - **[Go](#go)**

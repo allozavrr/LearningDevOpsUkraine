@@ -190,7 +190,7 @@
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
-| **Learn to Cloud** | [learntocloud.guide](https://learntocloud.guide/docs/Welcome) | kills you need to learn to get into Cloud Computing  |EN | |
+| **Learn to Cloud** | [learntocloud.guide](https://learntocloud.guide/docs/Welcome) | Skills you need to learn to get into Cloud Computing  |EN | |
 
 ### AWS
 

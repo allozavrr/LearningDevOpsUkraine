@@ -65,7 +65,7 @@
 
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
-| **Ukrainian IT Communities** | [https://github.com/nikit0ns/Ukrainian_IT_Communities/tree/master#-devops](nikit0ns/Ukrainian_IT_Communities/tree/master#-devops) | Українські DevOps коммʼюніті і не тільки  |![Git Secrets](https://img.shields.io/github/stars/nikit0ns/Ukrainian_IT_Communities?style=for-the-badge) | |
+| **Ukrainian IT Communities** | [https://github.com/nikit0ns/Ukrainian_IT_Communities#-devops](https://github.com/nikit0ns/Ukrainian_IT_Communities#-devops) | Українські DevOps коммʼюніті і не тільки  |![Git Secrets](https://img.shields.io/github/stars/nikit0ns/Ukrainian_IT_Communities?style=for-the-badge) | |
 
 ### Youtube
 

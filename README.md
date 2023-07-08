@@ -158,7 +158,7 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **GitLab CI/CD** | [Youtube](https://www.youtube.com/playlist?list=PLqVeG_R3qMSzYe_s3-q7TZeawXxTyltGC) | Маленький курс по Gitlab від RomNero  |ru | |
-| **GitLab CI CD Tutorial for Beginners [Crash Course]** | [Youtube](https://www.youtube.com/watch?v=qP8kir2GUgo&ab_channel=TechWorldwithNana) | 1-hour video building a complete GitLab CI/CD pipeline by TechWorldwithNan  |ru | |
+| **GitLab CI CD Tutorial for Beginners [Crash Course]** | [Youtube](https://www.youtube.com/watch?v=qP8kir2GUgo&ab_channel=TechWorldwithNana) | 1-hour video building a complete GitLab CI/CD pipeline by TechWorldwithNan  |EN | |
 
 
 

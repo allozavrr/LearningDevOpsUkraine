@@ -182,6 +182,7 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **Контейнеризація та основи роботи з Docker** | [Youtube](https://www.youtube.com/watch?v=O0pTOjWlKbc&ab_channel=Bobocode) | Докер все-в-одному відео  |UA | |
 | **Dev.DevOps: Docker** | [Youtube](https://www.youtube.com/playlist?list=PLpJNC8fNX1CRtS7SE6oB3MfZZ64RxCxa3) | Докер для початківців  |ru | |
+| **Docker - Всё что нужно знать чтобы начать работать с Docker, все основы в одном уроке** | [Youtube](https://www.youtube.com/watch?v=I18TNwZ2Nqg&ab_channel=ADV-IT) | Docker доступно від ADV-IT  |ru | |
 | **Docker - Полный курс Docker Для Начинающих** | [Youtube](https://www.youtube.com/watch?v=_uZQtRyF6Eg&t=6083s&ab_channel=BogdanStashchuk) | Гарний курс для початківців від Богдана Сташука |ru | |
 | **Docker Crash Course for Absolute Beginners** | [Youtube](https://www.youtube.com/watch?v=pg19Z8LL06w&ab_channel=TechWorldwithNana) | Docker Crash Course from TechWorld with Nana |EN | |
 
@@ -189,7 +190,7 @@
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
-| **Kubernetets** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi) | Kubernetets від ADV-IT  |ru | |
+| **Kubernetes** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi) | Kubernetes від ADV-IT  |ru | |
 | **Открытая вечерняя школа. Kubernetes для разработчиков** | [Youtube](https://www.youtube.com/playlist?list=PL8D2P0ruohOBSA_CDqJLflJ8FLJNe26K-) | Корисний великий плейлист для початківців  |ru | |
 | **Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]** | [Youtube](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana) | Big Beginners Kubernetes course  |EN | |
 | **Introduction to Kubernetes** | [edx.org](https://www.edx.org/course/introduction-to-kubernetes) | Big Kubernetes course  |EN | |

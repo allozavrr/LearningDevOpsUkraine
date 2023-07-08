@@ -33,7 +33,7 @@
    - **[AWS](#aws)**
    - **[Microsoft Azure](#microsoft-azure)**
    - **[Google Cloud Platform](#google-cloud-plarform)**
-- **[Programming and Scripting](#programmin-and-scripting)**
+- **[Programming and Scripting](#programming-and-scripting)**
    - **[Bash](#bash)**
    - **[Python](#python)**
    - **[Go](#go)**

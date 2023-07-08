@@ -7,7 +7,7 @@
 
 *Перелік не є закінченим. Доповнення і зауваження дуже вітаються.*
 
-*Також дякую телеграм-спільноті https://t.me/DevOpsMarathon та її очільнику - @edemus. *
+*Також дякую телеграм-спільноті https://t.me/DevOpsMarathon та її очільнику - @edemus.*
 
 **[Never give up!](https://www.youtube.com/watch?v=GC5E8ie2pdM&ab_channel=TinaTurner)**
 

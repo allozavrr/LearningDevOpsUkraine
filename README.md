@@ -189,7 +189,7 @@
 | **Google Cloud** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H) | Курс по Google Cloud Platform ADV-IT  |ru | |
 
 
-## Programming & Scripting
+## Programming and Scripting
 
 ### Bash
 

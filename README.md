@@ -28,13 +28,14 @@
 - **[Infrastructure as code](#infrastructure-as-code)**
 - **[Containerization](#containerization)**
    - **[Docker](#docker)**
-   - **[Kubernetes](#kubernetets)**
+   - **[Kubernetes](#kubernetes)**
 - **[Clouds](#clouds)**
    - **[AWS](#aws)**
    - **[Microsoft Azure](#microsoft-azure)**
    - **[Google Cloud Platform](#google-cloud-plarform)**
 - **[Programming and Scripting](#programming-and-scripting)**
    - **[Bash](#bash)**
+   - **[Powershell](#powershell)**
    - **[Python](#python)**
    - **[Go](#go)**
 - **[Monitoring](#monitoring)**
@@ -65,13 +66,16 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **Ukrainian IT Communities** | [https://github.com/nikit0ns/Ukrainian_IT_Communities/tree/master#-devops](nikit0ns/Ukrainian_IT_Communities/tree/master#-devops) | Українські DevOps коммʼюніті і не тільки  |![Git Secrets](https://img.shields.io/github/stars/nikit0ns/Ukrainian_IT_Communities?style=for-the-badge) | |
 
+
 ### Youtube
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **DOU DevOps** | [Youtube](https://www.youtube.com/playlist?list=PLwj_3ikgO3CLZM1Jm_n5gw2CcoKMaKgD5) | Корисні підкасти DOU DevOps спільноти  |UA | |
+| **CatOps** | [Youtube](https://www.youtube.com/@catops/playlists) | Корисні підкасти CatOps спільноти  |UA | |
 | **Денис Васильєв** | [Youtube](https://www.youtube.com/@DenysVasyliev) | Senior про DevOps  |UA | |
-| **Tech World with Nana | [YouTube](https://www.youtube.com/@TechWorldwithNana) | Really needed materials about all DevOps hard-skills  |EN | |
+| **Tech World with Nana** | [YouTube](https://www.youtube.com/@TechWorldwithNana) | Really needed materials about all DevOps hard-skills  |EN | |
+| **NetworkChuck** | [YouTube](https://www.youtube.com/@NetworkChuck/playlists) | CCNA, CompTIA A+, CompTIA Network+  |EN | |
 
 ## Git
 
@@ -80,6 +84,7 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Git, GitHub, & GitHub Desktop for beginners** | [Youtube](https://www.youtube.com/watch?v=8Dd7KRpKeaE&ab_channel=CoderCoder) | Step by step guide for DevOps, SRE or any other Operations Role in 2023  |EN | |
+| **Course: Git for Beginners** | [Youtube](https://www.youtube.com/playlist?list=PLYQSCk-qyTW3lX_dyw0R2eVzNGB3Tlv9S) |Git for Beginners short guide  |EN | |
 | **Скринкаст по Git** | [Youtube](https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb) | Основні функції  Git |ru | |
 | **Основы Git, GitHub и GitHub Actions** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYstwxTEOU05E0URTHnbtA0l) | Курс по Git, GitHub та GitHub Actions |ru | |
 | **GitHub Actions Tutorial** | [Youtube](https://www.youtube.com/watch?v=R8_veQiYBjI&ab_channel=TechWorldwithNana) | GitHub Actions Tutorial from TechWorld with Nana |EN | |
@@ -97,6 +102,7 @@
 | **Уроки Linux для начинающих** | [Youtube](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUwVWvVitxG2oXA6a-Nq-Qq) | Гайд для початківців від Гоші Дударя  |ru | |
 | **Linux Essentials** | [Youtube](https://www.youtube.com/watch?v=IZTl2nYPRz8&list=PLmxB7JSpraidEUbmKkRn7ZlqJg6_8kE7j&ab_channel=KirillSemaev) | Підготовка віртуальної машини для роботи з Linux від Кирила Сємаєва  |ru | |
 | **Linux Essentials** | [Youtube](https://www.youtube.com/playlist?list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc) | Підготовка віртуальної машини для роботи з Linux від Кирила Сємаєва  |ru | |
+| **Hacker School Linux** | [Youtube](https://www.youtube.com/playlist?list=PL86fNax1UdKvgWOkgtm_opAYbo5kGtQ88) | Курс для початківців Linux від Hacker School  |ru | |
 | **ADV-IT Linux для Начинающих** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYuE4z-3BgLYGkZrs-cF4Tep) | Курс для початківців з Linux від ADV-IT  |ru | |
 | **ADV-IT Linux НЕ для Начинающих** | [Youtube](https://www.youtube.com/watch?v=hb1jtBm71MY&list=PLg5SS_4L6LYsgy5qLYZtvoaV34zn5iKPe&ab_channel=ADV-IT) | Курс для поглиблення знань з Linux від ADV-IT  |ru | |
 | **LPIC-1 (exam 101)** | [Youtube](https://www.youtube.com/watch?v=IZTl2nYPRz8&list=PLmxB7JSpraidEUbmKkRn7ZlqJg6_8kE7j&ab_channel=KirillSemaev) | Підготовка до екзамену LPIC-1 (exam 101) від Кирила Сємаєва  |ru | |
@@ -105,7 +111,7 @@
 
 ## Networking
 
-**Мережі це основа основ**
+**Розділ для вивчення та повторення компʼютерних мереж**
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
@@ -115,7 +121,11 @@
 | **Защищенные сетевые протоколы** | [Youtube](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiFnWCsVRElorOLt69YDEnv) | TLS, SSl, HTTPS від Андрія Созикіна  |ru | |
 | **Курсы Cisco CCNA 200-301** | [Youtube ч.1](https://www.youtube.com/playlist?list=PL0MV6px_XdxDJLaePIpq7PPllVLdL_kw_) | Cisco CCNA p.1  |ru | |
 | **Курсы Cisco CCNA 200-301** | [Youtube ч.2](https://www.youtube.com/playlist?list=PL0MV6px_XdxCkDz7yNCulKlK2I7144Yae) | Cisco CCNA p.2  |ru | |
+| **CompTIA Network+ N10-007 Training Course** | [Youtube](https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd) | CompTIA Network+ N10-007 Exam Prep  |EN | |
+| **Computer Networks Neso Academy** | [Youtube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx) | Fundamental Network course  |EN | |
+| **Cisco Networking Academy - Networking Basics** | [skillsforall.com](https://skillsforall.com/course/networking-basics?courseLang=en-US) | Basic Network course  |EN | |
 | **Network Fundamentals Course** | [educative.io](https://www.educative.io/module/An5VrvSlLQN6R6N8y/10370001/4813190514343936) | Practical Network course  |EN | |
+
 
 ## CI/CD
 
@@ -124,6 +134,9 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Курсы: CICD (сентябрь 2020)** | [Youtube](https://www.youtube.com/playlist?list=PLGQiJX6wM-zzEcA_0Wn3SIL8MyammjqSH) | Старенький курс, але для розуміння, що таке CI/CD підійде  |ru | |
+| **DevOps Tools Periodic Table** | [digital.ai](https://digital.ai/learn/devops-periodic-table/) | The Periodic Table of DevOps Tools  |EN | |
+| **DevOps Project Examples** | [devopsrealtime.com](https://devopsrealtime.com/category/projects/) | DevOps project Examples  |EN | |
+| **Cognitiveclass.ai** | [cognitiveclass.ai](https://cognitiveclass.ai/courses?type%5B%5D=all&sort%5B%5D=most_popular&skills%5B%5D=devops) | DevOps project small Guides  |EN | |
 
 ### Ansible
 
@@ -161,15 +174,23 @@
 | **Docker Crash Course for Absolute Beginners** | [Youtube](https://www.youtube.com/watch?v=pg19Z8LL06w&ab_channel=TechWorldwithNana) | Docker Crash Course from TechWorld with Nana |EN | |
 
 
-### Kubernetets
+### Kubernetes
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Kubernetets** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi) | Kubernetets від ADV-IT  |ru | |
 | **Открытая вечерняя школа. Kubernetes для разработчиков** | [Youtube](https://www.youtube.com/playlist?list=PL8D2P0ruohOBSA_CDqJLflJ8FLJNe26K-) | Корисний великий плейлист для початківців  |ru | |
+| **Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]** | [Youtube](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana) | Big Beginners Kubernetes course  |EN | |
+| **Introduction to Kubernetes** | [edx.org](https://www.edx.org/course/introduction-to-kubernetes) | Big Kubernetes course  |EN | |
+| **Play with Kubernetes** | [labs.play-with-k8s.com](https://labs.play-with-k8s.com/) | Kubernetes stand for labs  |EN | |
+| **Kubernetes CheatSheet** | [minikube.sigs.k8s.io/](https://minikube.sigs.k8s.io/docs/commands/) | MiniCube CheatSheets  |EN | |
 
 
 ## Clouds
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Learn to Cloud** | [learntocloud.guide](https://learntocloud.guide/docs/Welcome) | kills you need to learn to get into Cloud Computing  |EN | |
 
 ### AWS
 
@@ -179,8 +200,14 @@
 | **The Best AWS Cloud Projects To Get You Hired (For Beginners)** | [Youtube](https://www.youtube.com/watch?v=5RVT3BN9Iws&ab_channel=TechWithLucy) | 3 beginner-friendly AWS Cloud Projects you can start building today!  |EN | |
 | **A Cloud Guru - Intro to AWS** | [educative.io](https://learn.acloud.guru/course/intro-to-aws/overview) | Practical AWS course  |EN | |
 | **Udemy - AWS IAM - The easy explanation** | [educative.io](https://www.udemy.com/course/aws-iam-training/) | Understand AWS IAM concepts like Authentication, Authorization, User, Groups, Roles and Policies  |EN | |
+| **101 Days of DevOps** | [101daysofdevops.com](https://www.101daysofdevops.com/courses/101-days-of-devops/) | Free course for learning AWS and Kubernetets  |EN | |
 
 ### Microsoft Azure
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Getting Started with Cloud Computing using Microsoft Azure [Free Udemy]** | [Udemy](https://www.udemy.com/course/cloud-computing-using-microsoft-azure) | Free course for learning Microsoft Azure  |EN | |
+| **Getting Started with Azure [Coursera Free Course]** | [Coursera](https://dev.to/javinpaul/7-free-courses-to-learn-microsoft-azure-cloud-platform-bg4) | Coursera course to learn the basics of the Microsoft Azure platform online |EN | |
+
 
 ### Google Cloud Platform
 
@@ -193,12 +220,28 @@
 
 ### Bash
 
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Bash Scripting Full Course 3 Hours** | [Youtube](https://www.youtube.com/watch?v=e7BufAVwDiM&ab_channel=linuxhint) | Bash Boot Camp Course  |EN | |
+| **Course: Beginners Guide to the Terminal (Bash)** | [Youtube](https://www.youtube.com/playlist?list=PLYQSCk-qyTW0d88jNocdi_YIFMA5Fnpug) | Big Bash Scripting Course  |EN | |
+
+### Powershell
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **All things Microsoft PowerShell** | [Youtube](https://www.youtube.com/playlist?list=PLCGGtLsUjhm2k22nFHHdupAK0hSNZVfXi) | Everything you need to know to get started with PowerShell  |EN | |
+
 ### Python
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **ADV-IT Python для Начинающих** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYtHCActBzbuGVYlWpLYqXC6) | Курс для знайомства з Python від ADV-IT  |ru | |
 | **ADV-IT Python для НЕ Начинающих** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYt7Wmh8zBKjZ_ltaoDXSEmk) | Курс для продовження вивчення Python від ADV-IT  |ru | |
+| **Алгоритмы и структуры данных на Python 3** | [Youtube](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0) | Гарний курс по алгоритмам від Тимофія Хірʼянова  |ru | |
+| **Python for Beginners** | [Youtube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) | Python for Beginners from Microsoft Developer  |EN | |
+| **More Python for Beginners** | [Youtube](https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj) | Python for Beginners from Microsoft Developer p.2  |EN | |
+| **Even More Python for Beginners: Data Tools** | [Youtube](https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj) | Python for Beginners from Microsoft Developer p.3  |EN | |
+| **The Last Algorithms Course You'll Need** | [frontendmasters.com](https://frontendmasters.com/courses/algorithms/) | Super fun, beginner-friendly data structures and algorithms course  |EN | |
 
 ### Go
 
@@ -220,13 +263,14 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Девопс и Поиск Работы в IT** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYuu1RAT4l1tCkZrJzkIaNgL) | Плейлист з порадами з проходження інтервʼю від ADV-IT  |ru | |
-| *Preparing for a DevOps Engineer Interview: A Comprehensive Guide** | [https://dev.to/](https://dev.to/tutunak/preparing-for-a-devops-engineer-interview-a-comprehensive-guide-26n4) | Really useful manual for a DevOps Engineer Interview  |EN | |
+| **Прямий ефір: технічне інтерв'ю DevOps-джуніора** | [Youtube](https://www.youtube.com/watch?v=S-uAOt2ZLQw&ab_channel=EPAMUkraineCareer) | Питання, які можуть бути задані на технічній співбесіді на рівні джуніора  |UA | |
+| **Співбесіда з DevOps. 300+ запитань для Junior, Middle, Senior** | [dou.ua](https://dou.ua/lenta/articles/interview-devops/) | Великий матеріал з питаннями для самопідготовки  |UA | |
+| **Preparing for a DevOps Engineer Interview: A Comprehensive Guide** | [https://dev.to/](https://dev.to/tutunak/preparing-for-a-devops-engineer-interview-a-comprehensive-guide-26n4) | Really useful manual for a DevOps Engineer Interview  |EN | |
 
 ## English 
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
-| **IT English** | [Youtube](https://www.youtube.com/playlist?list=PLOlyZEVllXBHY79lqGyc4odoVON1oSMQy) | Безкоштовний курс з англійської для програмістів та QA  |UA | |
-
-
+| **IT English** | [Youtube](https://www.youtube.com/playlist?list=PLOlyZEVllXBHY79lqGyc4odoVON1oSMQy) | Безкоштовний курс з англійської для програмістів та QA  |EN/UA | |
+| **TECH English** | [Youtube](https://youtube.com/playlist?list=PLOwnXSCq7AoGRr7EuifDZiTAPpi9X1MER) | Ще один езкоштовний курс з англійської для програмістів та QA  |EN/UA | |
 

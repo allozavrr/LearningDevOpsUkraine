@@ -170,13 +170,13 @@
 
 ## Containerization
 
-**Розділ з лінками на ресурси по контейнеризації та оркеструанню.**
+**Розділ з лінками на ресурси по контейнеризації та оркеструванню.**
 
 ### Docker
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
-| *Контейнеризація та основи роботи з Docker** | [Youtube](https://www.youtube.com/watch?v=O0pTOjWlKbc&ab_channel=Bobocode) | Докер все-в-одному відео  |UA | |
+| **Контейнеризація та основи роботи з Docker** | [Youtube](https://www.youtube.com/watch?v=O0pTOjWlKbc&ab_channel=Bobocode) | Докер все-в-одному відео  |UA | |
 | **Dev.DevOps: Docker** | [Youtube](https://www.youtube.com/playlist?list=PLpJNC8fNX1CRtS7SE6oB3MfZZ64RxCxa3) | Докер для початківців  |ru | |
 | **Docker - Полный курс Docker Для Начинающих** | [Youtube](https://www.youtube.com/watch?v=_uZQtRyF6Eg&t=6083s&ab_channel=BogdanStashchuk) | Гарний курс для початківців від Богдана Сташука |ru | |
 | **Docker Crash Course for Absolute Beginners** | [Youtube](https://www.youtube.com/watch?v=pg19Z8LL06w&ab_channel=TechWorldwithNana) | Docker Crash Course from TechWorld with Nana |EN | |

@@ -103,12 +103,11 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Уроки Linux для начинающих** | [Youtube](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUwVWvVitxG2oXA6a-Nq-Qq) | Гайд для початківців від Гоші Дударя  |ru | |
-| **Linux Essentials** | [Youtube](https://www.youtube.com/watch?v=IZTl2nYPRz8&list=PLmxB7JSpraidEUbmKkRn7ZlqJg6_8kE7j&ab_channel=KirillSemaev) | Підготовка віртуальної машини для роботи з Linux від Кирила Сємаєва  |ru | |
 | **Linux Essentials** | [Youtube](https://www.youtube.com/playlist?list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc) | Підготовка віртуальної машини для роботи з Linux від Кирила Сємаєва  |ru | |
 | **Hacker School Linux** | [Youtube](https://www.youtube.com/playlist?list=PL86fNax1UdKvgWOkgtm_opAYbo5kGtQ88) | Курс для початківців Linux від Hacker School  |ru | |
 | **ADV-IT Linux для Начинающих** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYuE4z-3BgLYGkZrs-cF4Tep) | Курс для початківців з Linux від ADV-IT  |ru | |
 | **ADV-IT Linux НЕ для Начинающих** | [Youtube](https://www.youtube.com/watch?v=hb1jtBm71MY&list=PLg5SS_4L6LYsgy5qLYZtvoaV34zn5iKPe&ab_channel=ADV-IT) | Курс для поглиблення знань з Linux від ADV-IT  |ru | |
-| **LPIC-1 (exam 101)** | [Youtube](https://www.youtube.com/watch?v=IZTl2nYPRz8&list=PLmxB7JSpraidEUbmKkRn7ZlqJg6_8kE7j&ab_channel=KirillSemaev) | Підготовка до екзамену LPIC-1 (exam 101) від Кирила Сємаєва  |ru | |
+| **LPIC-1 (exam 101)** | [Youtube](https://www.youtube.com/playlist?list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc) | Підготовка до екзамену LPIC-1 (exam 101) від Кирила Сємаєва  |ru | |
 | **LPIC-2 (exam 201)** | [Youtube](https://www.youtube.com/playlist?list=PLmxB7JSpraidTqByo0ihkyExIbKfAB-B9) | Підготовка до екзамену LPIC-2 (exam 201) від Кирила Сємаєва  |ru | |
 | **Into the Terminal (Red Hat Enterprise Linux)** | [Youtube](https://www.youtube.com/playlist?list=PLXJyD2dL4oqeX-C3MvsMUJuEzWM4vLK2C) | Critical Administration Skills for Red Hat Enterprise Linux  |EN | |
 

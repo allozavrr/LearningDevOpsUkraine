@@ -80,7 +80,7 @@
 
 ## Git
 
-**Матеріали для ознайомлення з системою контролю версій Git (VCS)**
+**Матеріали для ознайомлення з системою контролю версій Git (VCS).**
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
@@ -190,7 +190,7 @@
 | **Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]** | [Youtube](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana) | Big Beginners Kubernetes course  |EN | |
 | **Introduction to Kubernetes** | [edx.org](https://www.edx.org/course/introduction-to-kubernetes) | Big Kubernetes course  |EN | |
 | **Play with Kubernetes** | [labs.play-with-k8s.com](https://labs.play-with-k8s.com/) | Kubernetes stand for labs  |EN | |
-| **Kubernetes CheatSheet** | [minikube.sigs.k8s.io/](https://minikube.sigs.k8s.io/docs/commands/) | MiniCube CheatSheets  |EN | |
+| **Kubernetes CheatSheet** | [minikube.sigs.k8s.io/](https://minikube.sigs.k8s.io/docs/commands/) | MiniKube CheatSheets  |EN | |
 
 
 ## Clouds
@@ -208,7 +208,7 @@
 | **AWS** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYsxrZ_4xE_U95AtGsIB96k9) | Дуже великий курс по AWS від ADV-IT  |ru | |
 | **The Best AWS Cloud Projects To Get You Hired (For Beginners)** | [Youtube](https://www.youtube.com/watch?v=5RVT3BN9Iws&ab_channel=TechWithLucy) | 3 beginner-friendly AWS Cloud Projects you can start building today!  |EN | |
 | **A Cloud Guru - Intro to AWS** | [educative.io](https://learn.acloud.guru/course/intro-to-aws/overview) | Practical AWS course  |EN | |
-| **Udemy - AWS IAM - The easy explanation** | [educative.io](https://www.udemy.com/course/aws-iam-training/) | Understand AWS IAM concepts like Authentication, Authorization, User, Groups, Roles and Policies  |EN | |
+| **Udemy - AWS IAM - The easy explanation** | [udemy.com](https://www.udemy.com/course/aws-iam-training/) | Understand AWS IAM concepts like Authentication, Authorization, User, Groups, Roles and Policies  |EN | |
 | **101 Days of DevOps** | [101daysofdevops.com](https://www.101daysofdevops.com/courses/101-days-of-devops/) | Free course for learning AWS and Kubernetets  |EN | |
 
 ### Microsoft Azure
@@ -254,12 +254,12 @@
 | **The Last Algorithms Course You'll Need** | [frontendmasters.com](https://frontendmasters.com/courses/algorithms/) | Super fun, beginner-friendly data structures and algorithms course  |EN | |
 
 ### Go
-
+**Розділ чекає на матеріали.**
 
 
 ## Monitoring
 
-**Розділ чекає на матеріали**
+**Розділ чекає на матеріали.**
 
 
 
@@ -292,5 +292,5 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **IT English** | [Youtube](https://www.youtube.com/playlist?list=PLOlyZEVllXBHY79lqGyc4odoVON1oSMQy) | Безкоштовний курс з англійської для програмістів та QA  |EN/UA | |
-| **TECH English** | [Youtube](https://youtube.com/playlist?list=PLOwnXSCq7AoGRr7EuifDZiTAPpi9X1MER) | Ще один ,езкоштовний курс з англійської для програмістів та QA  |EN/UA | |
+| **TECH English** | [Youtube](https://youtube.com/playlist?list=PLOwnXSCq7AoGRr7EuifDZiTAPpi9X1MER) | Ще один безкоштовний курс з англійської для програмістів та QA  |EN/UA | |
 

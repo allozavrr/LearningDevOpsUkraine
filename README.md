@@ -58,6 +58,7 @@
 | **From Zero to DevOps Engineer - DevOps Roadmap for YOUR specific background** | [YouTube](https://www.youtube.com/watch?v=G_nVMUtaqCk&ab_channel=TechWorldwithNana) | Roadmap in a video  |  |
 | **Как стать DevOps Инженером с Нуля, что учить и в каком порядке** | [YouTube](https://www.youtube.com/watch?v=AxCgZ7yUKrU&list=PLg5SS_4L6LYuu1RAT4l1tCkZrJzkIaNgL&index=8&t=14s&ab_channel=ADV-IT) | Roadmap in a video  |  |
 
+
 ## Resourses
 
 **Цей розділ містить посилання на корисні ресурси для DevOps-інженерів.** 
@@ -65,7 +66,6 @@
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Ukrainian IT Communities** | [https://github.com/nikit0ns/Ukrainian_IT_Communities/tree/master#-devops](nikit0ns/Ukrainian_IT_Communities/tree/master#-devops) | Українські DevOps коммʼюніті і не тільки  |![Git Secrets](https://img.shields.io/github/stars/nikit0ns/Ukrainian_IT_Communities?style=for-the-badge) | |
-
 
 ### Youtube
 
@@ -76,6 +76,7 @@
 | **Денис Васильєв** | [Youtube](https://www.youtube.com/@DenysVasyliev) | Senior про DevOps  |UA | |
 | **Tech World with Nana** | [YouTube](https://www.youtube.com/@TechWorldwithNana) | Really needed materials about all DevOps hard-skills  |EN | |
 | **NetworkChuck** | [YouTube](https://www.youtube.com/@NetworkChuck/playlists) | CCNA, CompTIA A+, CompTIA Network+  |EN | |
+
 
 ## Git
 
@@ -94,9 +95,11 @@
 | **Конспект з Git** | [githowto](https://githowto.com/uk) | Гарно структурований конспект-задачник  |UA | |
 | **Інтерактивний тренажер з Git** | [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk) | Гарний тренажер-задачник з Git  |EN/UA | |
 
+
 ## Linux
 
 **Розділ для вдосконалення знань з Linux - для новачків та не тільки.**
+
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Уроки Linux для начинающих** | [Youtube](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUwVWvVitxG2oXA6a-Nq-Qq) | Гайд для початківців від Гоші Дударя  |ru | |
@@ -109,9 +112,10 @@
 | **LPIC-2 (exam 201)** | [Youtube](https://www.youtube.com/playlist?list=PLmxB7JSpraidTqByo0ihkyExIbKfAB-B9) | Підготовка до екзамену LPIC-2 (exam 201) від Кирила Сємаєва  |ru | |
 | **Into the Terminal (Red Hat Enterprise Linux)** | [Youtube](https://www.youtube.com/playlist?list=PLXJyD2dL4oqeX-C3MvsMUJuEzWM4vLK2C) | Critical Administration Skills for Red Hat Enterprise Linux  |EN | |
 
+
 ## Networking
 
-**Розділ для вивчення та повторення компʼютерних мереж**
+**Розділ для вивчення та повторення компʼютерних мереж.**
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
@@ -129,7 +133,7 @@
 
 ## CI/CD
 
-**CI/CD та які тулзи у ньому використовуються**
+**CI/CD та які тулзи у ньому використовуються.**
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
@@ -156,23 +160,26 @@
 
 ## Infrastructure as code
 
-
+**Розділ для тих, хто  починає працювати з інструментами для Infrastructure as Code.**
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Terraform** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYujWDTYb-Zbofdl44Jxb2l8) | Terraform доступно від ADV-IT  |ru | |
 | **Terraform - From Zero to Certified Professional** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYsUzsBeN8rPe1EoqKWhMlnF) | Terraform - From Zero to Certified Professional від ADV-IT  |EN | |
 
+
 ## Containerization
+
+**Розділ з лінками на ресурси по контейнеризації та оркеструанню.**
 
 ### Docker
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
+| *Контейнеризація та основи роботи з Docker** | [Youtube](https://www.youtube.com/watch?v=O0pTOjWlKbc&ab_channel=Bobocode) | Докер все-в-одному відео  |UA | |
 | **Dev.DevOps: Docker** | [Youtube](https://www.youtube.com/playlist?list=PLpJNC8fNX1CRtS7SE6oB3MfZZ64RxCxa3) | Докер для початківців  |ru | |
 | **Docker - Полный курс Docker Для Начинающих** | [Youtube](https://www.youtube.com/watch?v=_uZQtRyF6Eg&t=6083s&ab_channel=BogdanStashchuk) | Гарний курс для початківців від Богдана Сташука |ru | |
 | **Docker Crash Course for Absolute Beginners** | [Youtube](https://www.youtube.com/watch?v=pg19Z8LL06w&ab_channel=TechWorldwithNana) | Docker Crash Course from TechWorld with Nana |EN | |
-
 
 ### Kubernetes
 
@@ -187,6 +194,8 @@
 
 
 ## Clouds
+
+**Розділ для вивчення хмарних середовищ і де їх шукати.**
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
@@ -208,7 +217,6 @@
 | **Getting Started with Cloud Computing using Microsoft Azure [Free Udemy]** | [Udemy](https://www.udemy.com/course/cloud-computing-using-microsoft-azure) | Free course for learning Microsoft Azure  |EN | |
 | **Getting Started with Azure [Coursera Free Course]** | [Coursera](https://dev.to/javinpaul/7-free-courses-to-learn-microsoft-azure-cloud-platform-bg4) | Coursera course to learn the basics of the Microsoft Azure platform online |EN | |
 
-
 ### Google Cloud Platform
 
 | Name | URL | Description | Language | 
@@ -217,6 +225,8 @@
 
 
 ## Programming and Scripting
+
+**Розділ для вивчення програмування та автоматизації всього, що рухається.**
 
 ### Bash
 
@@ -249,8 +259,13 @@
 
 ## Monitoring
 
+**Розділ чекає на матеріали**
+
+
 
 ## DevSecOps
+
+**Розділ з вивчення побудови безпечного CI/CD.**
 
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
@@ -260,6 +275,8 @@
 
 ## Interview
 
+**Самопідготовка та селф-чекінг.**
+
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Девопс и Поиск Работы в IT** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYuu1RAT4l1tCkZrJzkIaNgL) | Плейлист з порадами з проходження інтервʼю від ADV-IT  |ru | |
@@ -267,7 +284,10 @@
 | **Співбесіда з DevOps. 300+ запитань для Junior, Middle, Senior** | [dou.ua](https://dou.ua/lenta/articles/interview-devops/) | Великий матеріал з питаннями для самопідготовки  |UA | |
 | **Preparing for a DevOps Engineer Interview: A Comprehensive Guide** | [dev.to](https://dev.to/tutunak/preparing-for-a-devops-engineer-interview-a-comprehensive-guide-26n4) | Really useful manual for a DevOps Engineer Interview  |EN | |
 
+
 ## English 
+
+**London is the capital of Great Britain**
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |

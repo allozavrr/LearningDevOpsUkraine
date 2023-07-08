@@ -17,7 +17,7 @@
 
 - **[Roadmaps](#roadmaps)**
 - **[Resouses](#resourses)**
-   - **[Courses](#courses)
+   - **[Courses](#courses)**
    - **[Youtube](#youtube)**
 - **[Git](#git)**
 - **[Linux](#linux)**

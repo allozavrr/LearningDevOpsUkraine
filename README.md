@@ -81,7 +81,7 @@
 | **ITSkills4U** | [itskills4u.com.ua](https://itskills4u.com.ua/) | FREE! Developed by AWS, the program includes AWS Cloud training programs and certification, English and Polish language classes, mentorship, and access to job opportunities  |EN | |
 | **StanfordOnline** | [edx.org](https://www.edx.org/school/stanfordonline?irclickid=WNB0XoxkWxyPRWhxQeRIaxGNUkF2qCQE-0kN1U0) | FREE! online courses from Stanford University  |EN | |
 | **A Cloud Guru** | [acloud.guru](https://acloud.guru/) | Paid online courses from A Cloud Guru  |EN | |
-| **KodeKloud** | [acloud.guru](https://kodekloud.com/) | Paid online courses from KodeKloud  |EN | |
+| **KodeKloud** | [kodekloud.com](https://kodekloud.com/) | Paid online courses from KodeKloud  |EN | |
 
 
 ### Youtube

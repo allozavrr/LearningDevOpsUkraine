@@ -55,7 +55,7 @@
 | **Another DevOps Roadmap** | [https://github.com/milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) | Another detailed DevOps roadmap  |![Git Secrets](https://img.shields.io/github/stars/milanm/DevOps-Roadmap?style=for-the-badge)  |  
 | **DevOps-Roadmap** | [https://github.com/devopshobbies/devops-roadmap](https://github.com/devopshobbies/devops-roadmap) |  DevOps Roadmap by Ahmadali Bagheri (free resourses included)   |![Git Secrets](https://img.shields.io/github/stars/devopshobbies/devops-roadmap?style=for-the-badge) |
 | **Become A DevOps Engineer in 2023** | [devopscube.com](https://devopscube.com/become-devops-engineerhttps://devopscube.com/become-devops-engineer) | Simple and nice roadmap  | |
-| **DevOps Roadmap** | [roadmap.sh/devops](https://roadmap.sh/devops) | Step by step guide for DevOps, SRE or any other Operations Role in 2023  | |
+| **DevOps Roadmap** | [roadmap.sh](https://roadmap.sh/devops) | Step by step guide for DevOps, SRE or any other Operations Role in 2023  | |
 | **DevOps Roadmap** | [techworld-with-nana.com](https://www.techworld-with-nana.com/devops-roadmap) | Step by step guide outlining the most efficient path to become a DevOps engineer by TechWorld with Nana  | |
 | **Learn to Cloud** | [learntocloud.guide](https://learntocloud.guide/docs/Welcome) | Skills you need to learn to get into Cloud Computing  |  |
 | **From Zero to DevOps Engineer - DevOps Roadmap for YOUR specific background** | [YouTube](https://www.youtube.com/watch?v=G_nVMUtaqCk&ab_channel=TechWorldwithNana) | Roadmap in a video  |  |

@@ -288,7 +288,7 @@
 | **Even More Python for Beginners: Data Tools** | [Youtube](https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj) | Python for Beginners from Microsoft Developer p.3  |EN | |
 | **The Last Algorithms Course You'll Need** | [frontendmasters.com](https://frontendmasters.com/courses/algorithms/) | Super fun, beginner-friendly data structures and algorithms course  |EN | |
 | **"Поколение Python": курс для начинающих** | [stepik.org](https://stepik.org/course/58852) | Курс-тренажер, допомагає вивчити Python на практиці  |ru | |
-| **Futurecoder** | [frontendmasters.com](https://futurecoder.io/course/#toc) | Interactive Python training course  |EN | |
+| **Futurecoder** | [futurecoder.io](https://futurecoder.io/course/#toc) | Interactive Python training course  |EN | |
 
 ### Go
 **Розділ чекає на матеріали.**

@@ -280,11 +280,14 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **ADV-IT Python для Начинающих** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYtHCActBzbuGVYlWpLYqXC6) | Курс для знайомства з Python від ADV-IT  |ru | |
 | **ADV-IT Python для НЕ Начинающих** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYt7Wmh8zBKjZ_ltaoDXSEmk) | Курс для продовження вивчення Python від ADV-IT  |ru | |
+| **Python Hub Studio** | [Youtube](https://www.youtube.com/@PythonHubStudio/playlists) | Непогані відео по Python та ООП  |ru | |
 | **Алгоритмы и структуры данных на Python 3** | [Youtube](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0) | Гарний курс по алгоритмам від Тимофія Хірʼянова  |ru | |
 | **Python for Beginners** | [Youtube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) | Python for Beginners from Microsoft Developer  |EN | |
 | **More Python for Beginners** | [Youtube](https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj) | Python for Beginners from Microsoft Developer p.2  |EN | |
 | **Even More Python for Beginners: Data Tools** | [Youtube](https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj) | Python for Beginners from Microsoft Developer p.3  |EN | |
 | **The Last Algorithms Course You'll Need** | [frontendmasters.com](https://frontendmasters.com/courses/algorithms/) | Super fun, beginner-friendly data structures and algorithms course  |EN | |
+| **"Поколение Python": курс для начинающих** | [stepik.org](https://stepik.org/course/58852) | Курс-тренажер, допомагає вивчити Python на практиці  |ru | |
+| **Futurecoder** | [frontendmasters.com](https://futurecoder.io/course/#toc) | Interactive Python training course  |EN | |
 
 ### Go
 **Розділ чекає на матеріали.**

@@ -78,7 +78,8 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Ресурси для вивчення DevOps-теми** | [dou.ua](https://dou.ua/forums/topic/42056/?from=similar_topics) | Підбірка ресурсів для вивчення DevOps від DOU  |UA | |
-| **StanfordOnline** | [edx.org](https://www.edx.org/school/stanfordonline?irclickid=WNB0XoxkWxyPRWhxQeRIaxGNUkF2qCQE-0kN1U0) | Free online courses from Stanford University  |EN | |
+| **ITSkills4U** | [itskills4u.com.ua](https://itskills4u.com.ua/) | FREE! Developed by AWS, the program includes AWS Cloud training programs and certification, English and Polish language classes, mentorship, and access to job opportunities  |EN | |
+| **StanfordOnline** | [edx.org](https://www.edx.org/school/stanfordonline?irclickid=WNB0XoxkWxyPRWhxQeRIaxGNUkF2qCQE-0kN1U0) | FREE! online courses from Stanford University  |EN | |
 | **A Cloud Guru** | [acloud.guru](https://acloud.guru/) | Paid online courses from A Cloud Guru  |EN | |
 | **KodeKloud** | [acloud.guru](https://kodekloud.com/) | Paid online courses from KodeKloud  |EN | |
 

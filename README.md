@@ -82,6 +82,7 @@
 | **StanfordOnline** | [edx.org](https://www.edx.org/school/stanfordonline?irclickid=WNB0XoxkWxyPRWhxQeRIaxGNUkF2qCQE-0kN1U0) | FREE! online courses from Stanford University  |EN | |
 | **A Cloud Guru** | [acloud.guru](https://acloud.guru/) | Paid online courses from A Cloud Guru  |EN | |
 | **KodeKloud** | [kodekloud.com](https://kodekloud.com/) | Paid online courses from KodeKloud  |EN | |
+| **CBT Nuggets** | [cbtnuggets.com](https://www.cbtnuggets.com/) | Paid online courses from CBT Nuggets - a lot of trainings  |EN | |
 
 
 ### Youtube

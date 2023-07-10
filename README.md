@@ -289,10 +289,13 @@
 | **The Last Algorithms Course You'll Need** | [frontendmasters.com](https://frontendmasters.com/courses/algorithms/) | Super fun, beginner-friendly data structures and algorithms course  |EN | |
 | **"Поколение Python": курс для начинающих** | [stepik.org](https://stepik.org/course/58852) | Курс-тренажер, допомагає вивчити Python на практиці  |ru | |
 | **Futurecoder** | [futurecoder.io](https://futurecoder.io/course/#toc) | Interactive Python training course  |EN | |
+| **Python від NIX Education** | [education.nixsolutions.com](https://education.nixsolutions.com/course/view.php?id=16) | Безкоштовний курс по Python від NIX Solutions  |UA/EN | |
+
 
 ### Go
-**Розділ чекає на матеріали.**
-
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Golang від NIX Education** | [education.nixsolutions.com](https://education.nixsolutions.com/course/view.php?id=12) | Безкоштовний курс по Go від NIX Solutions  |UA/EN | |
 
 
 ## Monitoring

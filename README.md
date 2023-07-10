@@ -282,6 +282,8 @@
 | **ADV-IT Python для Начинающих** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYtHCActBzbuGVYlWpLYqXC6) | Курс для знайомства з Python від ADV-IT  |ru | |
 | **ADV-IT Python для НЕ Начинающих** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYt7Wmh8zBKjZ_ltaoDXSEmk) | Курс для продовження вивчення Python від ADV-IT  |ru | |
 | **Python Hub Studio** | [Youtube](https://www.youtube.com/@PythonHubStudio/playlists) | Непогані відео по Python та ООП  |ru | |
+| **Python. Уровень 1. Базовый курс** | [Youtube](https://www.youtube.com/playlist?list=PLW-WSOmS5ONK3FQiV1XCmT24UtKuEYZ1j) | Добре структурований курс по основам Python   |ru | |
+| **Python для сетевых инженеров** | [Youtube](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY) | Дeуже корисний великий курс    |ru | |
 | **Алгоритмы и структуры данных на Python 3** | [Youtube](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0) | Гарний курс по алгоритмам від Тимофія Хірʼянова  |ru | |
 | **Python for Beginners** | [Youtube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) | Python for Beginners from Microsoft Developer  |EN | |
 | **More Python for Beginners** | [Youtube](https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj) | Python for Beginners from Microsoft Developer p.2  |EN | |

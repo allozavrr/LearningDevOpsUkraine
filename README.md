@@ -76,8 +76,8 @@
 ### Computer Science Guide
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
-| *TeachYourselfCS-UK** | [https://github.com/oleksbabieiev/TeachYourselfCS-UK/](hhttps://github.com/oleksbabieiev/TeachYourselfCS-UK/blob/master/TeachYourselfCS-UK.md) | Збірник-посібник для самостійного фундаментального вивчення компʼютерних наук  |![Git Secrets](https://img.shields.io/github/stars/oleksbabieiev/TeachYourselfCS-UK?style=for-the-badge) | |
-| *TeachYourselfCS-UK** | [https://github.com/ossu/computer-science](https://github.com/ossu/computer-science) | The same in English  |![Git Secrets](https://img.shields.io/github/stars/ossu/computer-science?style=for-the-badge) | |
+| **TeachYourselfCS-UK** | [https://github.com/oleksbabieiev/TeachYourselfCS-UK/](https://github.com/oleksbabieiev/TeachYourselfCS-UK/) | Збірник-посібник для самостійного фундаментального вивчення компʼютерних наук  |![Git Secrets](https://img.shields.io/github/stars/oleksbabieiev/TeachYourselfCS-UK?style=for-the-badge) | |
+| **TeachYourselfCS-EN** | [https://github.com/ossu/computer-science](https://github.com/ossu/computer-science) | The same in English  |![Git Secrets](https://img.shields.io/github/stars/ossu/computer-science?style=for-the-badge) | |
 
 ### Courses
 

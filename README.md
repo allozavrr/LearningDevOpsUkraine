@@ -39,6 +39,7 @@
    - **[Powershell](#powershell)**
    - **[Python](#python)**
    - **[Go](#go)**
+   - **[Rust](#rust)**
 - **[Monitoring](#monitoring)**
 - **[DevSecOps](#devsecops)**
 - **[Interview](#interview)**
@@ -294,15 +295,19 @@
 | **Futurecoder** | [futurecoder.io](https://futurecoder.io/course/#toc) | Interactive Python training course  |EN | |
 | **Python від NIX Education** | [education.nixsolutions.com](https://education.nixsolutions.com/course/view.php?id=16) | Безкоштовний курс по Python від NIX Solutions  |UA/EN | |
 
-
 ### Go
 | Name | URL | Description | Language | 
-| :---------- | :---------- | :---------- | :----------: |
 | :---------- | :---------- | :---------- | :----------: |
 | **Изучаем Golang** | [Youtube](https://www.youtube.com/playlist?list=PLc2Vkg57qmuRNHp6NNvYRVgg3OP-b5E_v) | Курс по Go для новачків  |ru | |
 | **Изучаем Go** | [Youtube](https://www.youtube.com/playlist?list=PLQuaNOtBP3TpjiROGjy3-hEr5xL0fN9bX) | Додатковий міні-курс по Go з конкретними прикладами  |ru | |
 | **Разработка & Язык Go** | [Youtube](https://www.youtube.com/playlist?list=PLbTTxxr-hMmxZMXsvaE-PozXxktdJ5zLR) | Курс по Go від Максима Жашкевича  |ru | |
 | **Golang від NIX Education** | [education.nixsolutions.com](https://education.nixsolutions.com/course/view.php?id=12) | Безкоштовний курс по Go від NIX Solutions  |UA/EN | |
+
+### Rust
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Rust - язык программирования с нуля** | [Youtube](https://www.youtube.com/playlist?list=PLQuaNOtBP3Tps9JrGMs76d_YbOGygrLUJ) | Курс по Rust для новачків  |ru | |
+
 
 
 ## Monitoring

@@ -84,6 +84,7 @@
 | **A Cloud Guru** | [acloud.guru](https://acloud.guru/) | Paid online courses from A Cloud Guru  |EN | |
 | **KodeKloud** | [kodekloud.com](https://kodekloud.com/) | Paid online courses from KodeKloud  |EN | |
 | **CBT Nuggets** | [cbtnuggets.com](https://www.cbtnuggets.com/) | Paid online courses from CBT Nuggets - a lot of trainings  |EN | |
+| **Educative Accelerates Developer Productivity** | [educative.io](https://www.educative.io/) | Paid online courses on programming, cloud computing, data Science, machine Learning (no video, only practice)  |EN | |
 
 
 ### Youtube

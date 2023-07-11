@@ -17,6 +17,7 @@
 
 - **[Roadmaps](#roadmaps)**
 - **[Resouses](#resourses)**
+   - **[Computer Science Guide](#computer-science-guide)**
    - **[Courses](#courses)**
    - **[Youtube](#youtube)**
 - **[Git](#git)**
@@ -71,6 +72,12 @@
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Ukrainian IT Communities** | [https://github.com/nikit0ns/Ukrainian_IT_Communities#-devops](https://github.com/nikit0ns/Ukrainian_IT_Communities#-devops) | Українські DevOps коммʼюніті і не тільки  |![Git Secrets](https://img.shields.io/github/stars/nikit0ns/Ukrainian_IT_Communities?style=for-the-badge) | |
+
+### Computer Science Guide
+| Name | URL | Description | Meta | 
+| :---------- | :---------- | :---------- | :----------: |
+| *TeachYourselfCS-UK** | [https://github.com/oleksbabieiev/TeachYourselfCS-UK/](hhttps://github.com/oleksbabieiev/TeachYourselfCS-UK/blob/master/TeachYourselfCS-UK.md) | Збірник-посібник для самостійного фундаментального вивчення компʼютерних наук  |![Git Secrets](https://img.shields.io/github/stars/oleksbabieiev/TeachYourselfCS-UK?style=for-the-badge) | |
+| *TeachYourselfCS-UK** | [https://github.com/ossu/computer-science](https://github.com/ossu/computer-science) | The same in English  |![Git Secrets](https://img.shields.io/github/stars/ossu/computer-science?style=for-the-badge) | |
 
 ### Courses
 

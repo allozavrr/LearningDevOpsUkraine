@@ -96,6 +96,7 @@
 | **DataArt Online** | [Youtube](https://www.youtube.com/playlist?list=PLU6_HdJGVDx93bE8cb3gpwRzJX57C1wvt) | Плейлист про DevOps від DataArt Online  |UA | |
 | **Tech World with Nana** | [YouTube](https://www.youtube.com/@TechWorldwithNana) | Really needed materials about all DevOps hard-skills  |EN | |
 | **NetworkChuck** | [YouTube](https://www.youtube.com/@NetworkChuck/playlists) | CCNA, CompTIA A+, CompTIA Network+  |EN | |
+| **DevOpsLearnEasy** | [YouTube](https://www.youtube.com/@DevOpsLearnEasy/videos) | Not just any course but a training that explains concepts from the absolute basics to the complex ones  |EN | |
 
 
 
@@ -206,6 +207,7 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **Контейнеризація та основи роботи з Docker** | [Youtube](https://www.youtube.com/watch?v=O0pTOjWlKbc&ab_channel=Bobocode) | Докер все-в-одному відео  |UA | |
 | **Dev.DevOps: Docker** | [Youtube](https://www.youtube.com/playlist?list=PLpJNC8fNX1CRtS7SE6oB3MfZZ64RxCxa3) | Докер для початківців  |ru | |
+| **Docker контейнеризация оркестрация контейнеров** | [Youtube](https://www.youtube.com/playlist?list=PLQuaNOtBP3TrePxRFjV4g4_fb9Tdol0DP) | Розгляди цікавих питань по Docker  |ru | |
 | **Docker - Всё что нужно знать чтобы начать работать с Docker, все основы в одном уроке** | [Youtube](https://www.youtube.com/watch?v=I18TNwZ2Nqg&ab_channel=ADV-IT) | Docker доступно від ADV-IT  |ru | |
 | **Docker - Полный курс Docker Для Начинающих** | [Youtube](https://www.youtube.com/watch?v=_uZQtRyF6Eg&t=6083s&ab_channel=BogdanStashchuk) | Гарний курс для початківців від Богдана Сташука |ru | |
 | **Docker Crash Course for Absolute Beginners** | [Youtube](https://www.youtube.com/watch?v=pg19Z8LL06w&ab_channel=TechWorldwithNana) | Docker Crash Course from TechWorld with Nana |EN | |
@@ -215,6 +217,7 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Kubernetes Roadmap** | [roadmap.sh](https://roadmap.sh/kubernetes) | Kubernetes Roadmap  |EN | |
+| **Kubernetes и его кубики** | [Youtube](https://www.youtube.com/watch?v=hzY1ny6umVA&ab_channel=OTUS%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) | Базове відео по Kubernetes  |ru | |
 | **Kubernetes** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi) | Kubernetes від ADV-IT  |ru | |
 | **Открытая вечерняя школа. Kubernetes для разработчиков** | [Youtube](https://www.youtube.com/playlist?list=PL8D2P0ruohOBSA_CDqJLflJ8FLJNe26K-) | Корисний великий плейлист для початківців  |ru | |
 | **Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]** | [Youtube](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana) | Big Beginners Kubernetes course  |EN | |
@@ -311,8 +314,15 @@
 
 
 ## Monitoring
-
-**Розділ чекає на матеріали.**
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **DevOps monitoring** | [Youtube](https://www.youtube.com/playlist?list=PLBA2E_jkENLM711AP3zA1ybSVdZOOIB2H) | Курс по Grafana  |ru | |
+| **Prometheus: быстрый старт** | [Youtube](https://www.youtube.com/watch?v=Fj2ifSWuPJc&ab_channel=OTUS%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) | Базове введення у Prometheus  |ru | |
+| **Мониторинг кластера Kubernetes. Вечерняя школа Слёрма по Kubernetes** | [Youtube](https://www.youtube.com/watch?v=nkmP0-EDb1A&ab_channel=%D0%A1%D0%BB%D1%91%D1%80%D0%BC) | Відео з прикладами Prometheus+Grafana  |ru | |
+| **Сбор метрик Spring Boot приложения Prometheus + Grafana** | [Youtube](https://www.youtube.com/watch?v=cOncBTpFQW8&ab_channel=kirya522-dev) | Відео з прикладами Prometheus+Grafana  |ru | |
+| **Prometheus и PromQL — основы сбора метрик** | [Youtube](https://www.youtube.com/watch?v=WQmpeOvCCUY&ab_channel=RomanKunin) | Велике відео з прикладами Prometheus+PromQL  |ru | |
+| **Prometheus + Grafana. Настраиваем 4 golden signals** | [Youtube](https://www.youtube.com/watch?v=Q_fKb0nrfCg&ab_channel=%D0%A1%D0%BB%D1%91%D1%80%D0%BC) | Опис базових підходів до моніторингу (RED, USE, 4 golden signals)  |ru | |
+| **Организация мониторинга с помощью Grafana stack** | [Youtube](https://www.youtube.com/watch?v=cNXdock8RhY&ab_channel=OTUS%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) | Сетап Loki та Tempo. Визуалізація логів і трейсів у Grafana  |ru | |
 
 
 

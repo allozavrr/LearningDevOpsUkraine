@@ -104,6 +104,7 @@
 | **DataArt Online** | [Youtube](https://www.youtube.com/playlist?list=PLU6_HdJGVDx93bE8cb3gpwRzJX57C1wvt) | Плейлист про DevOps від DataArt Online  |UA | |
 | **Tech World with Nana** | [YouTube](https://www.youtube.com/@TechWorldwithNana) | Really needed materials about all DevOps hard-skills  |EN | |
 | **NetworkChuck** | [YouTube](https://www.youtube.com/@NetworkChuck/playlists) | CCNA, CompTIA A+, CompTIA Network+  |EN | |
+| **Just me and Opensource** | [YouTube](https://www.youtube.com/@justmeandopensource/playlists) | A lot of trainings of DevOps tools, nice and full Kubernetes guide  |EN | |
 | **DevOpsLearnEasy** | [YouTube](https://www.youtube.com/@DevOpsLearnEasy/videos) | Not just any course but a training that explains concepts from the absolute basics to the complex ones  |EN | |
 
 
@@ -268,6 +269,7 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **Professional Cloud DevOps Engineer Certification** | [Google Cloud](https://cloud.google.com/learn/certification/cloud-devops-engineer) | Google Cloud Certification  |EN | |
 | **Google Cloud** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H) | Курс по Google Cloud Platform ADV-IT  |ru | |
+| **Google Cloud Platform for Beginners** | [Youtube](https://www.youtube.com/playlist?list=PL34sAs7_26wM4ETdsdrRrO1euoUtO4jF6) | Beginners tutorial on Google Cloud Platform  |EN | |
 
 
 

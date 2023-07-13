@@ -11,7 +11,11 @@
 
 **[Never give up!](https://www.youtube.com/watch?v=GC5E8ie2pdM&ab_channel=TinaTurner)**
 
-![alt text](https://github.com/allozavrr/Screenshots/blob/main/DevopsBurgerImg.png "Taste IT!" align="center") 
+<details>
+   <summary><b>Taste IT!</b> </summary>
+    
+    ![alt text](https://github.com/allozavrr/Screenshots/blob/main/DevopsBurger.png "Taste IT!")
+</details>    
 
 
 # Table of Contents

@@ -14,7 +14,7 @@
 <details>
    <summary><b>Taste IT!</b> </summary>
     
-    ![alt text](https://github.com/allozavrr/Screenshots/blob/main/DevopsBurger.png "Taste IT!")
+   ![alt text](https://github.com/allozavrr/Screenshots/blob/main/DevopsBurger.png "Taste IT!")
 </details>    
 
 

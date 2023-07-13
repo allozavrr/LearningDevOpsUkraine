@@ -11,7 +11,7 @@
 
 **[Never give up!](https://www.youtube.com/watch?v=GC5E8ie2pdM&ab_channel=TinaTurner)**
 
-![alt text](https://github.com/allozavrr/Screenshots/blob/main/DevopsBurger.png "Bon appetit!" width="745" height="980")
+![Bon appetit!](https://github.com/allozavrr/Screenshots/blob/main/DevopsBurger.png =745x980)
 
 
 # Table of Contents

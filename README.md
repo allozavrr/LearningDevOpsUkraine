@@ -95,6 +95,7 @@
 | **StanfordOnline** | [edx.org](https://www.edx.org/school/stanfordonline?irclickid=WNB0XoxkWxyPRWhxQeRIaxGNUkF2qCQE-0kN1U0) | FREE! online courses from Stanford University  |EN | |
 | **A Cloud Guru** | [acloud.guru](https://acloud.guru/) | Paid online courses from A Cloud Guru  |EN | |
 | **KodeKloud** | [kodekloud.com](https://kodekloud.com/) | Paid online courses from KodeKloud  |EN | |
+| **O’Reilly** | [oreilly.com](https://www.oreilly.com/) | Paid online courses from O’Reilly  |EN | |
 | **CBT Nuggets** | [cbtnuggets.com](https://www.cbtnuggets.com/) | Paid online courses from CBT Nuggets - a lot of trainings  |EN | |
 | **Educative Accelerates Developer Productivity** | [educative.io](https://www.educative.io/) | Paid online courses on programming, cloud computing, data Science, machine Learning (no video, only practice)  |EN | |
 
@@ -166,7 +167,7 @@
 | **Computer Networks Neso Academy** | [Youtube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx) | Fundamental Network course  |EN | |
 | **Cisco Networking Academy - Networking Basics** | [skillsforall.com](https://skillsforall.com/course/networking-basics?courseLang=en-US) | Basic Network course  |EN | |
 | **Network Fundamentals Course** | [educative.io](https://www.educative.io/module/An5VrvSlLQN6R6N8y/10370001/4813190514343936) | Practical Network course  |EN | |
-
+| **Free CCNA Course – the most complete guide** | [ictshore.com](https://www.ictshore.com/free-ccna-course-start/) | Complete CCNA guide (text)  |EN | |
 
 
 ## CI/CD
@@ -320,6 +321,7 @@
 | **Изучаем Go** | [Youtube](https://www.youtube.com/playlist?list=PLQuaNOtBP3TpjiROGjy3-hEr5xL0fN9bX) | Додатковий міні-курс по Go з конкретними прикладами  |ru | |
 | **Разработка & Язык Go** | [Youtube](https://www.youtube.com/playlist?list=PLbTTxxr-hMmxZMXsvaE-PozXxktdJ5zLR) | Курс по Go від Максима Жашкевича  |ru | |
 | **Golang від NIX Education** | [education.nixsolutions.com](https://education.nixsolutions.com/course/view.php?id=12) | Безкоштовний курс по Go від NIX Solutions  |UA/EN | |
+| **A Tour of Go ** | [go.dev](https://go.dev/tour/welcome/1) | Practical self-studying GO course  |EN | |
 
 ### Rust
 | Name | URL | Description | Language | 

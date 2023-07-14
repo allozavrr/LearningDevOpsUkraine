@@ -321,7 +321,7 @@
 | **Изучаем Go** | [Youtube](https://www.youtube.com/playlist?list=PLQuaNOtBP3TpjiROGjy3-hEr5xL0fN9bX) | Додатковий міні-курс по Go з конкретними прикладами  |ru | |
 | **Разработка & Язык Go** | [Youtube](https://www.youtube.com/playlist?list=PLbTTxxr-hMmxZMXsvaE-PozXxktdJ5zLR) | Курс по Go від Максима Жашкевича  |ru | |
 | **Golang від NIX Education** | [education.nixsolutions.com](https://education.nixsolutions.com/course/view.php?id=12) | Безкоштовний курс по Go від NIX Solutions  |UA/EN | |
-| **A Tour of Go ** | [go.dev](https://go.dev/tour/welcome/1) | Practical self-studying GO course  |EN | |
+| **A Tour of Go** | [go.dev](https://go.dev/tour/welcome/1) | Practical self-studying GO course  |EN | |
 
 ### Rust
 | Name | URL | Description | Language | 

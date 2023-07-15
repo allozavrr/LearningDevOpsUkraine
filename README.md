@@ -83,7 +83,7 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **TeachYourselfCS-UK** | [https://github.com/oleksbabieiev/TeachYourselfCS-UK/](https://github.com/oleksbabieiev/TeachYourselfCS-UK/) | Збірник-посібник для самостійного фундаментального вивчення компʼютерних наук  |![Git Secrets](https://img.shields.io/github/stars/oleksbabieiev/TeachYourselfCS-UK?style=for-the-badge) | |
 | **TeachYourselfCS-EN** | [https://github.com/ossu/computer-science](https://github.com/ossu/computer-science) | The same in English  |![Git Secrets](https://img.shields.io/github/stars/ossu/computer-science?style=for-the-badge) | |
-| **CS50** | [YouTube](https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5) | Основы программирования: Легендарный Гарвардский курс CS50  |ru | |
+| **CS50** | [YouTube](https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5) | Основы программирования: Легендарный Гарвардский курс CS50 (2015 - old but gold)  |ru | |
 
 ### Courses
 

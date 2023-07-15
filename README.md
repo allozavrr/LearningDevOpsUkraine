@@ -83,6 +83,7 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **TeachYourselfCS-UK** | [https://github.com/oleksbabieiev/TeachYourselfCS-UK/](https://github.com/oleksbabieiev/TeachYourselfCS-UK/) | Збірник-посібник для самостійного фундаментального вивчення компʼютерних наук  |![Git Secrets](https://img.shields.io/github/stars/oleksbabieiev/TeachYourselfCS-UK?style=for-the-badge) | |
 | **TeachYourselfCS-EN** | [https://github.com/ossu/computer-science](https://github.com/ossu/computer-science) | The same in English  |![Git Secrets](https://img.shields.io/github/stars/ossu/computer-science?style=for-the-badge) | |
+| **CS50** | [YouTube](https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5) | Основы программирования: Легендарный Гарвардский курс CS50  |ru | |
 
 ### Courses
 
@@ -170,6 +171,7 @@
 | **Free CCNA Course – the most complete guide** | [ictshore.com](https://www.ictshore.com/free-ccna-course-start/) | Complete CCNA guide (text)  |EN | |
 
 
+
 ## CI/CD
 
 **CI/CD та які тулзи у ньому використовуються.**
@@ -187,6 +189,7 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Ansible** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N) | Курс з Ansible від ADV-IT  |ru | |
+| **Ansible 101** | [Youtube](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN) | Ansible 101 introduces Ansible for Linux server administration by Jeff Geerling  |EN | |
 
 ### Jenkins
 
@@ -226,6 +229,7 @@
 | **Docker - Всё что нужно знать чтобы начать работать с Docker, все основы в одном уроке** | [Youtube](https://www.youtube.com/watch?v=I18TNwZ2Nqg&ab_channel=ADV-IT) | Docker доступно від ADV-IT  |ru | |
 | **Docker - Полный курс Docker Для Начинающих** | [Youtube](https://www.youtube.com/watch?v=_uZQtRyF6Eg&t=6083s&ab_channel=BogdanStashchuk) | Гарний курс для початківців від Богдана Сташука |ru | |
 | **Docker Crash Course for Absolute Beginners** | [Youtube](https://www.youtube.com/watch?v=pg19Z8LL06w&ab_channel=TechWorldwithNana) | Docker Crash Course from TechWorld with Nana |EN | |
+| **Play with Docker Classroom** | [training.play-with-docker.com](https://training.play-with-docker.com/) | Mix of labs and tutorials that will help Docker users, including SysAdmins, IT Pros, and Developers |EN | |
 
 ### Kubernetes
 
@@ -234,6 +238,7 @@
 | **Kubernetes Roadmap** | [roadmap.sh](https://roadmap.sh/kubernetes) | Kubernetes Roadmap  |EN | |
 | **Kubernetes и его кубики** | [Youtube](https://www.youtube.com/watch?v=hzY1ny6umVA&ab_channel=OTUS%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) | Базове відео по Kubernetes  |ru | |
 | **Kubernetes** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi) | Kubernetes від ADV-IT  |ru | |
+| **Kubernetes Уроки** | [Youtube](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ) | Лист з уроками для початківців  |ru | |
 | **Открытая вечерняя школа. Kubernetes для разработчиков** | [Youtube](https://www.youtube.com/playlist?list=PL8D2P0ruohOBSA_CDqJLflJ8FLJNe26K-) | Корисний великий плейлист для початківців  |ru | |
 | **Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]** | [Youtube](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana) | Big Beginners Kubernetes course  |EN | |
 | **Introduction to Kubernetes** | [edx.org](https://www.edx.org/course/introduction-to-kubernetes) | Big Kubernetes course  |EN | |
@@ -289,6 +294,7 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **Bash Scripting Full Course 3 Hours** | [Youtube](https://www.youtube.com/watch?v=e7BufAVwDiM&ab_channel=linuxhint) | Bash Boot Camp Course  |EN | |
 | **Course: Beginners Guide to the Terminal (Bash)** | [Youtube](https://www.youtube.com/playlist?list=PLYQSCk-qyTW0d88jNocdi_YIFMA5Fnpug) | Big Bash Scripting Course  |EN | |
+| **Bash Scripting Tutorial** | [ryanstutorials.net](https://ryanstutorials.net/bash-scripting-tutorial/) | Big Bash Scripting Practical Tutorial  |EN | |
 
 ### Powershell
 
@@ -351,6 +357,7 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **Ultimate DevSecOps library** | [https://github.com/sberdachuk-epam/DevSecOps](https://github.com/sberdachuk-epam/DevSecOps) | Ultimate DevSecOps library  |![Git Secrets](https://img.shields.io/github/stars/sberdachuk-epam/DevSecOps?style=for-the-badge) |
 | **DevSecOps Roadmap** | [https://github.com/hahwul/DevSecOps](https://github.com/hahwul/DevSecOps) | Ultimate DevSecOps library  |![Git Secrets](https://img.shields.io/github/stars/hahwul/DevSecOps?style=for-the-badge) |
+| **Hack The Box** | [hackthebox.com](https://www.hackthebox.com/) | The #1 cybersecurity upskilling platform  |EN | |
 
 
 

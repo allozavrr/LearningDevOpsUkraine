@@ -48,6 +48,7 @@
    - **[Rust](#rust)**
 - **[Monitoring](#monitoring)**
 - **[DevSecOps](#devsecops)**
+   - **[Labs for vulnerable testing](#labs-for-vulnerable-testing)**
 - **[Interview](#interview)**
 - **[English](#english)**
 
@@ -358,7 +359,16 @@
 | **Ultimate DevSecOps library** | [https://github.com/sberdachuk-epam/DevSecOps](https://github.com/sberdachuk-epam/DevSecOps) | Ultimate DevSecOps library  |![Git Secrets](https://img.shields.io/github/stars/sberdachuk-epam/DevSecOps?style=for-the-badge) |
 | **DevSecOps Roadmap** | [https://github.com/hahwul/DevSecOps](https://github.com/hahwul/DevSecOps) | Ultimate DevSecOps library  |![Git Secrets](https://img.shields.io/github/stars/hahwul/DevSecOps?style=for-the-badge) |
 | **Hack The Box** | [hackthebox.com](https://www.hackthebox.com/) | The #1 cybersecurity upskilling platform  |EN | |
-| **AWS Well-Architected Labs** | [wellarchitectedlabs.com](https://wellarchitectedlabs.com/security/) | Documentation and code in the format of hands-on labs to help you learn, measure, and build using architectural best practices  |EN | |
+
+### Labs for vulnerable testing
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **CloudFoxable** | [https://github.com/BishopFox/cloudfoxable](https://github.com/BishopFox/cloudfoxable) | CloudFox helps penetration testers and security professionals find exploitable attack paths in cloud infrastructure  |EN | |
+| **CloudGoat** | [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) | CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool  |EN | |
+| **Flaws** | [http://flaws.cloud/](http://flaws.cloud/) | Game/tutorial teaches you AWS (Amazon Web Services) security concepts  |EN | |
+| **Flaws2** | [http://flaws2.cloud/](http://flaws2.cloud/) | Another game/tutorial teaches you AWS (Amazon Web Services) security concepts  |EN | |
+| **AWS Well-Architected Labs** | [wellarchitectedlabs.com](https://wellarchitectedlabs.com/security/) | Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS)  |EN | |
 
 
 

@@ -374,12 +374,18 @@
 | **Damn Vulnerable Cloud Application** | [https://github.com/m6a-UdS/dvca](https://github.com/m6a-UdS/dvca) |  A demonstration project to show how to do privilege escalation on AWS  |EN | |
 | **AWS Detonation Lab** | [https://github.com/sonofagl1tch/AWSDetonationLab](https://github.com/sonofagl1tch/AWSDetonationLab) |  Scripts can be used as proof-of-concept to generate a detonation lab via a cloudformation template (AWS)  |EN | |
 | **Cfngoat - Vulnerable Cloudformation Template** | [https://github.com/bridgecrewio/cfngoat](https://github.com/bridgecrewio/cfngoat) |  A learning and training project that demonstrates how common configuration errors can find their way into production cloud environments  |EN | |
+| **CdkGoat - Vulnerable AWS CDK Infrastructure** | [https://github.com/bridgecrewio/cdkgoat](https://github.com/bridgecrewio/cdkgoat) |  Another learning and training project that demonstrates how common configuration errors can find their way into production cloud environments  |EN | |
+| **AWSGoat : A Damn Vulnerable AWS Infrastructure** | [https://github.com/ine-labs/AWSGoat](https://github.com/ine-labs/AWSGoat) |  Learning and training AWS cloud pentesting/red-teaming, auditing IaC, secure coding, detection and mitigation  |EN | |
+| **AWSGoat : A Damn Vulnerable Azure Infrastructure** | [https://github.com/ine-labs/AzureGoat](https://github.com/ine-labs/AzureGoat) |  Learning and training Azure cloud pentesting/red-teaming, auditing IaC, secure coding, detection and mitigation  |EN | |
+| **caponeme** | [https://github.com/avishayil/caponeme](https://github.com/avishayil/caponeme) |  A vulnerable cloud environment that meant to mock Capital One Breach for educational purposes  |EN | |
+| **TerraGoat - Vulnerable Terraform Infrastructure** | [https://github.com/bridgecrewio/terragoat](https://github.com/bridgecrewio/terragoat) |  A learning and training project that demonstrates how common configuration errors can find their way into production cloud environments  |EN | |
+| **IAM Vulnerable** | [https://github.com/BishopFox/iam-vulnerable](https://github.com/BishopFox/iam-vulnerable) |  Learning how to identify and exploit vulnerable IAM configurations that allow for privilege escalation  |EN | |
 | **Flaws** | [http://flaws.cloud/](http://flaws.cloud/) | Game/tutorial teaches you AWS (Amazon Web Services) security concepts  |EN | |
 | **Flaws2** | [http://flaws2.cloud/](http://flaws2.cloud/) | Another game/tutorial teaches you AWS (Amazon Web Services) security concepts  |EN | |
 | **AWS Well-Architected Labs** | [wellarchitectedlabs.com](https://wellarchitectedlabs.com/security/) | Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS)  |EN | |
 | **CTF 101 worklab** | [r00tz-ctf.awssecworkshops.com](https://r00tz-ctf.awssecworkshops.com/) | Security CTF 101 worklab, sponsored by Amazon Web Services Security  |EN | |
 | **Thunder CTF** | [thunder-ctf.cloud](http://thunder-ctf.cloud/) | Thunder CTF allows players to practice attacking vulnerable cloud projects on Google Cloud Platform (GCP)  |EN | |
-
+| **PenTesting.Cloud** | [pentesting.cloud](https://pentesting.cloud/) | A free pentesting learning platform  |EN | |
 
 
 ## Interview

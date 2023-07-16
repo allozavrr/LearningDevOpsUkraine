@@ -385,7 +385,7 @@
 | **TryHackMe** | [tryhackme.com](https://tryhackme.com/) | Learning cyber security  |EN | |
 | **Hack The Box** | [hackthebox.com](https://www.hackthebox.com/) | The #1 cybersecurity upskilling platform  |EN | |
 | **OWASP Juice Shop** | [owasp.org](https://owasp.org/www-project-juice-shop/) | Game/tutorial teaches you in security trainings, awareness demos, CTFs and as a guinea pig for security tools  |EN | |
-| **Flaws** | [flaws.cloud/](http://flaws.cloud/) | Game/tutorial teaches you AWS (Amazon Web Services) security concepts  |EN | |
+| **Flaws** | [flaws.cloud](http://flaws.cloud/) | Game/tutorial teaches you AWS (Amazon Web Services) security concepts  |EN | |
 | **Flaws2** | [flaws2.cloud/](http://flaws2.cloud/) | Another game/tutorial teaches you AWS (Amazon Web Services) security concepts  |EN | |
 | **AWS Well-Architected Labs** | [wellarchitectedlabs.com](https://wellarchitectedlabs.com/security/) | Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS)  |EN | |
 | **CTF 101 worklab** | [r00tz-ctf.awssecworkshops.com](https://r00tz-ctf.awssecworkshops.com/) | Security CTF 101 worklab, sponsored by Amazon Web Services Security  |EN | |

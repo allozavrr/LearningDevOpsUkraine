@@ -366,9 +366,13 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **CloudFoxable** | [https://github.com/BishopFox/cloudfoxable](https://github.com/BishopFox/cloudfoxable) | CloudFox helps penetration testers and security professionals find exploitable attack paths in cloud infrastructure  |EN | |
 | **CloudGoat** | [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) | CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool  |EN | |
+| **OWASP ServerlessGoat** | [https://github.com/OWASP/Serverless-Goat](https://github.com/OWASP/Serverless-Goat) | Educate on how serverless application layer weaknesses can be exploited  |EN | |
+| **OWASP Wrongsecrets** | [https://github.com/OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) | The game is packed with real life examples of how to not store secrets in your software  |EN | |
+| **AWS S3 CTF Challenges** | [https://n0j.github.io/2017/10/02/aws-s3-ctf.html](https://n0j.github.io/2017/10/02/aws-s3-ctf.html) |  Series of brief challenges focusing on AWS S3 misconfiguration for the CTF at AppSec USA 2017 and CactusCon 2017  |EN | |
 | **Flaws** | [http://flaws.cloud/](http://flaws.cloud/) | Game/tutorial teaches you AWS (Amazon Web Services) security concepts  |EN | |
 | **Flaws2** | [http://flaws2.cloud/](http://flaws2.cloud/) | Another game/tutorial teaches you AWS (Amazon Web Services) security concepts  |EN | |
 | **AWS Well-Architected Labs** | [wellarchitectedlabs.com](https://wellarchitectedlabs.com/security/) | Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS)  |EN | |
+| **CTF 101 worklab** | [r00tz-ctf.awssecworkshops.com](https://r00tz-ctf.awssecworkshops.com/) | Security CTF 101 worklab, sponsored by Amazon Web Services Security  |EN | |
 
 
 

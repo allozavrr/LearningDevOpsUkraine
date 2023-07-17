@@ -364,12 +364,12 @@
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
-| **CloudFoxable** | [https://github.com/BishopFox/cloudfoxable](https://github.com/BishopFox/cloudfoxable) | CloudFox helps penetration testers and security professionals find exploitable attack paths in cloud infrastructure  |EN | |
-| **CloudGoat** | [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) | CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool  |EN | |
-| **OWASP ServerlessGoat** | [https://github.com/OWASP/Serverless-Goat](https://github.com/OWASP/Serverless-Goat) | Educate on how serverless application layer weaknesses can be exploited  |EN | |
-| **OWASP Wrongsecrets** | [https://github.com/OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) | The game is packed with real life examples of how to not store secrets in your software  |EN | |
-| **AWS S3 CTF Challenges** | [https://n0j.github.io/2017/10/02/aws-s3-ctf.html](https://n0j.github.io/2017/10/02/aws-s3-ctf.html) |  Series of brief challenges focusing on AWS S3 misconfiguration for the CTF at AppSec USA 2017 and CactusCon 2017  |EN | |
-| **Breaking and Pwning Apps and Servers on AWS and Azure** | [https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) |  The training is meant to be a hands-on training with guided walkthroughs, scenario based attacks, coverage of tool that can be used for attacking and auditing  |EN | |
+| **CloudFoxable** | [https://github.com/BishopFox](https://github.com/BishopFox/cloudfoxable) | CloudFox helps penetration testers and security professionals find exploitable attack paths in cloud infrastructure  |EN | |
+| **CloudGoat** | [https://github.com/RhinoSecurityLabs](https://github.com/RhinoSecurityLabs/cloudgoat) | CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool  |EN | |
+| **OWASP ServerlessGoat** | [https://github.com/OWASP](https://github.com/OWASP/Serverless-Goat) | Educate on how serverless application layer weaknesses can be exploited  |EN | |
+| **OWASP Wrongsecrets** | [https://github.com/OWASP](https://github.com/OWASP/wrongsecrets) | The game is packed with real life examples of how to not store secrets in your software  |EN | |
+| **AWS S3 CTF Challenges** | [n0j.github.io](https://n0j.github.io/2017/10/02/aws-s3-ctf.html) |  Series of brief challenges focusing on AWS S3 misconfiguration for the CTF at AppSec USA 2017 and CactusCon 2017  |EN | |
+| **Breaking and Pwning Apps and Servers on AWS and Azure** | [github.com/appsecco](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) |  The training is meant to be a hands-on training with guided walkthroughs, scenario based attacks, coverage of tool that can be used for attacking and auditing  |EN | |
 | **Sadcloud** | [https://github.com/nccgroup/sadcloud](https://github.com/nccgroup/sadcloud) |  Sadcloud is a tool for spinning up insecure AWS infrastructure with Terraform  |EN | |
 | **Damn Vulnerable Cloud Application** | [https://github.com/m6a-UdS/dvca](https://github.com/m6a-UdS/dvca) |  A demonstration project to show how to do privilege escalation on AWS  |EN | |
 | **AWS Detonation Lab** | [https://github.com/sonofagl1tch/AWSDetonationLab](https://github.com/sonofagl1tch/AWSDetonationLab) |  Scripts can be used as proof-of-concept to generate a detonation lab via a cloudformation template (AWS)  |EN | |

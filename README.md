@@ -245,7 +245,8 @@
 | **Introduction to Kubernetes** | [edx.org](https://www.edx.org/course/introduction-to-kubernetes) | Big Kubernetes course  |EN | |
 | **Kubernetes trainings** | [kube.academy](https://kube.academy/coursess) | Mini Kubernetes trainings by KubeAcademy  |EN | |
 | **Play with Kubernetes** | [labs.play-with-k8s.com](https://labs.play-with-k8s.com/) | Kubernetes stand for labs  |EN | |
-| **Kubernetes CheatSheet** | [minikube.sigs.k8s.io/](https://minikube.sigs.k8s.io/docs/commands/) | MiniKube CheatSheets  |EN | |
+| **Kubernetes CheatSheet** | [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/commands/) | MiniKube CheatSheets  |EN | |
+| **Fast-Kubernetes** | [github.com/omerbsezer](https://github.com/omerbsezer/Fast-Kubernetes) | Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm  |EN | |
 
 
 

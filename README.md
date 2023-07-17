@@ -48,7 +48,7 @@
    - **[Rust](#rust)**
 - **[Monitoring](#monitoring)**
 - **[DevSecOps](#devsecops)**
-   - **[Labs for vulnerable testing](#labs-for-vulnerable-testing)**
+   - **[Labs for vulnerability testing](#labs-for-vulnerability-testing)**
 - **[Interview](#interview)**
 - **[English](#english)**
 
@@ -360,7 +360,7 @@
 | **DevSecOps Roadmap** | [https://github.com/hahwul/DevSecOps](https://github.com/hahwul/DevSecOps) | Ultimate DevSecOps library  |![Git Secrets](https://img.shields.io/github/stars/hahwul/DevSecOps?style=for-the-badge) |
 | **Hack The Box** | [hackthebox.com](https://www.hackthebox.com/) | The #1 cybersecurity upskilling platform  |EN | |
 
-### Labs for vulnerable testing
+### Labs for vulnerability testing
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |

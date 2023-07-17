@@ -48,7 +48,6 @@
    - **[Rust](#rust)**
 - **[Monitoring](#monitoring)**
 - **[DevSecOps](#devsecops)**
-   - **[Labs for vulnerability testing](#labs-for-vulnerability-testing)**
 - **[Interview](#interview)**
 - **[English](#english)**
 

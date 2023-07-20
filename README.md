@@ -25,7 +25,7 @@
    - **[Computer Science Guide](#computer-science-guide)**
    - **[Courses](#courses)**
    - **[Youtube](#youtube)**
-   - - **[Github](#github)**
+   - **[Github](#github)**
 - **[Git](#git)**
 - **[Linux](#linux)**
 - **[Networking](#networking)**
@@ -257,7 +257,8 @@
 | **Kubernetes CheatSheet** | [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/commands/) | MiniKube CheatSheets  |EN | |
 | **Fast-Kubernetes** | [github.com/omerbsezer](https://github.com/omerbsezer/Fast-Kubernetes) | Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm  |EN | |
 | **100 Days Of Kubernetes** | [00daysofkubernetes.io](https://100daysofkubernetes.io/) | 100 Days of Kubernetes is the challenge in which we aim to learn something new related to Kubernetes each day across 100 Days  |EN | |
-| **Kubernetes The Hard Way** | [github.com/kelseyhightower](https://github.com/kelseyhightower/kubernetes-the-hard-way) | This tutorial walks you through setting up Kubernetes the hard way  |![Git Secrets](https://img.shields.io/github/stars/kelseyhightower/kubernetes-the-hard-way?style=for-the-badge) |
+| **Fast Kubernetes** | [github.com/omerbsezer](https://github.com/omerbsezer/Fast-Kubernetes) | This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.  |EN | |
+| **Kubernetes The Hard Way** | [github.com/kelseyhightower](https://github.com/kelseyhightower/kubernetes-the-hard-way) | This tutorial walks you through setting up Kubernetes the hard way  |EN | |
 
 
 

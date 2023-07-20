@@ -190,6 +190,8 @@
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
+| **DevOps Big Picture (On-Premises)** | [itnext.io](https://itnext.io/devops-big-picture-on-premises-d07f61d6c34c) | An overview of DevOps best practices and tools for on-premises environments  |EN | |
+| **DevOps Prerequisites Course - Getting started with DevOps** | [Youtube](https://www.youtube.com/watch?v=Wvf0mBNGjXY&ab_channel=freeCodeCamp.org) | The course covers the basic prerequisites knowledge needed for your journey into the Cloud and DevOps world  |EN | |
 | **Курсы: CICD (сентябрь 2020)** | [Youtube](https://www.youtube.com/playlist?list=PLGQiJX6wM-zzEcA_0Wn3SIL8MyammjqSH) | Старенький курс, але для розуміння, що таке CI/CD підійде  |ru | |
 | **Що робити після того, як програма написана? Практичний погляд на SDLC, CI/CD, DevOps для початківців** | [Youtube](https://www.youtube.com/watch?v=zGyXsxNAdt4&t=1s&ab_channel=%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D1%80%D0%BE%D0%86%D0%A2) | Невеликий огляд (не курс!), що таке CI/CD  |UA | |
 | **DevOps Tools Periodic Table** | [digital.ai](https://digital.ai/learn/devops-periodic-table/) | The Periodic Table of DevOps Tools  |EN | |
@@ -253,6 +255,7 @@
 | **Kubernetes Уроки** | [Youtube](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ) | Лист з уроками для початківців  |ru | |
 | **Открытая вечерняя школа. Kubernetes для разработчиков** | [Youtube](https://www.youtube.com/playlist?list=PL8D2P0ruohOBSA_CDqJLflJ8FLJNe26K-) | Корисний великий плейлист для початківців  |ru | |
 | **Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]** | [Youtube](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana) | Big Beginners Kubernetes course  |EN | |
+| **Kubernetes [FULL COURSE in 10 Hours]** | [Youtube](https://www.youtube.com/watch?v=y3WTwzx5ABk&ab_channel=edureka%21) | Kubernetes Tutorial is ideal for both beginners as well as professionals who want to master the fundamentals of Kubernetes  |EN | |
 | **Introduction to Kubernetes** | [edx.org](https://www.edx.org/course/introduction-to-kubernetes) | Big Kubernetes course  |EN | |
 | **Kubernetes trainings** | [kube.academy](https://kube.academy/coursess) | Mini Kubernetes trainings by KubeAcademy  |EN | |
 | **Play with Kubernetes** | [labs.play-with-k8s.com](https://labs.play-with-k8s.com/) | Kubernetes stand for labs  |EN | |
@@ -297,6 +300,7 @@
 | **Professional Cloud DevOps Engineer Certification** | [Google Cloud](https://cloud.google.com/learn/certification/cloud-devops-engineer) | Google Cloud Certification  |EN | |
 | **Google Cloud** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H) | Курс по Google Cloud Platform ADV-IT  |ru | |
 | **Google Cloud Platform for Beginners** | [Youtube](https://www.youtube.com/playlist?list=PL34sAs7_26wM4ETdsdrRrO1euoUtO4jF6) | Beginners tutorial on Google Cloud Platform  |EN | |
+| **Google Cloud Platform Full Course** | [Youtube](https://www.youtube.com/watch?v=-pMtwYXSFK8&ab_channel=Simplilearn) | GCP tutorial, AWS vs GCP, GCP web hosting, Google cloud ML, GCP fundamentals, Google Cloud Platform Fundamentals (CP100A) Certification Training  |EN | |
 
 
 

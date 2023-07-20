@@ -25,6 +25,7 @@
    - **[Computer Science Guide](#computer-science-guide)**
    - **[Courses](#courses)**
    - **[Youtube](#youtube)**
+   - - **[Github](#github)**
 - **[Git](#git)**
 - **[Linux](#linux)**
 - **[Networking](#networking)**
@@ -100,7 +101,6 @@
 | **CBT Nuggets** | [cbtnuggets.com](https://www.cbtnuggets.com/) | Paid online courses from CBT Nuggets - a lot of trainings  |EN | |
 | **Educative Accelerates Developer Productivity** | [educative.io](https://www.educative.io/) | Paid online courses on programming, cloud computing, data Science, machine Learning (no video, only practice)  |EN | |
 
-
 ### Youtube
 
 | Name | URL | Description | Language | 
@@ -113,6 +113,16 @@
 | **NetworkChuck** | [YouTube](https://www.youtube.com/@NetworkChuck/playlists) | CCNA, CompTIA A+, CompTIA Network+  |EN | |
 | **Just me and Opensource** | [YouTube](https://www.youtube.com/@justmeandopensource/playlists) | A lot of trainings of DevOps tools, nice and full Kubernetes guide  |EN | |
 | **DevOpsLearnEasy** | [YouTube](https://www.youtube.com/@DevOpsLearnEasy/videos) | Not just any course but a training that explains concepts from the absolute basics to the complex ones  |EN | |
+
+### Github
+
+| Name | URL | Description | Meta | 
+| :---------- | :---------- | :---------- | :----------: |
+| **DevOps Bash Tools** | [https://github.com/HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) | Scripts for many popular DevOps technologies  |![Git Secrets](https://img.shields.io/github/stars/HariSekhon/DevOps-Bash-tools?style=for-the-badge) |
+| **DevOps resources** | [https://github.com/bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | This repository is about gathering any useful resources and information regarding DevOps   |![Git Secrets](https://img.shields.io/github/stars/bregman-arie/devops-resources?style=for-the-badge) |
+| **How They DevOps** | [https://github.com/bregman-arie/howtheydevops](https://github.com/bregman-arie/howtheydevops) | A curated collection of publicly available resources on how companies around the world practice DevOps  |![Git Secrets](https://img.shields.io/github/stars/bregman-arie/howtheydevops?style=for-the-badge) |
+| **Awesome Site Reliability Engineering** | [https://github.com/dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) | A curated list of awesome Site Reliability and Production Engineering resources  |![Git Secrets](https://img.shields.io/github/stars/astergon/awesome-sre?style=for-the-badge) |
+| **Test your Sysadmin skills** | [https://github.com/trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) | This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview such as Linux/Networks  |![Git Secrets](https://img.shields.io/github/stars/trimstray/test-your-sysadmin-skills?style=for-the-badge) |
 
 
 
@@ -247,6 +257,7 @@
 | **Kubernetes CheatSheet** | [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/commands/) | MiniKube CheatSheets  |EN | |
 | **Fast-Kubernetes** | [github.com/omerbsezer](https://github.com/omerbsezer/Fast-Kubernetes) | Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm  |EN | |
 | **100 Days Of Kubernetes** | [00daysofkubernetes.io](https://100daysofkubernetes.io/) | 100 Days of Kubernetes is the challenge in which we aim to learn something new related to Kubernetes each day across 100 Days  |EN | |
+| **Kubernetes The Hard Way** | [github.com/kelseyhightower](https://github.com/kelseyhightower/kubernetes-the-hard-way) | This tutorial walks you through setting up Kubernetes the hard way  |![Git Secrets](https://img.shields.io/github/stars/kelseyhightower/kubernetes-the-hard-way?style=for-the-badge) |
 
 
 

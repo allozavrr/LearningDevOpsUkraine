@@ -59,9 +59,9 @@
 
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
-| **90DaysOfDevOps** | [https://github.com/MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | The most famous roadmap for newbies DevOps-engineers  |![Git Secrets](https://img.shields.io/github/stars/MichaelCade/90DaysOfDevOps?style=for-the-badge) |
-| **Another DevOps Roadmap** | [https://github.com/milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) | Another detailed DevOps roadmap  |![Git Secrets](https://img.shields.io/github/stars/milanm/DevOps-Roadmap?style=for-the-badge)  |  
-| **DevOps-Roadmap** | [https://github.com/devopshobbies/devops-roadmap](https://github.com/devopshobbies/devops-roadmap) |  DevOps Roadmap by Ahmadali Bagheri (free resourses included)   |![Git Secrets](https://img.shields.io/github/stars/devopshobbies/devops-roadmap?style=for-the-badge) |
+| **90DaysOfDevOps** | [github.com/MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | The most famous roadmap for newbies DevOps-engineers  |![Git Secrets](https://img.shields.io/github/stars/MichaelCade/90DaysOfDevOps?style=for-the-badge) |
+| **Another DevOps Roadmap** | [github.com/milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) | Another detailed DevOps roadmap  |![Git Secrets](https://img.shields.io/github/stars/milanm/DevOps-Roadmap?style=for-the-badge)  |  
+| **DevOps-Roadmap** | [github.com/devopshobbies/devops-roadmap](https://github.com/devopshobbies/devops-roadmap) |  DevOps Roadmap by Ahmadali Bagheri (free resourses included)   |![Git Secrets](https://img.shields.io/github/stars/devopshobbies/devops-roadmap?style=for-the-badge) |
 | **Become A DevOps Engineer in 2023** | [devopscube.com](https://devopscube.com/become-devops-engineerhttps://devopscube.com/become-devops-engineer) | Simple and nice roadmap  | |
 | **DevOps Roadmap** | [roadmap.sh](https://roadmap.sh/devops) | Step by step guide for DevOps, SRE or any other Operations Role in 2023  | |
 | **DevOps Roadmap** | [techworld-with-nana.com](https://www.techworld-with-nana.com/devops-roadmap) | Step by step guide outlining the most efficient path to become a DevOps engineer by TechWorld with Nana  | |
@@ -77,13 +77,13 @@
 
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
-| **Ukrainian IT Communities** | [https://github.com/nikit0ns/Ukrainian_IT_Communities#-devops](https://github.com/nikit0ns/Ukrainian_IT_Communities#-devops) | Українські DevOps коммʼюніті і не тільки  |![Git Secrets](https://img.shields.io/github/stars/nikit0ns/Ukrainian_IT_Communities?style=for-the-badge) | |
+| **Ukrainian IT Communities** | [github.com/nikit0ns/Ukrainian_IT_Communities#-devops](https://github.com/nikit0ns/Ukrainian_IT_Communities#-devops) | Українські DevOps коммʼюніті і не тільки  |![Git Secrets](https://img.shields.io/github/stars/nikit0ns/Ukrainian_IT_Communities?style=for-the-badge) | |
 
 ### Computer Science Guide
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
-| **TeachYourselfCS-UK** | [https://github.com/oleksbabieiev/TeachYourselfCS-UK/](https://github.com/oleksbabieiev/TeachYourselfCS-UK/) | Збірник-посібник для самостійного фундаментального вивчення компʼютерних наук  |![Git Secrets](https://img.shields.io/github/stars/oleksbabieiev/TeachYourselfCS-UK?style=for-the-badge) | |
-| **TeachYourselfCS-EN** | [https://github.com/ossu/computer-science](https://github.com/ossu/computer-science) | The same in English  |![Git Secrets](https://img.shields.io/github/stars/ossu/computer-science?style=for-the-badge) | |
+| **TeachYourselfCS-UK** | [github.com/oleksbabieiev/TeachYourselfCS-UK/](https://github.com/oleksbabieiev/TeachYourselfCS-UK/) | Збірник-посібник для самостійного фундаментального вивчення компʼютерних наук  |![Git Secrets](https://img.shields.io/github/stars/oleksbabieiev/TeachYourselfCS-UK?style=for-the-badge) | |
+| **TeachYourselfCS-EN** | [github.com/ossu/computer-science](https://github.com/ossu/computer-science) | The same in English  |![Git Secrets](https://img.shields.io/github/stars/ossu/computer-science?style=for-the-badge) | |
 | **CS50** | [YouTube](https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5) | Основы программирования: Легендарный Гарвардский курс CS50 (2015 - old but gold)  |ru | |
 
 ### Courses
@@ -118,12 +118,12 @@
 
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
-| **DevOps Bash Tools** | [https://github.com/HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) | Scripts for many popular DevOps technologies  |![Git Secrets](https://img.shields.io/github/stars/HariSekhon/DevOps-Bash-tools?style=for-the-badge) |
-| **DevOps resources** | [https://github.com/bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | This repository is about gathering any useful resources and information regarding DevOps   |![Git Secrets](https://img.shields.io/github/stars/bregman-arie/devops-resources?style=for-the-badge) |
-| **How They DevOps** | [https://github.com/bregman-arie/howtheydevops](https://github.com/bregman-arie/howtheydevops) | A curated collection of publicly available resources on how companies around the world practice DevOps  |![Git Secrets](https://img.shields.io/github/stars/bregman-arie/howtheydevops?style=for-the-badge) |
-| **DevOps exercises** | [https://github.com/bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE   |![Git Secrets](https://img.shields.io/github/stars/bregman-arie/devops-exercises?style=for-the-badge) |
-| **Awesome Site Reliability Engineering** | [https://github.com/dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) | A curated list of awesome Site Reliability and Production Engineering resources  |![Git Secrets](https://img.shields.io/github/stars/astergon/awesome-sre?style=for-the-badge) |
-| **Test your Sysadmin skills** | [https://github.com/trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) | This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview such as Linux/Networks  |![Git Secrets](https://img.shields.io/github/stars/trimstray/test-your-sysadmin-skills?style=for-the-badge) |
+| **DevOps Bash Tools** | [github.com/HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) | Scripts for many popular DevOps technologies  |![Git Secrets](https://img.shields.io/github/stars/HariSekhon/DevOps-Bash-tools?style=for-the-badge) |
+| **DevOps resources** | [github.com/bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | This repository is about gathering any useful resources and information regarding DevOps   |![Git Secrets](https://img.shields.io/github/stars/bregman-arie/devops-resources?style=for-the-badge) |
+| **How They DevOps** | [github.com/bregman-arie/howtheydevops](https://github.com/bregman-arie/howtheydevops) | A curated collection of publicly available resources on how companies around the world practice DevOps  |![Git Secrets](https://img.shields.io/github/stars/bregman-arie/howtheydevops?style=for-the-badge) |
+| **DevOps exercises** | [github.com/bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE   |![Git Secrets](https://img.shields.io/github/stars/bregman-arie/devops-exercises?style=for-the-badge) |
+| **Awesome Site Reliability Engineering** | [github.com/dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) | A curated list of awesome Site Reliability and Production Engineering resources  |![Git Secrets](https://img.shields.io/github/stars/astergon/awesome-sre?style=for-the-badge) |
+| **Test your Sysadmin skills** | [github.com/trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) | This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview such as Linux/Networks  |![Git Secrets](https://img.shields.io/github/stars/trimstray/test-your-sysadmin-skills?style=for-the-badge) |
 
 
 
@@ -341,8 +341,8 @@
 | **"Поколение Python": курс для начинающих** | [stepik.org](https://stepik.org/course/58852) | Курс-тренажер, допомагає вивчити Python на практиці  |ru | |
 | **Futurecoder** | [futurecoder.io](https://futurecoder.io/course/#toc) | Interactive Python training course  |EN | |
 | **Python від NIX Education** | [education.nixsolutions.com](https://education.nixsolutions.com/course/view.php?id=16) | Безкоштовний курс по Python від NIX Solutions  |UA/EN | |
-| **PythonNoobs** | [https://github.com/PythonNoobs/python_developer](https://github.com/PythonNoobs/python_developer) | Велика збірка ресурсів для навчання  |ru | |
-| **The Algorithms - Python** | [https://github.com/TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | All algorithms implemented in Python - for education  |EN | |
+| **PythonNoobs** | [github.com/PythonNoobs/python_developer](https://github.com/PythonNoobs/python_developer) | Велика збірка ресурсів для навчання  |ru | |
+| **The Algorithms - Python** | [github.com/TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | All algorithms implemented in Python - for education  |EN | |
 
 ### Go
 | Name | URL | Description | Language | 
@@ -352,8 +352,8 @@
 | **Разработка & Язык Go** | [Youtube](https://www.youtube.com/playlist?list=PLbTTxxr-hMmxZMXsvaE-PozXxktdJ5zLR) | Курс по Go від Максима Жашкевича  |ru | |
 | **Golang від NIX Education** | [education.nixsolutions.com](https://education.nixsolutions.com/course/view.php?id=12) | Безкоштовний курс по Go від NIX Solutions  |UA/EN | |
 | **A Tour of Go** | [go.dev](https://go.dev/tour/welcome/1) | Practical self-studying GO course  |EN | |
-| **Введение в программирование на Go** | [https://github.com/maxpoletaev/golang-book](https://github.com/maxpoletaev/golang-book) | Книга для навчання програмування мовою Go  |ru | |
-| **The Algorithms - Go** | [https://github.com/TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) | All algorithms implemented in Go - for education  |EN | |
+| **Введение в программирование на Go** | [github.com/maxpoletaev/golang-book](https://github.com/maxpoletaev/golang-book) | Книга для навчання програмування мовою Go  |ru | |
+| **The Algorithms - Go** | [github.com/TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) | All algorithms implemented in Go - for education  |EN | |
 
 ### Rust
 | Name | URL | Description | Language | 

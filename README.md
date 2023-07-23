@@ -321,6 +321,7 @@
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
+| **Командная оболочка PowerShell** | [Youtube](https://www.youtube.com/playlist?list=PL1aqAoC4A0sXnzbnAvIa36s8P3Ogo8FR_) | Навчальний курс "Командная оболочка PowerShell: путь к силе"  |ru | |
 | **All things Microsoft PowerShell** | [Youtube](https://www.youtube.com/playlist?list=PLCGGtLsUjhm2k22nFHHdupAK0hSNZVfXi) | Everything you need to know to get started with PowerShell  |EN | |
 
 ### Python

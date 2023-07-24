@@ -25,6 +25,7 @@
    - **[Computer Science Guide](#computer-science-guide)**
    - **[Courses](#courses)**
    - **[Youtube](#youtube)**
+   - **[Github](#github)**
 - **[Git](#git)**
 - **[Linux](#linux)**
 - **[Networking](#networking)**
@@ -48,7 +49,6 @@
    - **[Rust](#rust)**
 - **[Monitoring](#monitoring)**
 - **[DevSecOps](#devsecops)**
-   - **[Labs for vulnerability testing](#labs-for-vulnerability-testing)**
 - **[Interview](#interview)**
 - **[English](#english)**
 
@@ -59,9 +59,9 @@
 
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
-| **90DaysOfDevOps** | [https://github.com/MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | The most famous roadmap for newbies DevOps-engineers  |![Git Secrets](https://img.shields.io/github/stars/MichaelCade/90DaysOfDevOps?style=for-the-badge) |
-| **Another DevOps Roadmap** | [https://github.com/milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) | Another detailed DevOps roadmap  |![Git Secrets](https://img.shields.io/github/stars/milanm/DevOps-Roadmap?style=for-the-badge)  |  
-| **DevOps-Roadmap** | [https://github.com/devopshobbies/devops-roadmap](https://github.com/devopshobbies/devops-roadmap) |  DevOps Roadmap by Ahmadali Bagheri (free resourses included)   |![Git Secrets](https://img.shields.io/github/stars/devopshobbies/devops-roadmap?style=for-the-badge) |
+| **90DaysOfDevOps** | [github.com/MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | The most famous roadmap for newbies DevOps-engineers  |![Git Secrets](https://img.shields.io/github/stars/MichaelCade/90DaysOfDevOps?style=for-the-badge) |
+| **Another DevOps Roadmap** | [github.com/milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) | Another detailed DevOps roadmap  |![Git Secrets](https://img.shields.io/github/stars/milanm/DevOps-Roadmap?style=for-the-badge)  |  
+| **DevOps-Roadmap** | [github.com/devopshobbies/devops-roadmap](https://github.com/devopshobbies/devops-roadmap) |  DevOps Roadmap by Ahmadali Bagheri (free resourses included)   |![Git Secrets](https://img.shields.io/github/stars/devopshobbies/devops-roadmap?style=for-the-badge) |
 | **Become A DevOps Engineer in 2023** | [devopscube.com](https://devopscube.com/become-devops-engineerhttps://devopscube.com/become-devops-engineer) | Simple and nice roadmap  | |
 | **DevOps Roadmap** | [roadmap.sh](https://roadmap.sh/devops) | Step by step guide for DevOps, SRE or any other Operations Role in 2023  | |
 | **DevOps Roadmap** | [techworld-with-nana.com](https://www.techworld-with-nana.com/devops-roadmap) | Step by step guide outlining the most efficient path to become a DevOps engineer by TechWorld with Nana  | |
@@ -77,13 +77,13 @@
 
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
-| **Ukrainian IT Communities** | [https://github.com/nikit0ns/Ukrainian_IT_Communities#-devops](https://github.com/nikit0ns/Ukrainian_IT_Communities#-devops) | Українські DevOps коммʼюніті і не тільки  |![Git Secrets](https://img.shields.io/github/stars/nikit0ns/Ukrainian_IT_Communities?style=for-the-badge) | |
+| **Ukrainian IT Communities** | [github.com/nikit0ns/Ukrainian_IT_Communities#-devops](https://github.com/nikit0ns/Ukrainian_IT_Communities#-devops) | Українські DevOps коммʼюніті і не тільки  |![Git Secrets](https://img.shields.io/github/stars/nikit0ns/Ukrainian_IT_Communities?style=for-the-badge) | |
 
 ### Computer Science Guide
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
-| **TeachYourselfCS-UK** | [https://github.com/oleksbabieiev/TeachYourselfCS-UK/](https://github.com/oleksbabieiev/TeachYourselfCS-UK/) | Збірник-посібник для самостійного фундаментального вивчення компʼютерних наук  |![Git Secrets](https://img.shields.io/github/stars/oleksbabieiev/TeachYourselfCS-UK?style=for-the-badge) | |
-| **TeachYourselfCS-EN** | [https://github.com/ossu/computer-science](https://github.com/ossu/computer-science) | The same in English  |![Git Secrets](https://img.shields.io/github/stars/ossu/computer-science?style=for-the-badge) | |
+| **TeachYourselfCS-UK** | [github.com/oleksbabieiev/TeachYourselfCS-UK/](https://github.com/oleksbabieiev/TeachYourselfCS-UK/) | Збірник-посібник для самостійного фундаментального вивчення компʼютерних наук  |![Git Secrets](https://img.shields.io/github/stars/oleksbabieiev/TeachYourselfCS-UK?style=for-the-badge) | |
+| **TeachYourselfCS-EN** | [github.com/ossu/computer-science](https://github.com/ossu/computer-science) | The same in English  |![Git Secrets](https://img.shields.io/github/stars/ossu/computer-science?style=for-the-badge) | |
 | **CS50** | [YouTube](https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5) | Основы программирования: Легендарный Гарвардский курс CS50 (2015 - old but gold)  |ru | |
 
 ### Courses
@@ -101,7 +101,6 @@
 | **CBT Nuggets** | [cbtnuggets.com](https://www.cbtnuggets.com/) | Paid online courses from CBT Nuggets - a lot of trainings  |EN | |
 | **Educative Accelerates Developer Productivity** | [educative.io](https://www.educative.io/) | Paid online courses on programming, cloud computing, data Science, machine Learning (no video, only practice)  |EN | |
 
-
 ### Youtube
 
 | Name | URL | Description | Language | 
@@ -114,6 +113,18 @@
 | **NetworkChuck** | [YouTube](https://www.youtube.com/@NetworkChuck/playlists) | CCNA, CompTIA A+, CompTIA Network+  |EN | |
 | **Just me and Opensource** | [YouTube](https://www.youtube.com/@justmeandopensource/playlists) | A lot of trainings of DevOps tools, nice and full Kubernetes guide  |EN | |
 | **DevOpsLearnEasy** | [YouTube](https://www.youtube.com/@DevOpsLearnEasy/videos) | Not just any course but a training that explains concepts from the absolute basics to the complex ones  |EN | |
+
+### Github
+
+| Name | URL | Description | Meta | 
+| :---------- | :---------- | :---------- | :----------: |
+| **DevOps Bash Tools** | [github.com/HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) | Scripts for many popular DevOps technologies  |![Git Secrets](https://img.shields.io/github/stars/HariSekhon/DevOps-Bash-tools?style=for-the-badge) |
+| **DevOps resources** | [github.com/bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | This repository is about gathering any useful resources and information regarding DevOps   |![Git Secrets](https://img.shields.io/github/stars/bregman-arie/devops-resources?style=for-the-badge) |
+| **How They DevOps** | [github.com/bregman-arie/howtheydevops](https://github.com/bregman-arie/howtheydevops) | A curated collection of publicly available resources on how companies around the world practice DevOps  |![Git Secrets](https://img.shields.io/github/stars/bregman-arie/howtheydevops?style=for-the-badge) |
+| **DevOps exercises** | [github.com/bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE   |![Git Secrets](https://img.shields.io/github/stars/bregman-arie/devops-exercises?style=for-the-badge) |
+| **Awesome Site Reliability Engineering** | [github.com/dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) | A curated list of awesome Site Reliability and Production Engineering resources  |![Git Secrets](https://img.shields.io/github/stars/astergon/awesome-sre?style=for-the-badge) |
+| **Test your Sysadmin skills** | [github.com/trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) | This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview such as Linux/Networks  |![Git Secrets](https://img.shields.io/github/stars/trimstray/test-your-sysadmin-skills?style=for-the-badge) |
+
 
 
 
@@ -179,6 +190,8 @@
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
+| **DevOps Big Picture (On-Premises)** | [itnext.io](https://itnext.io/devops-big-picture-on-premises-d07f61d6c34c) | An overview of DevOps best practices and tools for on-premises environments  |EN | |
+| **DevOps Prerequisites Course - Getting started with DevOps** | [Youtube](https://www.youtube.com/watch?v=Wvf0mBNGjXY&ab_channel=freeCodeCamp.org) | The course covers the basic prerequisites knowledge needed for your journey into the Cloud and DevOps world  |EN | |
 | **Курсы: CICD (сентябрь 2020)** | [Youtube](https://www.youtube.com/playlist?list=PLGQiJX6wM-zzEcA_0Wn3SIL8MyammjqSH) | Старенький курс, але для розуміння, що таке CI/CD підійде  |ru | |
 | **Що робити після того, як програма написана? Практичний погляд на SDLC, CI/CD, DevOps для початківців** | [Youtube](https://www.youtube.com/watch?v=zGyXsxNAdt4&t=1s&ab_channel=%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D1%80%D0%BE%D0%86%D0%A2) | Невеликий огляд (не курс!), що таке CI/CD  |UA | |
 | **DevOps Tools Periodic Table** | [digital.ai](https://digital.ai/learn/devops-periodic-table/) | The Periodic Table of DevOps Tools  |EN | |
@@ -242,11 +255,15 @@
 | **Kubernetes Уроки** | [Youtube](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ) | Лист з уроками для початківців  |ru | |
 | **Открытая вечерняя школа. Kubernetes для разработчиков** | [Youtube](https://www.youtube.com/playlist?list=PL8D2P0ruohOBSA_CDqJLflJ8FLJNe26K-) | Корисний великий плейлист для початківців  |ru | |
 | **Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]** | [Youtube](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana) | Big Beginners Kubernetes course  |EN | |
+| **Kubernetes [FULL COURSE in 10 Hours]** | [Youtube](https://www.youtube.com/watch?v=y3WTwzx5ABk&ab_channel=edureka%21) | Kubernetes Tutorial is ideal for both beginners as well as professionals who want to master the fundamentals of Kubernetes  |EN | |
 | **Introduction to Kubernetes** | [edx.org](https://www.edx.org/course/introduction-to-kubernetes) | Big Kubernetes course  |EN | |
 | **Kubernetes trainings** | [kube.academy](https://kube.academy/coursess) | Mini Kubernetes trainings by KubeAcademy  |EN | |
 | **Play with Kubernetes** | [labs.play-with-k8s.com](https://labs.play-with-k8s.com/) | Kubernetes stand for labs  |EN | |
 | **Kubernetes CheatSheet** | [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/commands/) | MiniKube CheatSheets  |EN | |
 | **Fast-Kubernetes** | [github.com/omerbsezer](https://github.com/omerbsezer/Fast-Kubernetes) | Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm  |EN | |
+| **100 Days Of Kubernetes** | [00daysofkubernetes.io](https://100daysofkubernetes.io/) | 100 Days of Kubernetes is the challenge in which we aim to learn something new related to Kubernetes each day across 100 Days  |EN | |
+| **Fast Kubernetes** | [github.com/omerbsezer](https://github.com/omerbsezer/Fast-Kubernetes) | This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.  |EN | |
+| **Kubernetes The Hard Way** | [github.com/kelseyhightower](https://github.com/kelseyhightower/kubernetes-the-hard-way) | This tutorial walks you through setting up Kubernetes the hard way  |EN | |
 
 
 
@@ -283,6 +300,7 @@
 | **Professional Cloud DevOps Engineer Certification** | [Google Cloud](https://cloud.google.com/learn/certification/cloud-devops-engineer) | Google Cloud Certification  |EN | |
 | **Google Cloud** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H) | Курс по Google Cloud Platform ADV-IT  |ru | |
 | **Google Cloud Platform for Beginners** | [Youtube](https://www.youtube.com/playlist?list=PL34sAs7_26wM4ETdsdrRrO1euoUtO4jF6) | Beginners tutorial on Google Cloud Platform  |EN | |
+| **Google Cloud Platform Full Course** | [Youtube](https://www.youtube.com/watch?v=-pMtwYXSFK8&ab_channel=Simplilearn) | GCP tutorial, AWS vs GCP, GCP web hosting, Google cloud ML, GCP fundamentals, Google Cloud Platform Fundamentals (CP100A) Certification Training  |EN | |
 
 
 
@@ -297,11 +315,13 @@
 | **Bash Scripting Full Course 3 Hours** | [Youtube](https://www.youtube.com/watch?v=e7BufAVwDiM&ab_channel=linuxhint) | Bash Boot Camp Course  |EN | |
 | **Course: Beginners Guide to the Terminal (Bash)** | [Youtube](https://www.youtube.com/playlist?list=PLYQSCk-qyTW0d88jNocdi_YIFMA5Fnpug) | Big Bash Scripting Course  |EN | |
 | **Bash Scripting Tutorial** | [ryanstutorials.net](https://ryanstutorials.net/bash-scripting-tutorial/) | Big Bash Scripting Practical Tutorial  |EN | |
+| **Шпаргалка по bash** | [github.com/cyberspacedk/BASH-Commands](https://github.com/cyberspacedk/BASH-Commands) | Шпаргалка базових команд Git Bash, терміналу OSX, терміналу linux  |ru | |
 
 ### Powershell
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
+| **Командная оболочка PowerShell** | [Youtube](https://www.youtube.com/playlist?list=PL1aqAoC4A0sXnzbnAvIa36s8P3Ogo8FR_) | Навчальний курс "Командная оболочка PowerShell: путь к силе"  |ru | |
 | **All things Microsoft PowerShell** | [Youtube](https://www.youtube.com/playlist?list=PLCGGtLsUjhm2k22nFHHdupAK0hSNZVfXi) | Everything you need to know to get started with PowerShell  |EN | |
 
 ### Python
@@ -321,7 +341,9 @@
 | **"Поколение Python": курс для начинающих** | [stepik.org](https://stepik.org/course/58852) | Курс-тренажер, допомагає вивчити Python на практиці  |ru | |
 | **Futurecoder** | [futurecoder.io](https://futurecoder.io/course/#toc) | Interactive Python training course  |EN | |
 | **Python від NIX Education** | [education.nixsolutions.com](https://education.nixsolutions.com/course/view.php?id=16) | Безкоштовний курс по Python від NIX Solutions  |UA/EN | |
+| **PythonNoobs** | [github.com/PythonNoobs/python_developer](https://github.com/PythonNoobs/python_developer) | Велика збірка ресурсів для навчання  |ru | |
 | **Comprehensive Python Cheatsheet** | [github.com/gto76](https://github.com/gto76/python-cheatsheet) | Useful and nice Python cheatsheet  |EN | |
+| **The Algorithms - Python** | [github.com/TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | All algorithms implemented in Python - for education  |EN | |
 
 ### Go
 | Name | URL | Description | Language | 
@@ -331,6 +353,8 @@
 | **Разработка & Язык Go** | [Youtube](https://www.youtube.com/playlist?list=PLbTTxxr-hMmxZMXsvaE-PozXxktdJ5zLR) | Курс по Go від Максима Жашкевича  |ru | |
 | **Golang від NIX Education** | [education.nixsolutions.com](https://education.nixsolutions.com/course/view.php?id=12) | Безкоштовний курс по Go від NIX Solutions  |UA/EN | |
 | **A Tour of Go** | [go.dev](https://go.dev/tour/welcome/1) | Practical self-studying GO course  |EN | |
+| **Введение в программирование на Go** | [github.com/maxpoletaev/golang-book](https://github.com/maxpoletaev/golang-book) | Книга для навчання програмування мовою Go  |ru | |
+| **The Algorithms - Go** | [github.com/TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) | All algorithms implemented in Go - for education  |EN | |
 
 ### Rust
 | Name | URL | Description | Language | 
@@ -354,47 +378,7 @@
 
 ## DevSecOps
 
-**Розділ з вивчення побудови безпечного CI/CD.**
-
-| Name | URL | Description | Meta | 
-| :---------- | :---------- | :---------- | :----------: |
-| **Ultimate DevSecOps library** | [https://github.com/sberdachuk-epam/DevSecOps](https://github.com/sberdachuk-epam/DevSecOps) | Ultimate DevSecOps library  |![Git Secrets](https://img.shields.io/github/stars/sberdachuk-epam/DevSecOps?style=for-the-badge) |
-| **DevSecOps Roadmap** | [https://github.com/hahwul/DevSecOps](https://github.com/hahwul/DevSecOps) | Ultimate DevSecOps library  |![Git Secrets](https://img.shields.io/github/stars/hahwul/DevSecOps?style=for-the-badge) |
-| **Hack The Box** | [hackthebox.com](https://www.hackthebox.com/) | The #1 cybersecurity upskilling platform  |EN | |
-
-### Labs for vulnerability testing
-
-| Name | URL | Description | Language | 
-| :---------- | :---------- | :---------- | :----------: |
-| **CloudFoxable** | [https://github.com/BishopFox](https://github.com/BishopFox/cloudfoxable) | CloudFox helps penetration testers and security professionals find exploitable attack paths in cloud infrastructure  |EN | |
-| **CloudGoat** | [https://github.com/RhinoSecurityLabs](https://github.com/RhinoSecurityLabs/cloudgoat) | CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool  |EN | |
-| **OWASP ServerlessGoat** | [https://github.com/OWASP](https://github.com/OWASP/Serverless-Goat) | Educate on how serverless application layer weaknesses can be exploited  |EN | |
-| **OWASP Wrongsecrets** | [https://github.com/OWASP](https://github.com/OWASP/wrongsecrets) | The game is packed with real life examples of how to not store secrets in your software  |EN | |
-| **AWS S3 CTF Challenges** | [https://n0j.github.io](https://n0j.github.io/2017/10/02/aws-s3-ctf.html) |  Series of brief challenges focusing on AWS S3 misconfiguration for the CTF at AppSec USA 2017 and CactusCon 2017  |EN | |
-| **Breaking and Pwning Apps and Servers on AWS and Azure** | [github.com/appsecco](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) |  The training is meant to be a hands-on training with guided walkthroughs, scenario based attacks, coverage of tool that can be used for attacking and auditing  |EN | |
-| **Sadcloud** | [https://github.com/nccgroup/sadcloud](https://github.com/nccgroup/sadcloud) |  Sadcloud is a tool for spinning up insecure AWS infrastructure with Terraform  |EN | |
-| **Damn Vulnerable Cloud Application** | [https://github.com/m6a-UdS/dvca](https://github.com/m6a-UdS/dvca) |  A demonstration project to show how to do privilege escalation on AWS  |EN | |
-| **AWS Detonation Lab** | [https://github.com/sonofagl1tch](https://github.com/sonofagl1tch/AWSDetonationLab) |  Scripts can be used as proof-of-concept to generate a detonation lab via a cloudformation template (AWS)  |EN | |
-| **lambhack** | [https://github.com/wickett/lambhack](https://github.com/wickett/lambhack) |  Allows you to take advantage of our tried and true application security problems, namely arbitrary code execution, XSS, injection attacks aand more (AWS)  |EN | |
-| **Cfngoat - Vulnerable Cloudformation Template** | [https://github.com/bridgecrewio/cfngoat](https://github.com/bridgecrewio/cfngoat) |  A learning and training project that demonstrates how common configuration errors can find their way into production cloud environments  |EN | |
-| **CdkGoat - Vulnerable AWS CDK Infrastructure** | [https://github.com/bridgecrewio/cdkgoat](https://github.com/bridgecrewio/cdkgoat) |  Another learning and training project that demonstrates how common configuration errors can find their way into production cloud environments  |EN | |
-| **AWSGoat : A Damn Vulnerable AWS Infrastructure** | [https://github.com/ine-labs/AWSGoat](https://github.com/ine-labs/AWSGoat) |  Learning and training AWS cloud pentesting/red-teaming, auditing IaC, secure coding, detection and mitigation  |EN | |
-| **AWSGoat : A Damn Vulnerable Azure Infrastructure** | [https://github.com/ine-labs/AzureGoat](https://github.com/ine-labs/AzureGoat) |  Learning and training Azure cloud pentesting/red-teaming, auditing IaC, secure coding, detection and mitigation  |EN | |
-| **CONVEX** | [https://github.com/Azure/CONVEX](https://github.com/Azure/CONVEX) |  Spins up Capture The Flag environments in your Azure tenant for participants to play through  |EN | |
-| **caponeme** | [https://github.com/avishayil/caponeme](https://github.com/avishayil/caponeme) |  A vulnerable cloud environment that meant to mock Capital One Breach for educational purposes  |EN | |
-| **TerraGoat - Vulnerable Terraform Infrastructure** | [https://github.com/bridgecrewio/terragoat](https://github.com/bridgecrewio/terragoat) |  A learning and training project that demonstrates how common configuration errors can find their way into production cloud environments  |EN | |
-| **IAM Vulnerable** | [https://github.com/BishopFox/iam-vulnerable](https://github.com/BishopFox/iam-vulnerable) |  Learning how to identify and exploit vulnerable IAM configurations that allow for privilege escalation  |EN | |
-| **TryHackMe** | [tryhackme.com](https://tryhackme.com/) | Learning cyber security  |EN | |
-| **Hack The Box** | [hackthebox.com](https://www.hackthebox.com/) | The #1 cybersecurity upskilling platform  |EN | |
-| **OWASP Juice Shop** | [owasp.org](https://owasp.org/www-project-juice-shop/) | Game/tutorial teaches you in security trainings, awareness demos, CTFs and as a guinea pig for security tools  |EN | |
-| **Flaws** | [flaws.cloud](http://flaws.cloud/) | Game/tutorial teaches you AWS (Amazon Web Services) security concepts  |EN | |
-| **Flaws2** | [flaws2.cloud](http://flaws2.cloud/) | Another game/tutorial teaches you AWS (Amazon Web Services) security concepts  |EN | |
-| **AWS Well-Architected Labs** | [wellarchitectedlabs.com](https://wellarchitectedlabs.com/security/) | Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS)  |EN | |
-| **CTF 101 worklab** | [r00tz-ctf.awssecworkshops.com](https://r00tz-ctf.awssecworkshops.com/) | Security CTF 101 worklab, sponsored by Amazon Web Services Security  |EN | |
-| **Thunder CTF** | [thunder-ctf.cloud](http://thunder-ctf.cloud/) | Thunder CTF allows players to practice attacking vulnerable cloud projects on Google Cloud Platform (GCP)  |EN | |
-| **The Big IAM Challenge by Wiz** | [bigiamchallenge.com](https://bigiamchallenge.com/challenge/1) | Put yourself to the test with our unique CTF challenge and boost your AWS IAM knowledge  |EN | |
-| **PenTesting.Cloud** | [pentesting.cloud](https://pentesting.cloud/) | A free pentesting learning platform  |EN | |
-| **GCP Goat** | [gcpgoat.joshuajebaraj.com](https://gcpgoat.joshuajebaraj.com/index.html) | Intentionally vulnerable GCP environment to learn and practice GCP Security  |EN | |
+**Розділ з вивчення побудови безпечного CI/CD знаходиться [тут](https://github.com/allozavrr/LearningDevOpsUkraine/blob/main/DevSecOps.md).**
 
 
 ## Interview

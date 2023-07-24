@@ -321,6 +321,7 @@
 | **"Поколение Python": курс для начинающих** | [stepik.org](https://stepik.org/course/58852) | Курс-тренажер, допомагає вивчити Python на практиці  |ru | |
 | **Futurecoder** | [futurecoder.io](https://futurecoder.io/course/#toc) | Interactive Python training course  |EN | |
 | **Python від NIX Education** | [education.nixsolutions.com](https://education.nixsolutions.com/course/view.php?id=16) | Безкоштовний курс по Python від NIX Solutions  |UA/EN | |
+| **Comprehensive Python Cheatsheet** | [github.com/gto76](https://github.com/gto76/python-cheatsheet) | Useful and nice Python cheatsheet  |EN | |
 
 ### Go
 | Name | URL | Description | Language | 

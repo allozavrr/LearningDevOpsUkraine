@@ -342,6 +342,7 @@
 | **Futurecoder** | [futurecoder.io](https://futurecoder.io/course/#toc) | Interactive Python training course  |EN | |
 | **Python від NIX Education** | [education.nixsolutions.com](https://education.nixsolutions.com/course/view.php?id=16) | Безкоштовний курс по Python від NIX Solutions  |UA/EN | |
 | **PythonNoobs** | [github.com/PythonNoobs/python_developer](https://github.com/PythonNoobs/python_developer) | Велика збірка ресурсів для навчання  |ru | |
+| **Comprehensive Python Cheatsheet** | [github.com/gto76](https://github.com/gto76/python-cheatsheet) | Useful and nice Python cheatsheet  |EN | |
 | **The Algorithms - Python** | [github.com/TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | All algorithms implemented in Python - for education  |EN | |
 
 ### Go

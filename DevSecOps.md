@@ -32,6 +32,7 @@
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
+| **How To Secure A Linux Server** | [github.com/imthenachoman](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | An evolving how-to guide for securing a Linux server  |EN | |
 | **CloudFoxable** | [github.com/BishopFox](https://github.com/BishopFox/cloudfoxable) | CloudFox helps penetration testers and security professionals find exploitable attack paths in cloud infrastructure  |EN | |
 | **CloudGoat** | [github.com/RhinoSecurityLabs](https://github.com/RhinoSecurityLabs/cloudgoat) | CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool  |EN | |
 | **OWASP ServerlessGoat** | [github.com/OWASP](https://github.com/OWASP/Serverless-Goat) | Educate on how serverless application layer weaknesses can be exploited  |EN | |

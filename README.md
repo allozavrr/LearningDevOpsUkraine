@@ -251,6 +251,7 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **Kubernetes Roadmap** | [roadmap.sh](https://roadmap.sh/kubernetes) | Kubernetes Roadmap  |EN | |
 | **Kubernetes и его кубики** | [Youtube](https://www.youtube.com/watch?v=hzY1ny6umVA&ab_channel=OTUS%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) | Базове відео по Kubernetes  |ru | |
+| **Kubernetes Уроки** | [Youtube](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ) | Непоганий курс для новачків по Kubernetes  |ru | |
 | **Kubernetes** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi) | Kubernetes від ADV-IT  |ru | |
 | **Kubernetes Уроки** | [Youtube](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ) | Лист з уроками для початківців  |ru | |
 | **Открытая вечерняя школа. Kubernetes для разработчиков** | [Youtube](https://www.youtube.com/playlist?list=PL8D2P0ruohOBSA_CDqJLflJ8FLJNe26K-) | Корисний великий плейлист для початківців  |ru | |
@@ -354,6 +355,7 @@
 | **Golang від NIX Education** | [education.nixsolutions.com](https://education.nixsolutions.com/course/view.php?id=12) | Безкоштовний курс по Go від NIX Solutions  |UA/EN | |
 | **A Tour of Go** | [go.dev](https://go.dev/tour/welcome/1) | Practical self-studying GO course  |EN | |
 | **Введение в программирование на Go** | [github.com/maxpoletaev/golang-book](https://github.com/maxpoletaev/golang-book) | Книга для навчання програмування мовою Go  |ru | |
+| **gopherlings** | [github.com/soypat](https://github.com/soypat/gopherlings) | Learn Go by fixing tiny incorrect programs  |EN | |
 | **The Algorithms - Go** | [github.com/TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) | All algorithms implemented in Go - for education  |EN | |
 
 ### Rust

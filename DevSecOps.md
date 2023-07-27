@@ -51,6 +51,7 @@
 | **caponeme** | [github.com/avishayil/caponeme](https://github.com/avishayil/caponeme) |  A vulnerable cloud environment that meant to mock Capital One Breach for educational purposes  |EN | |
 | **TerraGoat - Vulnerable Terraform Infrastructure** | [github.com/bridgecrewio/terragoat](https://github.com/bridgecrewio/terragoat) |  A learning and training project that demonstrates how common configuration errors can find their way into production cloud environments  |EN | |
 | **IAM Vulnerable** | [github.com/BishopFox/iam-vulnerable](https://github.com/BishopFox/iam-vulnerable) |  Learning how to identify and exploit vulnerable IAM configurations that allow for privilege escalation  |EN | |
+| **Web-Check** | [github.com/Lissy93](https://github.com/Lissy93/web-check) | Comprehensive, on-demand open source intelligence for any website  |EN | |
 | **TryHackMe** | [tryhackme.com](https://tryhackme.com/) | Learning cyber security  |EN | |
 | **Hack The Box** | [hackthebox.com](https://www.hackthebox.com/) | The #1 cybersecurity upskilling platform  |EN | |
 | **OWASP Juice Shop** | [owasp.org](https://owasp.org/www-project-juice-shop/) | Game/tutorial teaches you in security trainings, awareness demos, CTFs and as a guinea pig for security tools  |EN | |

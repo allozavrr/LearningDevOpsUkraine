@@ -16,6 +16,7 @@
 
 - **[DevSecOps](#devsecops)**
    - **[Labs for vulnerability testing](#labs-for-vulnerability-testing)**
+   - **[Maturity models](#maturity-models)**
 
 
 ## DevSecOps
@@ -27,6 +28,16 @@
 | **Ultimate DevSecOps library** | [github.com/sberdachuk-epam/DevSecOps](https://github.com/sberdachuk-epam/DevSecOps) | Ultimate DevSecOps library  |![Git Secrets](https://img.shields.io/github/stars/sberdachuk-epam/DevSecOps?style=for-the-badge) |
 | **DevSecOps Roadmap** | [github.com/hahwul/DevSecOps](https://github.com/hahwul/DevSecOps) | Ultimate DevSecOps library  |![Git Secrets](https://img.shields.io/github/stars/hahwul/DevSecOps?style=for-the-badge) |
 | **Hack The Box** | [hackthebox.com](https://www.hackthebox.com/) | The #1 cybersecurity upskilling platform  |EN | |
+
+
+### Maturity models
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **OWASP SAMM** | [owaspsamm.org](https://owaspsamm.org/model/) | The prime maturity model for software assurance  |EN | |
+| **OWASP Devsecops Maturity Model** | [owaspsamm.org](https://owasp.org/www-project-devsecops-maturity-model/) | Security measures which are applied when using DevOps strategies and how these can be prioritized  |EN | |
+
+
 
 ### Labs for vulnerability testing
 

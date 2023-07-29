@@ -27,7 +27,8 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **Ultimate DevSecOps library** | [github.com/sberdachuk-epam/DevSecOps](https://github.com/sberdachuk-epam/DevSecOps) | Ultimate DevSecOps library  |![Git Secrets](https://img.shields.io/github/stars/sberdachuk-epam/DevSecOps?style=for-the-badge) |
 | **DevSecOps Roadmap** | [github.com/hahwul/DevSecOps](https://github.com/hahwul/DevSecOps) | Ultimate DevSecOps library  |![Git Secrets](https://img.shields.io/github/stars/hahwul/DevSecOps?style=for-the-badge) |
-| **Hack The Box** | [hackthebox.com](https://www.hackthebox.com/) | The #1 cybersecurity upskilling platform  |EN | |
+| **Awesome DevSecOps** | [github.com/TaptuIT](https://github.com/TaptuIT/awesome-devsecops) | Curating the best DevSecOps resources and tooling  |![Git Secrets](https://img.shields.io/github/stars/TaptuIT/awesome-devsecops?style=for-the-badge) |
+| **Awesome DevSecOps** | [github.com/devsecops](https://github.com/devsecops/awesome-devsecops) | A collection of documents, presentations, videos, training materials, tools, services  |![Git Secrets](https://img.shields.io/github/stars/devsecops/awesome-devsecops?style=for-the-badge) |
 
 
 ### Maturity models

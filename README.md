@@ -1,4 +1,7 @@
 # LearningDevOpsUkraine
+![alt text](https://github.com/allozavrr/Screenshots/blob/main/devops-training-down-banner-new.jpg "Hello, this is me!")
+
+
 **Доброго всім дня.**
 
 **Це невеличкий конспект з допомоги тим, хто хоче вивчати DevOps у 2023 році.**

@@ -87,6 +87,10 @@
 
 *Моделювання загроз у контексті Secure Development Lifecycle - це процес аналізу архітектури ПЗ щодо наявності в ній потенційних уразливостей та небезпечних технологій. Воно потрібне для впровадження процесу перевірок ІБ ще на етапі проектування архітектури. На цьому ж етапі формуються вимоги з боку фахівців з безпеки додатків, які надалі йдуть у backlog.*
 
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Awesome Threat Modeling** | [github.com/hysnsec](https://github.com/hysnsec/awesome-threat-modelling) | A curated list of threat modeling resources (books, courses - free and paid, videos, tools, tutorials and workshop to practice on) for learning  |EN | |
+
 **Open-source**
 
 | Name | URL | Description | Language | 

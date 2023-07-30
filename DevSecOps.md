@@ -92,3 +92,9 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **OWASP Threat Dragon** | [owasp.org](https://owasp.org/www-project-threat-dragon/) | Modeling tool used to create threat model diagrams as part of a secure development lifecycle  |EN | |
+| **Microsoft Threat Modeling Tool** | [learn.microsoft.com](https://learn.microsoft.com/en-gb/azure/security/develop/threat-modeling-tool) | The Threat Modeling Tool is a core element of the Microsoft Security Development Lifecycle (SDL)  |EN | |
+| **pytm: A Pythonic framework for threat modeling** | [github.com/izarg](https://github.com/izar/pytm) | Shift threat modeling to the left, making threat modeling more automated and developer-centric  |EN | |
+| **materialize threats** | [github.com/secmerc](https://github.com/secmerc/materialize-threats) | Developers and security practitioners who want to perform 'graph' analysis on data flow diagrams - using SQL  |EN | |
+| **threatspec** | [github.com/threatspec](https://github.com/threatspec/threatspec) | Developers and security practitioners who want to threat modeling annotations as comments inside source code  |EN | |
+| **The Raindance Project** | [github.com/devsecops](https://github.com/devsecops/raindance) | The attack map process for identifying target surface and adversary attack strategies that lead to exploit and compromise  |EN | |
+| **threagile** | [github.com/Threagile](https://github.com/Threagile/threagile) | The open-source toolkit for agile threat modeling  |EN | |

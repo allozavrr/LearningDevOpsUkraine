@@ -14,12 +14,13 @@
 
 # Table of Contents
 
-- **[DevSecOps](#devsecops)**
+- **[Resourses](#resourses)**
    - **[Labs for vulnerability testing](#labs-for-vulnerability-testing)**
    - **[Maturity models](#maturity-models)**
+- **[Tools](#tools)**
+   - **[Threat modeling](#threat-modeling)**
 
-
-## DevSecOps
+## Resourses
 
 **Розділ з вивчення побудови безпечного CI/CD.**
 
@@ -76,3 +77,18 @@
 | **The Big IAM Challenge by Wiz** | [bigiamchallenge.com](https://bigiamchallenge.com/challenge/1) | Put yourself to the test with our unique CTF challenge and boost your AWS IAM knowledge  |EN | |
 | **PenTesting.Cloud** | [pentesting.cloud](https://pentesting.cloud/) | A free pentesting learning platform  |EN | |
 | **GCP Goat** | [gcpgoat.joshuajebaraj.com](https://gcpgoat.joshuajebaraj.com/index.html) | Intentionally vulnerable GCP environment to learn and practice GCP Security  |EN | |
+
+
+## Tools
+
+**Розділ з вивчення побудови безпечного CI/CD.**
+
+### Threat modeling
+
+*Моделювання загроз у контексті Secure Development Lifecycle - це процес аналізу архітектури ПЗ щодо наявності в ній потенційних уразливостей та небезпечних технологій. Воно потрібне для впровадження процесу перевірок ІБ ще на етапі проектування архітектури. На цьому ж етапі формуються вимоги з боку фахівців з безпеки додатків, які надалі йдуть у backlog*
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **OWASP Threat Dragon** | [owasp.org](https://owasp.org/www-project-threat-dragon/) | Modeling tool used to create threat model diagrams as part of a secure development lifecycle  |EN | |

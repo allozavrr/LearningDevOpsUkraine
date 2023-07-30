@@ -18,7 +18,6 @@
    ![alt text](https://github.com/allozavrr/Screenshots/blob/main/DevopsBurger.png "Taste IT!")
 </details>    
 
-
 # Table of Contents
 
 - **[Roadmaps](#roadmaps)**

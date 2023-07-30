@@ -98,3 +98,10 @@
 | **threatspec** | [github.com/threatspec](https://github.com/threatspec/threatspec) | Developers and security practitioners who want to threat modeling annotations as comments inside source code  |EN | |
 | **The Raindance Project** | [github.com/devsecops](https://github.com/devsecops/raindance) | The attack map process for identifying target surface and adversary attack strategies that lead to exploit and compromise  |EN | |
 | **threagile** | [github.com/Threagile](https://github.com/Threagile/threagile) | The open-source toolkit for agile threat modeling  |EN | |
+
+**Paid (enterprise)**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Iriusrisk** | [iriusrisk.com](https://www.iriusrisk.com/) | Modeling platform automates the threat modeling process, enabling developers to design and build secure software  |EN | |
+| **Iriusrisk** | [threatmodeler.com](https://threatmodeler.com/) | Modeling platform can securely design, build and validate from development through deployment  |EN | |

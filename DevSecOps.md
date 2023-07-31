@@ -115,6 +115,10 @@
 
 *Статичний аналізатор коду - інструмент, що повідомляє про вразливість програми, орієнтуючись на її вихідні коди.*
 
+**SAST in details**
+
+
+
 **Open-source**
 
 | Name | URL | Description | Language | 
@@ -133,4 +137,7 @@
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
-| **Iriusrisk** | [iriusrisk.com](https://www.iriusrisk.com/) | Modeling platform automates the threat modeling process, enabling developers to design and build secure software  |EN | |
+| **Checkmarx** | [checkmarx.com](https://checkmarx.com/) | Platform for securing every phase of development  |EN | |
+| **PT AI** | [ptsecurity.com](https://www.ptsecurity.com/ww-en/products/ai/) | Only source code analyzer providing analysis and convenient tools to automatically confirm vulnerabilities   |EN | |
+| **Veracode Static Analysis** | [veracode.com](https://www.veracode.com/products/binary-static-analysis-sast) | Only source code analyzer providing analysis and convenient tools to automatically confirm vulnerabilities   |EN | |
+| **Veracode Static Analysis** | [veracode.com](https://www.veracode.com/products/binary-static-analysis-sast) | Scan code at each development stage with IDE, Pipeline, and Policy scans   |EN | |

@@ -41,7 +41,6 @@
 | **OWASP Devsecops Maturity Model** | [owaspsamm.org](https://owasp.org/www-project-devsecops-maturity-model/) | Security measures which are applied when using DevOps strategies and how these can be prioritized  |EN | |
 
 
-
 ### Labs for vulnerability testing
 
 | Name | URL | Description | Language | 
@@ -78,6 +77,7 @@
 | **The Big IAM Challenge by Wiz** | [bigiamchallenge.com](https://bigiamchallenge.com/challenge/1) | Put yourself to the test with our unique CTF challenge and boost your AWS IAM knowledge  |EN | |
 | **PenTesting.Cloud** | [pentesting.cloud](https://pentesting.cloud/) | A free pentesting learning platform  |EN | |
 | **GCP Goat** | [gcpgoat.joshuajebaraj.com](https://gcpgoat.joshuajebaraj.com/index.html) | Intentionally vulnerable GCP environment to learn and practice GCP Security  |EN | |
+
 
 
 ## Tools
@@ -117,6 +117,10 @@
 
 **SAST in details**
 
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **OWASP Source Code Analysis Tools** | [owasp.org](https://owasp.org/www-community/Source_Code_Analysis_Tools) | SAST tools for all programming languages  |EN | |
+| **Static Analysis Tools** | [github.com/analysis-tools-dev](https://github.com/analysis-tools-dev/static-analysis) |  Static analysis tools for all programming languages, build tools, config files and more  |EN | |
 
 
 **Open-source**

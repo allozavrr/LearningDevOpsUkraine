@@ -110,3 +110,27 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **Iriusrisk** | [iriusrisk.com](https://www.iriusrisk.com/) | Modeling platform automates the threat modeling process, enabling developers to design and build secure software  |EN | |
 | **Iriusrisk** | [threatmodeler.com](https://threatmodeler.com/) | Modeling platform can securely design, build and validate from development through deployment  |EN | |
+
+### SAST (Статичні аналізатори апплікацій)
+
+*Статичний аналізатор коду - інструмент, що повідомляє про вразливість програми, орієнтуючись на її вихідні коди.*
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **ShiftLeft Scan** | [github.com/ShiftLeftSecurity](https://github.com/ShiftLeftSecurity/sast-scan) | Scan can detect various kinds of security flaws in your application, and infrastructure code without any remote server  |EN | |
+| **Salus** | [github.com/coinbase](https://github.com/coinbase/salus) | A tool for coordinating the execution of security scanners  |EN | |
+| **HuskyCI** | [github.com/globocom](https://github.com/globocom/huskyci) | An open source tool that orchestrates security tests and centralizes all results into a database for further analysis and metrics  |EN | |
+| **Graudit** | [github.com/wireghoul](https://github.com/wireghoul/graudit/) | A simple script and signature sets that allows you to find potential security flaws in source code using the GNU utility grep  |EN | |
+| **RIPS** | [github.com/robocoder](https://github.com/robocoder/rips-scanner) | A static source code analyser for vulnerabilities in PHP scripts  |EN | |
+| **Joern** | [github.com/joernio](https://github.com/joernio/joern) | Platform for analyzing source code, bytecode, and binary executables  |EN | |
+| **CodeQL** | [securitylab.github.com](https://securitylab.github.com/tools/codeql/) | CodeQL lets you query code as though it were data  |EN | |
+| **Semgrep** | [semgrep.dev](https://semgrep.dev/editor) | Platform for analyzing source code, bytecode, and binary executables  |EN | |
+| **RIPS** | [github.com/robocoder](https://github.com/robocoder/rips-scanner) | A static source code analyser for vulnerabilities in PHP scripts  |EN | |
+
+**Paid (enterprise)**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Iriusrisk** | [iriusrisk.com](https://www.iriusrisk.com/) | Modeling platform automates the threat modeling process, enabling developers to design and build secure software  |EN | |

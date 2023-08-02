@@ -122,7 +122,6 @@
 | **OWASP Source Code Analysis Tools** | [owasp.org](https://owasp.org/www-community/Source_Code_Analysis_Tools) | SAST tools for all programming languages  |EN | |
 | **Static Analysis Tools** | [github.com/analysis-tools-dev](https://github.com/analysis-tools-dev/static-analysis) |  Static analysis tools for all programming languages, build tools, config files and more  |EN | |
 
-
 **Open-source**
 
 | Name | URL | Description | Language | 

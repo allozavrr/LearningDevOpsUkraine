@@ -25,8 +25,9 @@
 
 **Розділ з вивчення побудови безпечного CI/CD.**
 
-| Name | URL | Description | Meta | 
+| Name | URL | Description | Meta/Language | 
 | :---------- | :---------- | :---------- | :----------: |
+| **Simple Guide for Development and Operation** | [devsecopsguides.com](https://devsecopsguides.com/) | The most recommended omprehensive resource for integrating security into the software development lifecycle  |EN | |
 | **Ultimate DevSecOps library** | [github.com/sberdachuk-epam/DevSecOps](https://github.com/sberdachuk-epam/DevSecOps) | Ultimate DevSecOps library  |![Git Secrets](https://img.shields.io/github/stars/sberdachuk-epam/DevSecOps?style=for-the-badge) |
 | **DevSecOps Roadmap** | [github.com/hahwul/DevSecOps](https://github.com/hahwul/DevSecOps) | Ultimate DevSecOps library  |![Git Secrets](https://img.shields.io/github/stars/hahwul/DevSecOps?style=for-the-badge) |
 | **Awesome DevSecOps** | [github.com/TaptuIT](https://github.com/TaptuIT/awesome-devsecops) | Curating the best DevSecOps resources and tooling  |![Git Secrets](https://img.shields.io/github/stars/TaptuIT/awesome-devsecops?style=for-the-badge) |

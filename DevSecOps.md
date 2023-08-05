@@ -20,6 +20,8 @@
    - **[Maturity models](#maturity-models)**
 - **[Tools](#tools)**
    - **[Threat modeling](#threat-modeling)**
+   - **[SAST](#sast)**
+   - **[DAST](#dast)**
 
 ## Resourses
 
@@ -145,3 +147,13 @@
 | **PT AI** | [ptsecurity.com](https://www.ptsecurity.com/ww-en/products/ai/) | Only source code analyzer providing analysis and convenient tools to automatically confirm vulnerabilities   |EN | |
 | **Veracode Static Analysis** | [veracode.com](https://www.veracode.com/products/binary-static-analysis-sast) | Only source code analyzer providing analysis and convenient tools to automatically confirm vulnerabilities   |EN | |
 | **Veracode Static Analysis** | [veracode.com](https://www.veracode.com/products/binary-static-analysis-sast) | Scan code at each development stage with IDE, Pipeline, and Policy scans   |EN | |
+
+### DAST (Динамічні аналізатори апплікацій)
+
+*Динамічний аналізатор коду - інструмент, що повідомляє про вразливість програми, орієнтуючись на відповіді сервера по завданим запитам.*
+
+**DAST in details**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Awesome DAST** | [github.com/analysis-tools-dev](https://github.com/analysis-tools-dev/dynamic-analysis/) | DAST tools for all programming languages  |EN | |

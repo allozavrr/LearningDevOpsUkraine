@@ -22,6 +22,7 @@
    - **[Threat modeling](#threat-modeling)**
    - **[SAST](#sast)**
    - **[DAST](#dast)**
+   - **[Secrets search](#secrets-search)**
 
 ## Resourses
 
@@ -183,3 +184,13 @@
 | **PT AI** | [ptsecurity.com](https://www.ptsecurity.com/ww-en/products/ai/) | Source code analyzer providing high-quality analysis and convenient tools to automatically confirm vulnerabilities  |EN | |
 | **Veracode** | [veracode.com](https://www.veracode.com/products/dynamic-analysis-dast) | Dynamic testing tool Crashtest Security showing a growing focus in DAST  |EN | |
 | **Tenable Web App Scanning** | [tenable.com](https://www.tenable.com/products/tenable-io/web-application-scanning) | Simple, Scalable and Automated Vulnerability Scanning for Web Applications  |EN | |
+
+### Secrets search
+
+*Інструменти для пошуку чутливої інформації.*
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **git-secrets** | [github.com/awslabs](https://github.com/awslabs/git-secrets) | Prevents you from committing passwords and other sensitive information to a git repository  |EN | |

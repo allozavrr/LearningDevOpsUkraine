@@ -171,3 +171,15 @@
 | **Automatic API Attack Tool** | [github.com/imperva](https://github.com/imperva/automatic-api-attack-tool) | API attack tool  |EN | |
 | **Wapiti** | [github.com/wapiti-scanner](https://github.com/wapiti-scanner/wapiti) | Web vulnerability scanner written in Python   |EN | |
 | **Vega** | [github.com/subgraph](https://github.com/subgraph/Vega) | Web vulnerability scanner written in Java   |EN | |
+
+**Paid (enterprise)**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **PortSwigger Burp Suite** | [portswigger.net](https://portswigger.net/burp) | The enterprise-enabled dynamic web vulnerability scanner  |EN | |
+| **NetSparker** | [nvicti.com](https://www.invicti.com/) | Application security testing for enterprise  |EN | |
+| **Acunetix** | [acunetix.com](https://www.acunetix.com/) | Automate application security testing   |EN | |
+| **WebInspect** | [microfocus.com](https://www.microfocus.com/en-us/cyberres/application-security/webinspect) | Automated dynamic testing solution that provides comprehensive vulnerability detection  |EN | |
+| **PT AI** | [ptsecurity.com](https://www.ptsecurity.com/ww-en/products/ai/) | Source code analyzer providing high-quality analysis and convenient tools to automatically confirm vulnerabilities  |EN | |
+| **Veracode** | [veracode.com](https://www.veracode.com/products/dynamic-analysis-dast) | Dynamic testing tool Crashtest Security showing a growing focus in DAST  |EN | |
+| **Tenable Web App Scanning** | [tenable.com](https://www.tenable.com/products/tenable-io/web-application-scanning) | Simple, Scalable and Automated Vulnerability Scanning for Web Applications  |EN | |

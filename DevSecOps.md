@@ -157,3 +157,17 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Awesome DAST** | [github.com/analysis-tools-dev](https://github.com/analysis-tools-dev/dynamic-analysis/) | DAST tools for all programming languages  |EN | |
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Arachni** | [github.com/Arachni](https://github.com/Arachni/arachni) | Ruby framework aimed towards helping penetration testers and administrators evaluate the security of web applications  |EN | |
+| **OWASP ZAP** | [github.com/zaproxy](https://github.com/zaproxy/zaproxy) | Automatically find security vulnerabilities in your web applications  |EN | |
+| **w3af** | [github.com/andresriancho](https://github.com/andresriancho/w3af) | Open source web application security scanner  |EN | |
+| **Nikto** | [github.com/sullo](https://github.com/sullo/nikto) | Web server scanner   |EN | |
+| **N.E.R.V.E** | [github.com/PaytmLabs](https://github.com/PaytmLabs/nerve) | Vulnerability scanner tailored to find low-hanging fruit level vulnerabilities   |EN | |
+| **Nuclei** | [github.com/projectdiscovery](https://github.com/projectdiscovery/nuclei) | Scanning for a variety of protocols, including TCP, DNS, HTTP, SSL, File, Whois, Websocket, Headless    |EN | |
+| **Automatic API Attack Tool** | [github.com/imperva](https://github.com/imperva/automatic-api-attack-tool) | API attack tool  |EN | |
+| **Wapiti** | [github.com/wapiti-scanner](https://github.com/wapiti-scanner/wapiti) | Web vulnerability scanner written in Python   |EN | |
+| **Vega** | [github.com/subgraph](https://github.com/subgraph/Vega) | Web vulnerability scanner written in Java   |EN | |

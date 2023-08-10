@@ -124,6 +124,7 @@
 | **DevOps exercises** | [github.com/bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE   |![Git Secrets](https://img.shields.io/github/stars/bregman-arie/devops-exercises?style=for-the-badge) |
 | **Awesome Site Reliability Engineering** | [github.com/dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) | A curated list of awesome Site Reliability and Production Engineering resources  |![Git Secrets](https://img.shields.io/github/stars/astergon/awesome-sre?style=for-the-badge) |
 | **Test your Sysadmin skills** | [github.com/trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) | This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview such as Linux/Networks  |![Git Secrets](https://img.shields.io/github/stars/trimstray/test-your-sysadmin-skills?style=for-the-badge) |
+| **DevOps-Bash-tools** | [github.com/HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) | Scripts for many popular DevOps technologies  |![Git Secrets](https://img.shields.io/github/stars/HariSekhon/DevOps-Bash-tools?style=for-the-badge) |
 
 
 

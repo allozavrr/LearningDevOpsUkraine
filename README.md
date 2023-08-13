@@ -126,6 +126,7 @@
 | **Awesome Site Reliability Engineering** | [github.com/dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) | A curated list of awesome Site Reliability and Production Engineering resources  |![Git Secrets](https://img.shields.io/github/stars/astergon/awesome-sre?style=for-the-badge) |
 | **Test your Sysadmin skills** | [github.com/trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) | This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview such as Linux/Networks  |![Git Secrets](https://img.shields.io/github/stars/trimstray/test-your-sysadmin-skills?style=for-the-badge) |
 | **DevOps-Bash-tools** | [github.com/HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) | Scripts for many popular DevOps technologies  |![Git Secrets](https://img.shields.io/github/stars/HariSekhon/DevOps-Bash-tools?style=for-the-badge) |
+| **Coding Interview University** | [github.com/jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | A short to-do list of study topics for becoming a software engineer (useful for your coding skills)  |![Git Secrets](https://img.shields.io/github/stars/jwasham/coding-interview-university?style=for-the-badge) |
 
 
 
@@ -230,6 +231,7 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **Terraform** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYujWDTYb-Zbofdl44Jxb2l8) | Terraform доступно від ADV-IT  |ru | |
 | **Terraform - From Zero to Certified Professional** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYsUzsBeN8rPe1EoqKWhMlnF) | Terraform - From Zero to Certified Professional від ADV-IT  |EN | |
+| **Awesome Terraform** | [github.com/shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | A curated list of resources on HashiCorp's Terraform  |EN | |
 
 ## Containerization
 

@@ -194,3 +194,5 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **git-secrets** | [github.com/awslabs](https://github.com/awslabs/git-secrets) | Prevents you from committing passwords and other sensitive information to a git repository  |EN | |
+| **git-secrets** | [github.com/awslabs](https://github.com/awslabs/git-secrets) | Prevents you from committing passwords and other sensitive information to a git repository  |EN | |
+| **git-secrets** | [github.com/awslabs](https://github.com/awslabs/git-secrets) | Prevents you from committing passwords and other sensitive information to a git repository  |EN | |

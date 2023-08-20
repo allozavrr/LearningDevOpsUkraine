@@ -320,7 +320,7 @@
 | **Шпаргалка по bash** | [github.com/cyberspacedk/BASH-Commands](https://github.com/cyberspacedk/BASH-Commands) | Шпаргалка базових команд Git Bash, терміналу OSX, терміналу linux  |ru | |
 | **pure bash bible** | [github.com/dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | A collection of pure bash alternatives to external processes  |EN | |
 
-### Games from Bash learning
+#### Games from Bash learning
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |

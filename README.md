@@ -43,6 +43,7 @@
    - **[Google Cloud Platform](#google-cloud-plarform)**
 - **[Programming and Scripting](#programming-and-scripting)**
    - **[Bash](#bash)**
+     - *[Games from Bash learning](games-from-bash-learning)*
    - **[Powershell](#powershell)**
    - **[Python](#python)**
    - **[Go](#go)**
@@ -318,6 +319,15 @@
 | **Bash Scripting Tutorial** | [ryanstutorials.net](https://ryanstutorials.net/bash-scripting-tutorial/) | Big Bash Scripting Practical Tutorial  |EN | |
 | **Шпаргалка по bash** | [github.com/cyberspacedk/BASH-Commands](https://github.com/cyberspacedk/BASH-Commands) | Шпаргалка базових команд Git Bash, терміналу OSX, терміналу linux  |ru | |
 | **pure bash bible** | [github.com/dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | A collection of pure bash alternatives to external processes  |EN | |
+
+#### Games from Bash learning
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **bashcrawl** | [gitlab.com/slackermedia](https://gitlab.com/slackermedia/bashcrawl) | Learn Linux commands by playing a simple text adventure  |EN | |
+| **Terminus** | [web.mit.edu](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) | Awesome Linux quest  |EN | |
+| **The Command Line Murders** | [github.com/gannonk08](https://github.com/gannonk08/clmystery) | Awesome Linux detective  |EN | |
+| **Bandit** | [overthewire.org](https://overthewire.org/wargames/bandit/bandit0.html) | Awesome hacker game  |EN | |
 
 ### Powershell
 

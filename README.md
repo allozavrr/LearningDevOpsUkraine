@@ -43,7 +43,7 @@
    - **[Google Cloud Platform](#google-cloud-plarform)**
 - **[Programming and Scripting](#programming-and-scripting)**
    - **[Bash](#bash)**
-     - *[Games from Bash learning](games-from-bash-learning)*
+     - *[Games from Bash learning](#games-from-bash-learning)*
    - **[Powershell](#powershell)**
    - **[Python](#python)**
    - **[Go](#go)**

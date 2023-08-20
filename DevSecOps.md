@@ -16,6 +16,7 @@
 # Table of Contents
 
 - **[Resourses](#resourses)**
+   - **[YouTube](#youtube)**
    - **[Labs for vulnerability testing](#labs-for-vulnerability-testing)**
    - **[Maturity models](#maturity-models)**
 - **[Tools](#tools)**
@@ -27,6 +28,17 @@
 ## Resourses
 
 **Розділ з вивчення побудови безпечного CI/CD.**
+
+### YouTube
+
+| Name | URL | Description | Meta/Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **DevSecOps - Implementing Secure CI/CD Pipelines** | [Youtube](https://www.youtube.com/playlist?list=PLjNII-Jkdjfz5EXWlGMBRk63PC8uJsHMo) | Short videos for beginners in DevSecOps  |EN | |
+| **Курсы по кибербезопасности с нуля до аналитика DevSecOps** | [Youtube](https://www.youtube.com/playlist?list=PLMiVLClzZDbTWSsxWfVvrvdyHgSa7Wvaw) | Введення у кібербезпеку  |ru | |
+| **Информационная безопасность** | [Youtube](https://www.youtube.com/playlist?list=PLVb9C2cD47iyf_qh2bX2K4TzAutbsAPdq) | Підбірка відео з окремих аспектів DevSecOps  |ru | |
+
+
+### Links
 
 | Name | URL | Description | Meta/Language | 
 | :---------- | :---------- | :---------- | :----------: |

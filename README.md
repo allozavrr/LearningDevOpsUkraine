@@ -317,6 +317,7 @@
 | **Course: Beginners Guide to the Terminal (Bash)** | [Youtube](https://www.youtube.com/playlist?list=PLYQSCk-qyTW0d88jNocdi_YIFMA5Fnpug) | Big Bash Scripting Course  |EN | |
 | **Bash Scripting Tutorial** | [ryanstutorials.net](https://ryanstutorials.net/bash-scripting-tutorial/) | Big Bash Scripting Practical Tutorial  |EN | |
 | **Шпаргалка по bash** | [github.com/cyberspacedk/BASH-Commands](https://github.com/cyberspacedk/BASH-Commands) | Шпаргалка базових команд Git Bash, терміналу OSX, терміналу linux  |ru | |
+| **pure bash bible** | [github.com/dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | A collection of pure bash alternatives to external processes  |EN | |
 
 ### Powershell
 

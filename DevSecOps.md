@@ -194,4 +194,35 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **git-secrets** | [github.com/awslabs](https://github.com/awslabs/git-secrets) | Prevents you from committing passwords and other sensitive information to a git repository  |EN | |
-| **git-secrets** | [github.com/awslabs](https://github.com/awslabs/git-secrets) | Prevents you from committing passwords and other sensitive information to a git repository  |EN | |
+| **Gitrob** | [github.com/michenriksen](https://github.com/michenriksen/gitrob) | Find potentially sensitive files pushed to public repositories on Github  |EN | |
+| **Gitleaks** | [github.com/gitleaks](https://github.com/gitleaks/gitleaks) | SAST tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos  |EN | |
+| **TruffleHog** | [github.com/trufflesecurity](https://github.com/trufflesecurity/trufflehog) | Tool for detecting and preventing secrets in GitHub Repo/S3 bucket  |EN | |
+| **TruffleHog** | [github.com/trufflesecurity](https://github.com/trufflesecurity/trufflehog) | Tool for detecting and preventing secrets in GitHub Repo/S3 bucket  |EN | |
+| **Talisman** | [github.com/thoughtworks](https://github.com/thoughtworks/talisman) | Tool that installs a hook to your repository to ensure that potential secrets or sensitive information  |EN | |
+| **Slack Watchman** | [github.com/PaperMtn](https://github.com/PaperMtn/slack-watchman) | Monitoring and enumerating Slack for exposed secrets  |EN | |
+| **GitLab Watchman** | [github.com/PaperMtn](https://github.com/PaperMtn/gitlab-watchman) | Application that uses the GitLab API to detect exposed secrets and personal data  |EN | |
+| **Rusty Hog** | [github.com/newrelic](https://github.com/newrelic/rusty-hog) | Set of scanners that use regular expressions to try and detect the presence of sensitive information, such as API keys, passwords, and personal information  |EN | |
+| **Rusty Hog** | [github.com/newrelic](https://github.com/newrelic/rusty-hog) | Set of scanners that use regular expressions to try and detect the presence of sensitive information, such as API keys, passwords, and personal information  |EN | |
+| **detect-secrets** | [github.com/Yelp](https://github.com/Yelp/detect-secrets) | Aptly named module for detecting secrets within a code base  |EN | |
+| **repo-supervisor** | [github.com/auth0](https://github.com/auth0/repo-supervisor) | Tool that helps you to detect secrets and passwords in your code  |EN | |
+
+**Paid (enterprise)**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **GitGuardian** | [gitguardian.com](https://www.gitguardian.com/) | Scan and fix hardcoded secrets in source code, CI/CD pipelines, and developer productivity tools  |EN | |
+| **SpectralOps** | [spectralops.io](https://spectralops.io/) | Monitor, classify, and protect your code, assets, and infrastructure for exposed API keys, tokens, credentials, and high-risk security misconfigurations  |EN | |
+
+### Анализатори сторонніх компонентів (SCA)
+
+*Анализатор сторонніх компонентів - інструмент, що здійснює пошук вразливостей у сторонніх open-source компонентах, які підключені до проекту*
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **OWASP Composition Analysis** | [owasp.org](https://owasp.org/www-community/Component_Analysis) | OWASP Tools Listing  |EN | |
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Dependency check** | [github.com/jeremylong](https://github.com/jeremylong/DependencyCheck) | SCA tool that attempts to detect publicly disclosed vulnerabilities contained within a project's dependencies  |EN | |

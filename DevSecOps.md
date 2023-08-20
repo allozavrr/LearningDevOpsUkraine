@@ -217,3 +217,12 @@
 
 *Анализатор сторонніх компонентів - інструмент, що здійснює пошук вразливостей у сторонніх open-source компонентах, які підключені до проекту*
 
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **OWASP Composition Analysis** | [owasp.org](https://owasp.org/www-community/Component_Analysis) | OWASP Tools Listing  |EN | |
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Dependency check** | [github.com/jeremylong](https://github.com/jeremylong/DependencyCheck) | SCA tool that attempts to detect publicly disclosed vulnerabilities contained within a project's dependencies  |EN | |

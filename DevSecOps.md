@@ -24,6 +24,7 @@
    - **[SAST](#sast)**
    - **[DAST](#dast)**
    - **[Secrets search](#secrets-search)**
+   - **[Аналізатори сторонніх компонентів (SCA)](#аналізатори-сторонніх-компонентів-(sca))**
 
 ## Resourses
 
@@ -225,9 +226,9 @@
 | **GitGuardian** | [gitguardian.com](https://www.gitguardian.com/) | Scan and fix hardcoded secrets in source code, CI/CD pipelines, and developer productivity tools  |EN | |
 | **SpectralOps** | [spectralops.io](https://spectralops.io/) | Monitor, classify, and protect your code, assets, and infrastructure for exposed API keys, tokens, credentials, and high-risk security misconfigurations  |EN | |
 
-### Анализатори сторонніх компонентів (SCA)
+### Аналізатори сторонніх компонентів (SCA)
 
-*Анализатор сторонніх компонентів - інструмент, що здійснює пошук вразливостей у сторонніх open-source компонентах, які підключені до проекту*
+*Аналізатор сторонніх компонентів - інструмент, що здійснює пошук вразливостей у сторонніх open-source компонентах, які підключені до проекту*
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
@@ -253,3 +254,4 @@
 | **WhiteSource for Developers** | [mend.io](https://www.mend.io/native-integrations-for-developers-environments/) | Keep your open source components secure and compliant throughout the development lifecycle from inside your environments  |EN | |
 | **JFrog XRay** | [jfrog.com](https://jfrog.com/xray/) | End-to-End Software Supply Chain Security powered by the JFrog Platform  |EN | |
 | **Black Duck** | [synopsys.com](https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html) | Tool helps manage the security, quality, and license compliance risks that come from the use of open source and third-party code in applications and containers  |EN | |
+

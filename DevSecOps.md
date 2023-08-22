@@ -238,3 +238,8 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Dependency check** | [github.com/jeremylong](https://github.com/jeremylong/DependencyCheck) | SCA tool that attempts to detect publicly disclosed vulnerabilities contained within a project's dependencies  |EN | |
+| **Dependency Track** | [dependencytrack.org](https://dependencytrack.org/) | Continuous SBOM Analysis Platform  |EN | |
+| **Nexus Vulnerability Scanner** | [sonatype.com](https://www.sonatype.com/products/vulnerability-scanner) | Tool to find out if your software has any open source security vulnerabilities  |EN | |
+| **ClearlyDefined** | [clearlydefined.io](https://clearlydefined.io/?sortDesc=true&sort=releaseDate) | Search and check SCA in one platform  |EN | |
+| **Renovate** | [mend.io](https://www.mend.io/renovate/) | Scans your software, discovers dependencies, automatically checks to see if an updated version exists, and helps you by submitting automated pull requests  |EN | |
+

@@ -243,3 +243,13 @@
 | **ClearlyDefined** | [clearlydefined.io](https://clearlydefined.io/?sortDesc=true&sort=releaseDate) | Search and check SCA in one platform  |EN | |
 | **Renovate** | [mend.io](https://www.mend.io/renovate/) | Scans your software, discovers dependencies, automatically checks to see if an updated version exists, and helps you by submitting automated pull requests  |EN | |
 
+**Paid (enterprise)**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Sonatype Nexus IQ** | [sonatype.com](https://www.sonatype.com/products/intelligence) | Open Source Components Analyzed  |EN | |
+| **Veracode SCA** | [veracode.com](https://www.veracode.com/products/software-composition-analysis) | Strong Performer in SCA Wave  |EN | |
+| **Snyk Open Source** | [snyk.io](https://snyk.io/product/open-source-security-management/) | Tool provides advanced software composition analysis (SCA) backed by industry-leading security and application intelligence  |EN | |
+| **WhiteSource for Developers** | [mend.io](https://www.mend.io/native-integrations-for-developers-environments/) | Keep your open source components secure and compliant throughout the development lifecycle from inside your environments  |EN | |
+| **JFrog XRay** | [jfrog.com](https://jfrog.com/xray/) | End-to-End Software Supply Chain Security powered by the JFrog Platform  |EN | |
+| **Black Duck** | [synopsys.com](https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html) | Tool helps manage the security, quality, and license compliance risks that come from the use of open source and third-party code in applications and containers  |EN | |

@@ -311,3 +311,34 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Docker bench** | [github.com/docker](https://github.com/docker/docker-bench-security) | Open-source utility so the Docker community can have an easy way to self-assess their hosts and Docker containers against this benchmark  |EN | |
+| **Dockle** | [github.com/goodwithtech](https://github.com/goodwithtech/dockle) | Container image linter for security, helping build the best-practice Docker Image  |EN | |
+| **Kubebench** | [github.com/aquasecurity](https://github.com/aquasecurity/kube-bench) | Tool that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark  |EN | |
+
+
+
+### Безпека Kubernetes
+
+*Інструменти для перевірки безпеки Kubernetes*
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Kubernetes Security Checklist and Requirements - All in One** | [github.com/Vinum-Security](https://github.com/Vinum-Security/kubernetes-security-checklist/blob/main/README.md) | Way to make your cluster secure  |EN | |
+| **Awesome Kubernetes Security** | [ggithub.com/ksoclabs](https://github.com/ksoclabs/awesome-kubernetes-security) | AA curated list of awesome Kubernetes security resources  |EN | |
+| **Awesome k8s Security** | [github.com/magnologan](https://github.com/magnologan/awesome-k8s-security) | A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos  |EN | |
+
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Kubehunter** | [github.com/aquasecurity](https://github.com/aquasecurity/kube-hunter) | Increase awareness and visibility for security issues in Kubernetes environments  |EN | |
+| **KubiScan** | [github.com/cyberark](https://github.com/cyberark/KubiScan) | A tool for scanning Kubernetes cluster for risky permissions in Kubernetes's Role-based access control (RBAC) authorization model  |EN | |
+| **Krane** | [github.com/appvia](https://github.com/appvia/krane) | Kubernetes RBAC static analysis tool  |EN | |
+| **Statboard** | [github.com/aquasecurity](https://github.com/aquasecurity/starboard) | Security tools in the cloud native world for identifying and informing about security issues in Kubernetes  |EN | |
+| **Kubeaudit** | [github.com/Shopify](https://github.com/Shopify/kubeaudit) | Command line tool and a Go package to audit Kubernetes clusters for various different security concerns  |EN | |
+| **Kubesec** | [github.com/controlplaneio](https://github.com/controlplaneio/kubesec) | Security risk analysis for Kubernetes resources  |EN | |
+| **audit2rbac** | [github.com/liggitt](https://github.com/liggitt/audit2rbac) | Tool takes a Kubernetes audit log and username as input, and generates RBAC role and binding objects that cover all the API requests made by that user  |EN | |
+| **KubeClarity** | [github.com/openclarity](https://github.com/openclarity/kubeclarity) | Tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems  |EN | |
+| **Kubestriker** | [github.com/vchinnipilli](https://github.com/vchinnipilli/kubestriker) | Tool designed to tackle Kuberenetes cluster security issues due to misconfigurations and will help strengthen the overall IT infrastructure of any organisation  |EN | |
+| **Container penetration toolkit** | [github.com/cdk-team](https://github.com/cdk-team/CDK) | Open-sourced container penetration toolkit, designed for offering stable exploitation in different slimmed containers without any OS dependency  |EN | |
+

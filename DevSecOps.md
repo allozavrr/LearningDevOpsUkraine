@@ -24,6 +24,12 @@
    - **[SAST](#sast)**
    - **[DAST](#dast)**
    - **[Secrets search](#secrets-search)**
+   - **[Аналізатори сторонніх компонентів (SCA)](#аналізатори-сторонніх-компонентів-(sca))**
+   - **[Тестування за принципами Behaviour Driven Development](#тестування-за-принципами-behaviour-driven-development)**
+   - **[Сканери Docker образів](#сканери-docker-образів)**
+   - **[Перевірка Docker / Kubernetes на відповідність](#перевірка-docker-/-kubernetes-на-відповідність)**
+
+
 
 ## Resourses
 
@@ -225,9 +231,9 @@
 | **GitGuardian** | [gitguardian.com](https://www.gitguardian.com/) | Scan and fix hardcoded secrets in source code, CI/CD pipelines, and developer productivity tools  |EN | |
 | **SpectralOps** | [spectralops.io](https://spectralops.io/) | Monitor, classify, and protect your code, assets, and infrastructure for exposed API keys, tokens, credentials, and high-risk security misconfigurations  |EN | |
 
-### Анализатори сторонніх компонентів (SCA)
+### Аналізатори сторонніх компонентів (SCA)
 
-*Анализатор сторонніх компонентів - інструмент, що здійснює пошук вразливостей у сторонніх open-source компонентах, які підключені до проекту*
+*Аналізатор сторонніх компонентів - інструмент, що здійснює пошук вразливостей у сторонніх open-source компонентах, які підключені до проекту*
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
@@ -253,3 +259,55 @@
 | **WhiteSource for Developers** | [mend.io](https://www.mend.io/native-integrations-for-developers-environments/) | Keep your open source components secure and compliant throughout the development lifecycle from inside your environments  |EN | |
 | **JFrog XRay** | [jfrog.com](https://jfrog.com/xray/) | End-to-End Software Supply Chain Security powered by the JFrog Platform  |EN | |
 | **Black Duck** | [synopsys.com](https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html) | Tool helps manage the security, quality, and license compliance risks that come from the use of open source and third-party code in applications and containers  |EN | |
+
+### Тестування за принципами Behaviour Driven Development
+
+*Фреймворки, що дозволяють описувати перевірки за методологією BDD*
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **BDD-Security** | [github.com/iriusrisk](https://github.com/iriusrisk/bdd-security) | Security testing framework that uses Behaviour Driven Development concepts to create self-verifying security specifications  |EN | |
+| **Gauntlt** | [github.com/michenriksen](https://gauntlt/gauntlt/gauntlt) | Ruggedization framework that enables security testing that is usable by devs, ops and security  |EN | |
+
+### Сканери Docker образів
+
+*Інструменти, спрямовані на пошук вразливостей в образах контейнерів*
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **29 Docker security tools compared** | [sysdig.com](https://sysdig.com/blog/20-docker-security-tools/) | Alphabetical index of Docker Security tools  |EN | |
+| **Awesome Container Security** | [github.com/kai5263499](https://github.com/kai5263499/awesome-container-security) | A collection of container related security resources  |EN | |
+| **Awesome Docker Security** | [github.com/myugan](https://github.com/myugan/awesome-docker-security) | List of awesome resources about docker security included books, blogs, video, tools and cases  |EN | |
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Clair** | [github.com/quay](https://github.com/quay/clair) | Open Source project for the static analysis of vulnerabilities in application containers  |EN | |
+| **Trivy** | [github.com/aquasecurity](https://github.com/aquasecurity/trivy) | Comprehensive and versatile security scanner  |EN | |
+| **Anchore** | [github.com/anchore](https://github.com/anchore/anchore-cli) | Command line interface on top of the Anchore Engine REST API  |EN | |
+| **Dagda** | [github.com/eliasgranderubio](https://github.com/eliasgranderubio/dagda/) | Tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images  |EN | |
+| **whalescan** | [github.com/nccgroup](https://github.com/nccgroup/whalescan) | Vulnerability scanner for Windows containers, which performs several benchmark checks, as well as checking for CVEs/vulnerable packages on the container  |EN | |
+| **grype** | [github.com/nccgroup](https://github.com/nccgroup/whalescan) | Vulnerability scanner for container images and filesystems  |EN | |
+| **syft** | [github.com/anchore](https://github.com/anchore/syft) | CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems  |EN | |
+
+**Paid (enterprise)**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Snyk Container** | [snyk.io](https://snyk.io/product/container-vulnerability-management/) | Container and Kubernetes security that helps developers and DevOps find, prioritize, and fix vulnerabilities throughout the SDLC   |EN | |
+| **TrendMicro SmartCheck** | [trendmicro.com](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/cloud-one-container-image-security.html) | Simplify security for your cloud-native applications with advanced container image scanning  |EN | |
+| **WhiteSource for containers** | [mend.io](https://www.mend.io/solution-for-containers/) | Scans container images for multiple sources of risk, including open source vulnerabilities (CVEs), license policy violations, and exposed secret  |EN | |
+| **Sonatype Container** | [sonatype.com](https://www.sonatype.com/products/containerl) | Run automated tests for security compliance to ensure you catch vulnerabilities early in the container development cycle  |EN | |
+
+### Перевірка Docker / Kubernetes на відповідність
+
+*Інструменти для перевірки Docker / Kubernetes ресурсу на відповідність CIS/PCI DSS*
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Docker bench** | [github.com/docker](https://github.com/docker/docker-bench-security) | Open-source utility so the Docker community can have an easy way to self-assess their hosts and Docker containers against this benchmark  |EN | |

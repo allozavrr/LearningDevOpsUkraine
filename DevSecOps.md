@@ -27,7 +27,10 @@
    - **[Аналізатори сторонніх компонентів (SCA)](#аналізатори-сторонніх-компонентів-(sca))**
    - **[Тестування за принципами Behaviour Driven Development](#тестування-за-принципами-behaviour-driven-development)**
    - **[Сканери Docker образів](#сканери-docker-образів)**
-   - **[Перевірка Docker / Kubernetes на відповідність](#перевірка-docker-/-kubernetes-на-відповідність)**
+   - **[Перевірка Docker / Kubernetes на відповідність](#перевірка-docker--kubernetes-на-відповідність)**
+   - **[Безпека Kubernetes](#безпека-kubernetes)**
+   - **[Container Runtime](#container-runtime)**
+   - **[Runtime Security](#runtime-security)**
 
 
 
@@ -323,7 +326,7 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Kubernetes Security Checklist and Requirements - All in One** | [github.com/Vinum-Security](https://github.com/Vinum-Security/kubernetes-security-checklist/blob/main/README.md) | Way to make your cluster secure  |EN | |
-| **Awesome Kubernetes Security** | [ggithub.com/ksoclabs](https://github.com/ksoclabs/awesome-kubernetes-security) | AA curated list of awesome Kubernetes security resources  |EN | |
+| **Awesome Kubernetes Security** | [ggithub.com/ksoclabs](https://github.com/ksoclabs/awesome-kubernetes-security) | A curated list of awesome Kubernetes security resources  |EN | |
 | **Awesome k8s Security** | [github.com/magnologan](https://github.com/magnologan/awesome-k8s-security) | A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos  |EN | |
 
 
@@ -340,5 +343,52 @@
 | **audit2rbac** | [github.com/liggitt](https://github.com/liggitt/audit2rbac) | Tool takes a Kubernetes audit log and username as input, and generates RBAC role and binding objects that cover all the API requests made by that user  |EN | |
 | **KubeClarity** | [github.com/openclarity](https://github.com/openclarity/kubeclarity) | Tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems  |EN | |
 | **Kubestriker** | [github.com/vchinnipilli](https://github.com/vchinnipilli/kubestriker) | Tool designed to tackle Kuberenetes cluster security issues due to misconfigurations and will help strengthen the overall IT infrastructure of any organisation  |EN | |
-| **Container penetration toolkit** | [github.com/cdk-team](https://github.com/cdk-team/CDK) | Open-sourced container penetration toolkit, designed for offering stable exploitation in different slimmed containers without any OS dependency  |EN | |
+| **CDK - Zero Dependency Container Penetration Toolkit** | [github.com/cdk-team](https://github.com/cdk-team/CDK) | Open-sourced container penetration toolkit, designed for offering stable exploitation in different slimmed containers without any OS dependency  |EN | |
+
+
+### Container Runtime
+
+*Інструменти для слідкування за поведінкою контейнерів у Runtime*
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Sysdig Falco** | [github.com/falcosecurity](https://github.com/falcosecurity/falco) | Сloud native runtime security tool for Linux operating systems  |EN | |
+| **Deepfence Runtime Threat Mapper** | [github.com/deepfence](https://github.com/deepfence/ThreatMapper) | Сombination of agent-based inspection and agent-less monitoring to provide the widest possible coverage to detect threats  |EN | |
+| **Stackrox** | [github.com/stackrox](https://github.com/stackrox/) | Сontainer security platform reduces the attack surface, ensures compliance, and stops attacks  |EN | |
+
+**Paid Cloud Native Security Platform (enterprise)**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Aqua CSP** | [aquasec.com](https://www.aquasec.com/aqua-cloud-native-security-platform/) | Accelerate secure innovation and protect your entire development lifecycle from code to cloud and back  |EN | |
+| **Aqua CSPM** | [aquasec.com](https://www.aquasec.com/products/cspm/) | Identify, prioritize, and remediate the most critical cloud security risks in real-time  |EN | |
+| **Prisma Cloud Compute** | [paloaltonetworks.com](https://www.paloaltonetworks.com/prisma/cloud) | Prisma Cloud secures applications from code to cloud   |EN | |
+| **NeuVector** | [suse.com](https://www.suse.com/neuvector/) | Continuously scan throughout the container lifecycle   |EN | |
+| **Sysdig** | [sysdig.com](https://sysdig.com/products/secure/) | Find and prioritize vulnerabilities, detect and respond to threats and anomalies and manage configurations, permissions, and compliance   |EN | |
+| **Tenable.io Container Security** | [tenable.com](https://www.tenable.com/products/tenable-cs) | Apply, monitor and report on security and compliance policies across multi-cloud environments   |EN | |
+| **Skyhigh** | [skyhighsecurity.com](https://www.skyhighsecurity.com/products/cloud-access-security-broker.html) | Secure corporate data in cloud applications from exfiltration to unauthorized users or devices while keeping your employees productive   |EN | |
+| **TrendMicro CloudOne** | [trendmicro.com](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/cloud-one-container-image-security.html) | Advanced container image scanning, policy-based admission control, and container runtime protection   |EN | |
+| **Qualys Container Security** | [qualys.com](https://www.qualys.com/apps/container-security/) | Discover, track and continuously secure containers – from build to runtime   |EN | |
+
+### Runtime Security
+
+*Інструменти для перевірки веб-застосунків у Runtime*
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **RASP** | [github.com/baidu](https://github.com/baidu/openrasp) | Tool can monitor various events including database queries, file operations and network requests etc  |EN | |
+| **Modsecurity** | [github.com/SpiderLabs](https://github.com/SpiderLabs/ModSecurity) | Cross platform web application firewall (WAF) engine for Apache, IIS and Nginx   |EN | |
+| **Dynatrace Community Edition** | [github.com/Dynatrace](https://github.com/Dynatrace) | Analytics and automation platform powered by causal AI. It has a paid version  |EN | |
+
+**Paid (enterprise)**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Dynatrace Community Edition** | [dynatrace.com](https://www.dynatrace.com/) | Paid version of Dynatrace - Analytics and automation platform powered by causal AI   |EN | |
+| **Datadog** | [datadoghq.com](https://www.datadoghq.com/product/application-security-management/) | Production visibility and security for your web applications and APIs   |EN | |
+| **Waratek** | [waratek.com](https://waratek.com/) | The Application Security platform for enterprise Java applications and APIs  |EN | |
 

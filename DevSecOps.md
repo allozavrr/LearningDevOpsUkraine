@@ -391,3 +391,4 @@
 | **Dynatrace Community Edition** | [dynatrace.com](https://www.dynatrace.com/) | Paid version of Dynatrace - Analytics and automation platform powered by causal AI   |EN | |
 | **Datadog** | [datadoghq.com](https://www.datadoghq.com/product/application-security-management/) | Production visibility and security for your web applications and APIs   |EN | |
 | **Waratek** | [waratek.com](https://waratek.com/) | The Application Security platform for enterprise Java applications and APIs  |EN | |
+

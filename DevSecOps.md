@@ -31,6 +31,7 @@
    - **[Безпека Kubernetes](#безпека-kubernetes)**
    - **[Container Runtime](#container-runtime)**
    - **[Runtime Security](#runtime-security)**
+   - **[IAST](#iast)**
 
 
 
@@ -345,6 +346,12 @@
 | **Kubestriker** | [github.com/vchinnipilli](https://github.com/vchinnipilli/kubestriker) | Tool designed to tackle Kuberenetes cluster security issues due to misconfigurations and will help strengthen the overall IT infrastructure of any organisation  |EN | |
 | **CDK - Zero Dependency Container Penetration Toolkit** | [github.com/cdk-team](https://github.com/cdk-team/CDK) | Open-sourced container penetration toolkit, designed for offering stable exploitation in different slimmed containers without any OS dependency  |EN | |
 
+**Paid (enterprise)**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Veracode IAST** | [veracode.com](https://www.veracode.com/products/container-security) | Integrate container security seamlessly into your existing pipeline  |EN | |
+
 
 ### Container Runtime
 
@@ -392,3 +399,22 @@
 | **Datadog** | [datadoghq.com](https://www.datadoghq.com/product/application-security-management/) | Production visibility and security for your web applications and APIs   |EN | |
 | **Waratek** | [waratek.com](https://waratek.com/) | The Application Security platform for enterprise Java applications and APIs  |EN | |
 
+
+### IAST
+
+*Інструменти, що поєднують практики SAST та DAST*
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Contrast** | [contrastsecurity.com](https://www.contrastsecurity.com/contrast-community-edition) | Ignite innovation velocity on the only unified security platform built to get secure code moving through the entire application development pipeline (for Java & .NET apps)  |EN | |
+
+**Paid (enterprise)**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Checkmarx IAST** | [checkmarx.com](https://checkmarx.com/product/cxiast-interactive-code-scanning/) | Discover the runtime vulnerabilities in your applications that other solutions just can’t find  |EN | |
+| **Synopsys IAST** | [synopsys.com](hhttps://www.synopsys.com/software-integrity/security-testing/interactive-application-security-testing.html) | IAST solution with active verification and sensitive-data tracking for web-based applications  |EN | |
+| **Acunetix IAST** | [acunetix.com](https://www.acunetix.com/vulnerability-scanner/acusensor-technology/) | IAST solution works with applications written in Node.js, PHP, Java (including the Spring framework), and ASP.NET  |EN | |
+| **Burp IAST** | [portswigger.net](https://portswigger.net/burp/documentation/desktop/tools/infiltrator) | Tool for instrumenting target web applications in order to facilitate testing using Burp Scanner for enterprise Java & .NET applications  |EN | |

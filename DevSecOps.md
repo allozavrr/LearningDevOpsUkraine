@@ -32,6 +32,7 @@
    - **[Container Runtime](#container-runtime)**
    - **[Runtime Security](#runtime-security)**
    - **[IAST](#iast)**
+   - **[Fuzzing](#fuzzing)**
 
 
 
@@ -91,7 +92,7 @@
 | **TerraGoat - Vulnerable Terraform Infrastructure** | [github.com/bridgecrewio/terragoat](https://github.com/bridgecrewio/terragoat) |  A learning and training project that demonstrates how common configuration errors can find their way into production cloud environments  |EN | |
 | **IAM Vulnerable** | [github.com/BishopFox/iam-vulnerable](https://github.com/BishopFox/iam-vulnerable) |  Learning how to identify and exploit vulnerable IAM configurations that allow for privilege escalation  |EN | |
 | **Web-Check** | [github.com/Lissy93](https://github.com/Lissy93/web-check) | Comprehensive, on-demand open source intelligence for any website  |EN | |
-| *Pentration Testing, Beginners To Expert!** | [github.com/xalgord](https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes)  | Web Application Penetration Testing for everyone  |EN | |
+| **Penetration Testing, Beginners To Expert!** | [github.com/xalgord](https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes)  | Web Application Penetration Testing for everyone  |EN | |
 | **TryHackMe** | [tryhackme.com](https://tryhackme.com/) | Learning cyber security  |EN | |
 | **Hack The Box** | [hackthebox.com](https://www.hackthebox.com/) | The #1 cybersecurity upskilling platform  |EN | |
 | **OWASP Juice Shop** | [owasp.org](https://owasp.org/www-project-juice-shop/) | Game/tutorial teaches you in security trainings, awareness demos, CTFs and as a guinea pig for security tools  |EN | |
@@ -327,7 +328,7 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Kubernetes Security Checklist and Requirements - All in One** | [github.com/Vinum-Security](https://github.com/Vinum-Security/kubernetes-security-checklist/blob/main/README.md) | Way to make your cluster secure  |EN | |
-| **Awesome Kubernetes Security** | [ggithub.com/ksoclabs](https://github.com/ksoclabs/awesome-kubernetes-security) | A curated list of awesome Kubernetes security resources  |EN | |
+| **Awesome Kubernetes Security** | [github.com/ksoclabs](https://github.com/ksoclabs/awesome-kubernetes-security) | A curated list of awesome Kubernetes security resources  |EN | |
 | **Awesome k8s Security** | [github.com/magnologan](https://github.com/magnologan/awesome-k8s-security) | A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos  |EN | |
 
 
@@ -418,3 +419,25 @@
 | **Synopsys IAST** | [synopsys.com](https://www.synopsys.com/software-integrity/security-testing/interactive-application-security-testing.html) | IAST solution with active verification and sensitive-data tracking for web-based applications  |EN | |
 | **Acunetix IAST** | [acunetix.com](https://www.acunetix.com/vulnerability-scanner/acusensor-technology/) | IAST solution works with applications written in Node.js, PHP, Java (including the Spring framework), and ASP.NET  |EN | |
 | **Burp IAST** | [portswigger.net](https://portswigger.net/burp/documentation/desktop/tools/infiltrator) | Tool for instrumenting target web applications in order to facilitate testing using Burp Scanner for enterprise Java & .NET applications  |EN | |
+
+### Fuzzing
+
+*Практика тестування програми, коли на вхід програмі подаються дані, які можуть призвести до невизначеної поведінки*
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Awesome Fuzzing** | [github.com/cpuu](https://github.com/cpuu/awesome-fuzzing#readme) | A curated list of references to awesome Fuzzing for security testing  |EN | |
+| **Fuzzing Paper Collection** | [github.com/0xricksanchez](https://github.com/0xricksanchez/paper_collection) | Academic papers related to fuzzing, binary analysis, IoT security, and general exploitation  |EN | |
+| **Fuzzing Papper** | [github.com/wcventure](https://github.com/wcventure/FuzzingPaper) | This website is only used for collecting and grouping the related paper  |EN | |
+| **OSS-Fuzz від Google** | [github.com/google](https://github.com/google/oss-fuzz) | OSS-Fuzz aims to make common open source software more secure and stable by combining modern fuzzing techniques with scalable, distributed execution  |EN | |
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **AFL++** | [github.com/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) | AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support  |EN | |
+| **Syzkaller** | [github.com/google](https://github.com/google/syzkaller) | A coverage-guided fuzzer  |EN | |
+| **restler-fuzzer** | [github.com/microsoft](https://github.com/microsoft/restler-fuzzer) | REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services  |EN | |
+| **Skipfish** | [github.com/spinkham](https://github.com/spinkham/skipfish) | An active web application security reconnaissance tool  |EN | |
+| **LibFuzzer** | [llvm.org](https://llvm.org/docs/LibFuzzer.html) | LibFuzzer is an in-process, coverage-guided, evolutionary fuzzing engine  |EN | |
+

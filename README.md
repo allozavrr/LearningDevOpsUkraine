@@ -373,7 +373,7 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Rust - язык программирования с нуля** | [Youtube](https://www.youtube.com/playlist?list=PLQuaNOtBP3Tps9JrGMs76d_YbOGygrLUJ) | Курс по Rust для новачків  |ru | |
-
+| **Rust Lang Lessons** | [Youtube](https://www.youtube.com/playlist?list=PLnalMG3z2RzF39Hg-PG-x_rH8Yr2ztYbV) | Уроки по Rust для новачків  |ru | |
 
 
 ## Monitoring

@@ -43,7 +43,7 @@
    - **[Google Cloud Platform](#google-cloud-plarform)**
 - **[Programming and Scripting](#programming-and-scripting)**
    - **[Bash](#bash)**
-     - *[Games from Bash learning](#games-from-bash-learning)*
+     - *[Games for Bash learning](#games-for-bash-learning)*
    - **[Powershell](#powershell)**
    - **[Python](#python)**
    - **[Go](#go)**
@@ -324,7 +324,7 @@
 | **Шпаргалка по bash** | [github.com/cyberspacedk/BASH-Commands](https://github.com/cyberspacedk/BASH-Commands) | Шпаргалка базових команд Git Bash, терміналу OSX, терміналу linux  |ru | |
 | **pure bash bible** | [github.com/dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | A collection of pure bash alternatives to external processes  |EN | |
 
-#### Games from Bash learning
+#### Games for Bash learning
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |

@@ -405,7 +405,7 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Девопс и Поиск Работы в IT** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYuu1RAT4l1tCkZrJzkIaNgL) | Плейлист з порадами з проходження інтервʼю від ADV-IT  |ru | |
-| **Пошук роботи в ІТ | Як ефективно подаватись на вакансії | Проходимо рекрутмент-фільтр** | [Youtube](https://www.youtube.com/watch?v=RXX4AWGkR8o&ab_channel=DataDrivenDiscussions) | Випуск про те, як ефективно подаватись на вакансії, як пройти рекрутмент-фільтр   |UA | |
+| **Пошук роботи в ІТ. Як ефективно подаватись на вакансії. Проходимо рекрутмент-фільтр** | [Youtube](https://www.youtube.com/watch?v=RXX4AWGkR8o&ab_channel=DataDrivenDiscussions) | Випуск про те, як ефективно подаватись на вакансії, як пройти рекрутмент-фільтр   |UA | |
 | **Прямий ефір: технічне інтерв'ю DevOps-джуніора** | [Youtube](https://www.youtube.com/watch?v=S-uAOt2ZLQw&ab_channel=EPAMUkraineCareer) | Питання, які можуть бути задані на технічній співбесіді на рівні джуніора  |UA | |
 | **Співбесіда з DevOps. 300+ запитань для Junior, Middle, Senior** | [dou.ua](https://dou.ua/lenta/articles/interview-devops/) | Великий матеріал з питаннями для самопідготовки  |UA | |
 | **Preparing for a DevOps Engineer Interview: A Comprehensive Guide** | [dev.to](https://dev.to/tutunak/preparing-for-a-devops-engineer-interview-a-comprehensive-guide-26n4) | Really useful manual for a DevOps Engineer Interview  |EN | |

@@ -4,13 +4,13 @@
 
 **Це невеличкий конспект з допомоги тим, хто хоче вивчати DevSecOps у 2023 році.**
 
-**Усі посилання зібрані в одній доці**
+**Усі посилання зібрані в одній доці.**
 
 *Перелік не є закінченим. Доповнення і зауваження дуже вітаються.*
 
 *Також дякую телеграм-спільноті https://t.me/DevOpsMarathon та її очільнику - @edemus.*
 
-**[Never give up!](https://www.youtube.com/watch?v=GC5E8ie2pdM&ab_channel=TinaTurner)**
+**[Don't Stop Believin'!](https://www.youtube.com/watch?v=1k8craCGpgs&ab_channel=journeyVEVO)**
 
 
 # Table of Contents

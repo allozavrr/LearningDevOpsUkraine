@@ -4,13 +4,13 @@
 
 **Це невеличкий конспект з допомоги тим, хто хоче вивчати DevSecOps у 2023 році.**
 
-**Усі посилання зібрані в одній доці**
+**Усі посилання зібрані в одній доці.**
 
 *Перелік не є закінченим. Доповнення і зауваження дуже вітаються.*
 
 *Також дякую телеграм-спільноті https://t.me/DevOpsMarathon та її очільнику - @edemus.*
 
-**[Never give up!](https://www.youtube.com/watch?v=GC5E8ie2pdM&ab_channel=TinaTurner)**
+**[Don't stop believin'!!](https://www.youtube.com/watch?v=1k8craCGpgs&ab_channel=journeyVEVO)**
 
 
 # Table of Contents
@@ -460,3 +460,22 @@
 | **Appknox** | [appknox.com](https://www.appknox.com/) | Automated mobile app security checks  |EN | |
 
 
+## Vulnerability Management
+
+*Інструменти що збирають та агрегують результати перевірки сторонніх інструментів*
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **DefectDojo** | [github.com/DefectDojo](https://github.com/DefectDojo/django-DefectDojo) | Security orchestration and vulnerability management platform  |EN | |
+| **Secure code Box** | [github.com/secureCodeBox](https://github.com/secureCodeBox/secureCodeBox) | Kubernetes based, modularized toolchain for continuous security scans of your software project  |EN | |
+| **Faraday** | [github.com/infobyte](https://github.com/infobyte/faraday) | Open source vulnerability manager  |EN | |
+| **Archery** | [archerysec.github.io](https://archerysec.github.io/archerysec/) | Continuous integration/continuous delivery (CI/CD) toolchains to specify testing, and control the release of a given build based on results  |EN | |
+
+**Paid (enterprise)**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **ThreatFix** | [coalfire.com](https://www.coalfire.com/services/offensive-security/application-security/threadfix) | Over 40 different security and development tools and integrations helping you to track vulnerabilities from discovery to resolution  |EN | |
+| **Cisco Vulnerability Management** | [cisco.com](https://www.cisco.com/site/us/en/products/security/vulnerability-management/index.html) | Contextual insight and threat intelligence needed to intercept the next exploit and respond with precision  |EN | |

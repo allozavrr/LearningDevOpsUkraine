@@ -328,10 +328,12 @@
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
+| **Linux CLI Text Processing Exercises** | [github.com/learnbyexample](https://github.com/learnbyexample/TUI-apps/tree/main/CLI-Exercises) | This TUI application includes 60+ questions to test your CLI text processing skills  |EN | |
 | **bashcrawl** | [gitlab.com/slackermedia](https://gitlab.com/slackermedia/bashcrawl) | Learn Linux commands by playing a simple text adventure  |EN | |
 | **Terminus** | [web.mit.edu](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) | Awesome Linux quest  |EN | |
 | **The Command Line Murders** | [github.com/gannonk08](https://github.com/gannonk08/clmystery) | Awesome Linux detective  |EN | |
 | **Bandit** | [overthewire.org](https://overthewire.org/wargames/bandit/bandit0.html) | Awesome hacker game  |EN | |
+
 
 ### Powershell
 

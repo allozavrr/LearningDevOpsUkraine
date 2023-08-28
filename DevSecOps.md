@@ -441,3 +441,21 @@
 | **Skipfish** | [github.com/spinkham](https://github.com/spinkham/skipfish) | An active web application security reconnaissance tool  |EN | |
 | **LibFuzzer** | [llvm.org](https://llvm.org/docs/LibFuzzer.html) | LibFuzzer is an in-process, coverage-guided, evolutionary fuzzing engine  |EN | |
 
+## MAST
+
+*Інструменти для перевірки мобільних застосунків*
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **MobSF** | [github.com/MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis  |EN | |
+| **Drozer** | [github.com/WithSecureLabs](https://github.com/WithSecureLabs/drozer) | Tools to help you use, share and understand public Android exploits  |EN | |
+
+**Paid (enterprise)**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Appknox** | [appknox.com](https://www.appknox.com/) | Automated mobile app security checks  |EN | |
+
+

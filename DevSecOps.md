@@ -495,3 +495,14 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Kondukto** | [kondukto.io](https://kondukto.io/) | Security testing tool, automated vulnerability remediation workflows and managsng risks  |EN | |
+
+## Compliance-as-code
+
+*Практика представлення вимог безпеки через декларативний опис у вигляді коду з подальшою постійною оцінкою на відповідність*
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| *Chef InSpec** | [github.com/inspec](https://github.com/inspec/inspec) | Open-source testing framework for infrastructure for specifying compliance, security and policy requirements  |EN | |
+| *Compliance Masonry** | [github.com/opencontrol](https://github.com/opencontrol/compliance-masonry) | Сommand-line interface (CLI) that allows users to construct certification documentation using the OpenControl Schema.  |EN | |

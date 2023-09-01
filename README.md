@@ -226,7 +226,7 @@
 | **DevOps Big Picture (On-Premises)** | [itnext.io](https://itnext.io/devops-big-picture-on-premises-d07f61d6c34c) | An overview of DevOps best practices and tools for on-premises environments  |EN | |
 | **DevOps Prerequisites Course - Getting started with DevOps** | [Youtube](https://www.youtube.com/watch?v=Wvf0mBNGjXY&ab_channel=freeCodeCamp.org) | The course covers the basic prerequisites knowledge needed for your journey into the Cloud and DevOps world  |EN | |
 | **Курсы: CICD (сентябрь 2020)** | [Youtube](https://www.youtube.com/playlist?list=PLGQiJX6wM-zzEcA_0Wn3SIL8MyammjqSH) | Старенький курс, але для розуміння, що таке CI/CD підійде  |ru | |
-| **CI/CD intro** | [Youtube](https://www.youtube.com/playlist?list=PLZgiAwkeHf_Z4szrqERIMzLkplO2F5D8N) | Введення у CI/CD від DevOps01  |ru | |
+| **CI/CD intro** | [Youtube](https://www.youtube.com/playlist?list=PLZgiAwkeHf_Z4szrqERIMzLkplO2F5D8N) | Введення у CI/CD від DevOps01  |UA | |
 | **Що робити після того, як програма написана? Практичний погляд на SDLC, CI/CD, DevOps для початківців** | [Youtube](https://www.youtube.com/watch?v=zGyXsxNAdt4&t=1s&ab_channel=%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D1%80%D0%BE%D0%86%D0%A2) | Невеликий огляд (не курс!), що таке CI/CD  |UA | |
 | **DevOps Tools Periodic Table** | [digital.ai](https://digital.ai/learn/devops-periodic-table/) | The Periodic Table of DevOps Tools  |EN | |
 | **DevOps Project Examples** | [devopsrealtime.com](https://devopsrealtime.com/category/projects/) | DevOps project Examples  |EN | |

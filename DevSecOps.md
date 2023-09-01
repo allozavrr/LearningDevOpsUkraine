@@ -38,7 +38,7 @@
    - **[Application Security Orchestration and Correlation (ASOC)](#application-security-orchestration-and-correlation-(asoc))**
    - **[Compliance-as-code](#compliance-as-code)**
    - **[IAC Security](#iac-security)**
-    - **[Kubernetes YAML validating](#kubernetes-yaml-validating)**
+    - *[Kubernetes YAML validating](#kubernetes-yaml-validating)*
   
 
 
@@ -528,5 +528,13 @@
 | **kics** | [kics.io](https://www.kics.io/#) | Open source solution for static code analysis of Infrastructure as Code  |EN | |
 | **ScoutSuite** | [github.com/nccgroup](https://github.com/nccgroup/ScoutSuite) | Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments  |EN | |
 
-### Kubernetes YAML validating
+#### Kubernetes YAML validating
 
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Kubeval** | [github.com/instrumenta](https://github.com/instrumenta/kubeval) | Tool for validating a Kubernetes YAML or JSON configuration file  |EN | |
+| **Kube-score** | [github.com/zegl](https://github.com/zegl/kube-score) |  Tool that performs static code analysis of your Kubernetes object definitions  |EN | |
+| **Config-lint** | [github.com/stelligent](https://github.com/stelligent/config-lint) | A command line tool to validate configuration files using rules specified in YAML  |EN | |
+| **Copper** | [github.com/cloud66-oss](https://github.com/cloud66-oss/copper) | Useful tool with Kubernetes configuration files to enforce best practices, apply policies and compliance requirements  |EN | |
+| **Conftest** | [github.com/open-policy-agent](https://github.com/open-policy-agent/conftest) | Open source tool helps you write tests against structured configuration data  |EN | |
+| **Polaris** | [github.com/FairwindsOps](https://github.com/FairwindsOps/polaris#cli) | Open source policy engine for Kubernetes  |EN | |

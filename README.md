@@ -26,7 +26,9 @@
    - **[Courses](#courses)**
    - **[Youtube](#youtube)**
    - **[Github](#github)**
-   - **[Labs/Trainers](#labs--trainers)**
+   - **[Labs/Trainings](#labs--trainings)**
+    - *[Trainings](#trainings)*
+    - *[Coding](#coding)*
 - **[Git](#git)**
 - **[Linux](#linux)**
 - **[Networking](#networking)**
@@ -132,7 +134,13 @@
 | **Awesome Site Reliability Engineering** | [github.com/dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) | A curated list of awesome Site Reliability and Production Engineering resources  |![Git Secrets](https://img.shields.io/github/stars/astergon/awesome-sre?style=for-the-badge) |
 | **Test your Sysadmin skills** | [github.com/trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) | This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview such as Linux/Networks  |![Git Secrets](https://img.shields.io/github/stars/trimstray/test-your-sysadmin-skills?style=for-the-badge) |
 
-### Labs / Trainers
+### Labs / Trainings
+
+#### Trainings
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Kllr shll** | [killer.sh](https://killer.sh/) | Linux Foundation Exam Simulators (Linux & Kubernetes Exam Prep)  |EN | |
 
 #### Coding
 

@@ -422,3 +422,4 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **IT English** | [Youtube](https://www.youtube.com/playlist?list=PLOlyZEVllXBHY79lqGyc4odoVON1oSMQy) | Безкоштовний курс з англійської для програмістів та QA  |EN/UA | |
 | **TECH English** | [Youtube](https://youtube.com/playlist?list=PLOwnXSCq7AoGRr7EuifDZiTAPpi9X1MER) | Ще один безкоштовний курс з англійської для програмістів та QA  |EN/UA | |
+| **Английский для айтишников** | [Youtube](https://www.youtube.com/playlist?list=PL1rV860db3OapvkljZgZvK4ckaII-ZC7e) | І ще один безкоштовний курс з англійської для програмістів (доповнюється)  |EN/ru | |

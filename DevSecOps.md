@@ -34,6 +34,12 @@
    - **[IAST](#iast)**
    - **[Fuzzing](#fuzzing)**
    - **[MAST](#mast)**
+   - **[Vulnerability Management](#vulnerability-management)**
+   - **[Application Security Orchestration and Correlation (ASOC)](#application-security-orchestration-and-correlation-(asoc))**
+   - **[Compliance-as-code](#compliance-as-code)**
+   - **[IAC Security](#iac-security)**
+    - **[Kubernetes YAML validating](#kubernetes-yaml-validating)**
+  
 
 
 
@@ -498,11 +504,29 @@
 
 ## Compliance-as-code
 
-*Практика представлення вимог безпеки через декларативний опис у вигляді коду з подальшою постійною оцінкою на відповідність*
+*Практика представлення вимог безпеки через декларативний опис у вигляді коду з подальшою безпрерервною оцінкою на відповідність*
 
 **Open-source**
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
-| *Chef InSpec** | [github.com/inspec](https://github.com/inspec/inspec) | Open-source testing framework for infrastructure for specifying compliance, security and policy requirements  |EN | |
-| *Compliance Masonry** | [github.com/opencontrol](https://github.com/opencontrol/compliance-masonry) | Сommand-line interface (CLI) that allows users to construct certification documentation using the OpenControl Schema.  |EN | |
+| **Chef InSpec** | [github.com/inspec](https://github.com/inspec/inspec) | Open-source testing framework for infrastructure for specifying compliance, security and policy requirements  |EN | |
+| **Compliance Masonry** | [github.com/opencontrol](https://github.com/opencontrol/compliance-masonry) | Сommand-line interface (CLI) that allows users to construct certification documentation using the OpenControl Schema  |EN | |
+
+## IAC Security
+
+*Практика тестування декларативного опису шнфраструктури через конфігураційний файл на відповідність до вимог безпеки*
+
+**Open-source**
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Cfn Nag** | [github.com/stelligent](https://github.com/stelligent/cfn_nag) | Open-source tool looks for patterns in CloudFormation templates that may indicate insecure infrastructures  |EN | |
+| **Checkov** | [github.com/bridgecrewio](https://github.com/bridgecrewio/checkov) | Static code analysis tool for infrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages  |EN | |
+| **Terrascan** | [github.com/tenable](https://github.com/tenable/terrascan) | Open-source static code analyzer for Infrastructure as Code  |EN | |
+| **Tfsec** | [github.com/aquasecurity](https://github.com/aquasecurity/tfsec) | Static analysis of your terraform code to spot potential misconfigurations  |EN | |
+| **kics** | [kics.io](https://www.kics.io/#) | Open source solution for static code analysis of Infrastructure as Code  |EN | |
+| **ScoutSuite** | [github.com/nccgroup](https://github.com/nccgroup/ScoutSuite) | Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments  |EN | |
+
+### Kubernetes YAML validating
+

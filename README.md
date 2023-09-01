@@ -65,6 +65,7 @@
 | **Another DevOps Roadmap** | [github.com/milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) | Another detailed DevOps roadmap  |![Git Secrets](https://img.shields.io/github/stars/milanm/DevOps-Roadmap?style=for-the-badge)  |  
 | **DevOps-Roadmap** | [github.com/devopshobbies/devops-roadmap](https://github.com/devopshobbies/devops-roadmap) |  DevOps Roadmap by Ahmadali Bagheri (free resourses included)   |![Git Secrets](https://img.shields.io/github/stars/devopshobbies/devops-roadmap?style=for-the-badge) |
 | **Become A DevOps Engineer in 2023** | [devopscube.com](https://devopscube.com/become-devops-engineerhttps://devopscube.com/become-devops-engineer) | Simple and nice roadmap  | |
+| **DevOps Roadmap** | [github.com/milanm/DevOps-Roadmap](https://roadmap.sh/devops?r=devops-beginner) | FOR NEWBIE! Step by step guide for DevOps, SRE or any other Operations Role  |  | 
 | **DevOps Roadmap** | [roadmap.sh](https://roadmap.sh/devops) | Step by step guide for DevOps, SRE or any other Operations Role in 2023  | |
 | **DevOps Roadmap** | [techworld-with-nana.com](https://www.techworld-with-nana.com/devops-roadmap) | Step by step guide outlining the most efficient path to become a DevOps engineer by TechWorld with Nana  | |
 | **Learn to Cloud** | [learntocloud.guide](https://learntocloud.guide/docs/Welcome) | Skills you need to learn to get into Cloud Computing  |  |
@@ -82,6 +83,7 @@
 | **Ukrainian IT Communities** | [github.com/nikit0ns/Ukrainian_IT_Communities#-devops](https://github.com/nikit0ns/Ukrainian_IT_Communities#-devops) | Українські DevOps коммʼюніті і не тільки  |![Git Secrets](https://img.shields.io/github/stars/nikit0ns/Ukrainian_IT_Communities?style=for-the-badge) | |
 
 ### Computer Science Guide
+
 | Name | URL | Description | Meta | 
 | :---------- | :---------- | :---------- | :----------: |
 | **TeachYourselfCS-UK** | [github.com/oleksbabieiev/TeachYourselfCS-UK/](https://github.com/oleksbabieiev/TeachYourselfCS-UK/) | Збірник-посібник для самостійного фундаментального вивчення компʼютерних наук  |![Git Secrets](https://img.shields.io/github/stars/oleksbabieiev/TeachYourselfCS-UK?style=for-the-badge) | |
@@ -107,6 +109,7 @@
 
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
+| **DevOps01** | [Youtube](https://www.youtube.com/@DevOps01) | DevOps курси украінською мовою  |UA | |
 | **DOU DevOps** | [Youtube](https://www.youtube.com/playlist?list=PLwj_3ikgO3CLZM1Jm_n5gw2CcoKMaKgD5) | Корисні підкасти DOU DevOps спільноти  |UA | |
 | **CatOps** | [Youtube](https://www.youtube.com/@catops/playlists) | Корисні підкасти CatOps спільноти  |UA | |
 | **Денис Васильєв** | [Youtube](https://www.youtube.com/@DenysVasyliev) | Senior про DevOps  |UA | |
@@ -135,7 +138,7 @@
 
 *Тренажери для прокачки скілу програмування будь-якою мовою.*
 
-|| Name | URL | Description | Language | 
+| Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **LeetCode** | [leetcode.com](https://leetcode.com/) | The best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews  |EN | |
 | **Codewars** | [codewars.com](https://www.codewars.com/) | Improve your development skills by training with your peers on code kata that continuously challenge and push your coding practice  |EN | |
@@ -173,7 +176,10 @@
 | **LPIC-1 (exam 101)** | [Youtube](https://www.youtube.com/playlist?list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc) | Підготовка до екзамену LPIC-1 (exam 101) від Кирила Сємаєва  |ru | |
 | **LPIC-2 (exam 201)** | [Youtube](https://www.youtube.com/playlist?list=PLmxB7JSpraidTqByo0ihkyExIbKfAB-B9) | Підготовка до екзамену LPIC-2 (exam 201) від Кирила Сємаєва  |ru | |
 | **Into the Terminal (Red Hat Enterprise Linux)** | [Youtube](https://www.youtube.com/playlist?list=PLXJyD2dL4oqeX-C3MvsMUJuEzWM4vLK2C) | Critical Administration Skills for Red Hat Enterprise Linux  |EN | |
-
+| **Linux Operating System — Crash Course for Beginners** | [Youtube](https://www.youtube.com/playlist?list=PLXJyD2dL4oqeX-C3MvsMUJuEzWM4vLK2C) | Learn the basics of the Linux Operating System in this crash course for beginners (in 3 hours)  |EN | |
+| **The Linux Basic Course** | [Youtube](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK) | All beginners should know for system administration, cloud infrastructure, DevOps, programming  |EN | |
+| **Linux Fundamentals** | [coursera.org](https://www.coursera.org/learn/linux-fundamentals) | Basic part of the Learning Linux for LFCA Certification Specialization  |EN | |
+| **Linux Essentials** | [learning.lpi.org](https://learning.lpi.org/en/learning-materials/010-160/) | Basic part of the Learning Linux for LPIC Professional Certification track   |EN | |
 
 
 ## Networking
@@ -192,10 +198,12 @@
 | **Уроки Cisco. От простого к интересному** | [Youtube](https://www.youtube.com/playlist?list=PL7CmqnO_QydgI7FyoWR6HVUZr-OOFxfXp) | Курс для початківців по Cisco  |ru | |
 | **CompTIA Network+ N10-007 Training Course** | [Youtube](https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd) | CompTIA Network+ N10-007 Exam Prep  |EN | |
 | **Computer Networks Neso Academy** | [Youtube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx) | Fundamental Network course  |EN | |
+| **Computer Networks** | [Youtube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx) | OS-based Network course from Neso Academy  |EN | |
+| **Computer Networking Course - Network Engineering** | [Youtube](https://www.youtube.com/watch?v=qiQR5rTSshw&ab_channel=freeCodeCamp.org) | CompTIA Network+ Exam Prep from freeCodeCamp.org  |EN | |
 | **Cisco Networking Academy - Networking Basics** | [skillsforall.com](https://skillsforall.com/course/networking-basics?courseLang=en-US) | Basic Network course  |EN | |
 | **Network Fundamentals Course** | [educative.io](https://www.educative.io/module/An5VrvSlLQN6R6N8y/10370001/4813190514343936) | Practical Network course  |EN | |
 | **Free CCNA Course – the most complete guide** | [ictshore.com](https://www.ictshore.com/free-ccna-course-start/) | Complete CCNA guide (text)  |EN | |
-
+| **Tech Fundamentals** | [cantrill.io](https://learn.cantrill.io/p/tech-fundamentals) | Foundational technical knowledge you need to succeed in the tech industry  |EN | |
 
 
 ## CI/CD
@@ -207,6 +215,7 @@
 | **DevOps Big Picture (On-Premises)** | [itnext.io](https://itnext.io/devops-big-picture-on-premises-d07f61d6c34c) | An overview of DevOps best practices and tools for on-premises environments  |EN | |
 | **DevOps Prerequisites Course - Getting started with DevOps** | [Youtube](https://www.youtube.com/watch?v=Wvf0mBNGjXY&ab_channel=freeCodeCamp.org) | The course covers the basic prerequisites knowledge needed for your journey into the Cloud and DevOps world  |EN | |
 | **Курсы: CICD (сентябрь 2020)** | [Youtube](https://www.youtube.com/playlist?list=PLGQiJX6wM-zzEcA_0Wn3SIL8MyammjqSH) | Старенький курс, але для розуміння, що таке CI/CD підійде  |ru | |
+| **CI/CD intro** | [Youtube](https://www.youtube.com/playlist?list=PLZgiAwkeHf_Z4szrqERIMzLkplO2F5D8N) | Введення у CI/CD від DevOps01  |ru | |
 | **Що робити після того, як програма написана? Практичний погляд на SDLC, CI/CD, DevOps для початківців** | [Youtube](https://www.youtube.com/watch?v=zGyXsxNAdt4&t=1s&ab_channel=%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D1%80%D0%BE%D0%86%D0%A2) | Невеликий огляд (не курс!), що таке CI/CD  |UA | |
 | **DevOps Tools Periodic Table** | [digital.ai](https://digital.ai/learn/devops-periodic-table/) | The Periodic Table of DevOps Tools  |EN | |
 | **DevOps Project Examples** | [devopsrealtime.com](https://devopsrealtime.com/category/projects/) | DevOps project Examples  |EN | |
@@ -217,6 +226,7 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Ansible** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N) | Курс з Ansible від ADV-IT  |ru | |
+| **Practical DevOps: Ansible** | [Youtube](https://www.youtube.com/watch?v=othMODPm4Jk&ab_channel=DevOps01) | Курс з Ansible від ADV-IT  |UA | |
 | **Ansible 101** | [Youtube](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN) | Ansible 101 introduces Ansible for Linux server administration by Jeff Geerling  |EN | |
 
 ### Jenkins
@@ -241,11 +251,18 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Terraform** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYujWDTYb-Zbofdl44Jxb2l8) | Terraform доступно від ADV-IT  |ru | |
+| **Practical DevOps: Terraform 01** | [Youtube](https://www.youtube.com/watch?v=wOI7fpZYIJk&ab_channel=DevOps01) | Terraform для початківців від DevOps01  |UA | |
 | **Terraform - From Zero to Certified Professional** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYsUzsBeN8rPe1EoqKWhMlnF) | Terraform - From Zero to Certified Professional від ADV-IT  |EN | |
 
 ## Containerization
 
 **Розділ з лінками на ресурси по контейнеризації та оркеструванню.**
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **Containerization intro** | [Youtube](https://www.youtube.com/watch?v=E2YD8fa-q5Q&ab_channel=DevOps01) | Вступ до розуміння контейнеризації від DevOps01  |UA | |
+| **Containers deep dive** | [Youtube](https://www.youtube.com/watch?v=2gVDxcyeGIY&ab_channel=DevOps01) | Поглиблення у контейнеризацію від DevOps01  |UA | |
+| **Containerisation best practices** | [Youtube](https://www.youtube.com/watch?v=3rNUPHvZIII&ab_channel=DevOps01) | Best practices по контейнеризації від DevOps01   |UA | |
+
 
 ### Docker
 
@@ -256,6 +273,7 @@
 | **Docker контейнеризация оркестрация контейнеров** | [Youtube](https://www.youtube.com/playlist?list=PLQuaNOtBP3TrePxRFjV4g4_fb9Tdol0DP) | Розгляди цікавих питань по Docker  |ru | |
 | **Docker - Всё что нужно знать чтобы начать работать с Docker, все основы в одном уроке** | [Youtube](https://www.youtube.com/watch?v=I18TNwZ2Nqg&ab_channel=ADV-IT) | Docker доступно від ADV-IT  |ru | |
 | **Docker - Полный курс Docker Для Начинающих** | [Youtube](https://www.youtube.com/watch?v=_uZQtRyF6Eg&t=6083s&ab_channel=BogdanStashchuk) | Гарний курс для початківців від Богдана Сташука |ru | |
+| **ZDay by Zfort: Docker** | [Youtube](https://www.youtube.com/playlist?list=PL5Xc41XnApvxs1haUwv2CYtgQApwe7oTK) | База для початківців від Дениса Прісухина |ru | |
 | **Docker Crash Course for Absolute Beginners** | [Youtube](https://www.youtube.com/watch?v=pg19Z8LL06w&ab_channel=TechWorldwithNana) | Docker Crash Course from TechWorld with Nana |EN | |
 | **Play with Docker Classroom** | [training.play-with-docker.com](https://training.play-with-docker.com/) | Mix of labs and tutorials that will help Docker users, including SysAdmins, IT Pros, and Developers |EN | |
 
@@ -302,6 +320,7 @@
 | **101 Days of DevOps** | [101daysofdevops.com](https://www.101daysofdevops.com/courses/101-days-of-devops/) | Free course for learning AWS and Kubernetets  |EN | |
 
 ### Microsoft Azure
+
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Azure DevOps Roadmap** | [learn.microsoft.com](https://learn.microsoft.com/en-us/azure/devops/release-notes/features-timeline) | Learning Path  by Microsoft  |EN | |
@@ -368,6 +387,8 @@
 | **The Last Algorithms Course You'll Need** | [frontendmasters.com](https://frontendmasters.com/courses/algorithms/) | Super fun, beginner-friendly data structures and algorithms course  |EN | |
 | **"Поколение Python": курс для начинающих** | [stepik.org](https://stepik.org/course/58852) | Курс-тренажер, допомагає вивчити Python на практиці  |ru | |
 | **Futurecoder** | [futurecoder.io](https://futurecoder.io/course/#toc) | Interactive Python training course  |EN | |
+| **learnpython** | [learnpython.org](https://www.learnpython.org/) | Interactive Python tutorial  |EN | |
+| **Learn Python 2** | [codecademy.com](https://www.codecademy.com/learn/learn-python) | Interactive Python training course  |EN | |
 | **Python від NIX Education** | [education.nixsolutions.com](https://education.nixsolutions.com/course/view.php?id=16) | Безкоштовний курс по Python від NIX Solutions  |UA/EN | |
 | **PythonNoobs** | [github.com/PythonNoobs/python_developer](https://github.com/PythonNoobs/python_developer) | Велика збірка ресурсів для навчання  |ru | |
 | **Comprehensive Python Cheatsheet** | [github.com/gto76](https://github.com/gto76/python-cheatsheet) | Useful and nice Python cheatsheet  |EN | |
@@ -386,6 +407,7 @@
 | **The Algorithms - Go** | [github.com/TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) | All algorithms implemented in Go - for education  |EN | |
 
 ### Rust
+
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Rust - язык программирования с нуля** | [Youtube](https://www.youtube.com/playlist?list=PLQuaNOtBP3Tps9JrGMs76d_YbOGygrLUJ) | Курс по Rust для новачків  |ru | |
@@ -393,6 +415,7 @@
 
 
 ## Monitoring
+
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **DevOps monitoring** | [Youtube](https://www.youtube.com/playlist?list=PLBA2E_jkENLM711AP3zA1ybSVdZOOIB2H) | Курс по Grafana  |ru | |
@@ -420,6 +443,7 @@
 | **Прямий ефір: технічне інтерв'ю DevOps-джуніора** | [Youtube](https://www.youtube.com/watch?v=S-uAOt2ZLQw&ab_channel=EPAMUkraineCareer) | Питання, які можуть бути задані на технічній співбесіді на рівні джуніора  |UA | |
 | **Співбесіда з DevOps. 300+ запитань для Junior, Middle, Senior** | [dou.ua](https://dou.ua/lenta/articles/interview-devops/) | Великий матеріал з питаннями для самопідготовки  |UA | |
 | **Preparing for a DevOps Engineer Interview: A Comprehensive Guide** | [dev.to](https://dev.to/tutunak/preparing-for-a-devops-engineer-interview-a-comprehensive-guide-26n4) | Really useful manual for a DevOps Engineer Interview  |EN | |
+| **SRE/DevOps Interview Questions — Linux Troubleshooting** | [awstip.com](https://awstip.com/sre-devops-interview-questions-linux-troubleshooting-1b8ffe82c16) | Troubleshooting questions for a DevOps/SRE Engineer Interview  |EN | |
 
 
 

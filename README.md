@@ -208,6 +208,7 @@
 | **Computer Networks Neso Academy** | [Youtube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx) | Fundamental Network course  |EN | |
 | **Computer Networks** | [Youtube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx) | OS-based Network course from Neso Academy  |EN | |
 | **Computer Networking Course - Network Engineering** | [Youtube](https://www.youtube.com/watch?v=qiQR5rTSshw&ab_channel=freeCodeCamp.org) | CompTIA Network+ Exam Prep from freeCodeCamp.org  |EN | |
+| **Free CCNA 200-301 | Complete Course 2023** | [Youtube](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ) | CompTIA Network+ Exam Prep from Jeremy's IT Lab  |EN | |
 | **Cisco Networking Academy - Networking Basics** | [skillsforall.com](https://skillsforall.com/course/networking-basics?courseLang=en-US) | Basic Network course  |EN | |
 | **Network Fundamentals Course** | [educative.io](https://www.educative.io/module/An5VrvSlLQN6R6N8y/10370001/4813190514343936) | Practical Network course  |EN | |
 | **Free CCNA Course – the most complete guide** | [ictshore.com](https://www.ictshore.com/free-ccna-course-start/) | Complete CCNA guide (text)  |EN | |

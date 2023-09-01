@@ -26,6 +26,7 @@
    - **[Courses](#courses)**
    - **[Youtube](#youtube)**
    - **[Github](#github)**
+   - **[Labs/Trainers](#labs--trainers)**
 - **[Git](#git)**
 - **[Linux](#linux)**
 - **[Networking](#networking)**
@@ -114,6 +115,8 @@
 | **NetworkChuck** | [YouTube](https://www.youtube.com/@NetworkChuck/playlists) | CCNA, CompTIA A+, CompTIA Network+  |EN | |
 | **Just me and Opensource** | [YouTube](https://www.youtube.com/@justmeandopensource/playlists) | A lot of trainings of DevOps tools, nice and full Kubernetes guide  |EN | |
 | **DevOpsLearnEasy** | [YouTube](https://www.youtube.com/@DevOpsLearnEasy/videos) | Not just any course but a training that explains concepts from the absolute basics to the complex ones  |EN | |
+| **Курсы: Школа DevOps v.1.0** | [YouTube](https://www.youtube.com/playlist?list=PLGQiJX6wM-zzcPye1y7gpyJO0uH7NMNP7) | Старенькі, але базові курси по основам DevOps  |ru | |
+| **Лекторий по SRE** | [YouTube](https://www.youtube.com/playlist?list=PLjCCarnDJNstX36A6Cw_YD28thNFev1op) | Відеокурс по SRE DevOpsʼу для прокачки досвіду  |ru | |
 
 ### Github
 
@@ -126,8 +129,16 @@
 | **Awesome Site Reliability Engineering** | [github.com/dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) | A curated list of awesome Site Reliability and Production Engineering resources  |![Git Secrets](https://img.shields.io/github/stars/astergon/awesome-sre?style=for-the-badge) |
 | **Test your Sysadmin skills** | [github.com/trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) | This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview such as Linux/Networks  |![Git Secrets](https://img.shields.io/github/stars/trimstray/test-your-sysadmin-skills?style=for-the-badge) |
 
+### Labs / Trainers
 
+#### Coding
 
+*Тренажери для прокачки скілу програмування будь-якою мовою.*
+
+|| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **LeetCode** | [leetcode.com](https://leetcode.com/) | The best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews  |EN | |
+| **Codewars** | [codewars.com](https://www.codewars.com/) | Improve your development skills by training with your peers on code kata that continuously challenge and push your coding practice  |EN | |
 
 ## Git
 
@@ -175,8 +186,10 @@
 | **Компьютерные сети. Продвинутые темы** | [Youtube](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oh_w4_jtRnKE11aqeRldCFI) | Курс для поглиблення знань по мережам від Андрія Созикіна  |ru | |
 | **Практики по компьютерным сетям** | [Youtube](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiKPQ9GXOvntj44Eu8IGAJK) | Детальне вивчення протоколів від Андрія Созикіна  |ru | |
 | **Защищенные сетевые протоколы** | [Youtube](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiFnWCsVRElorOLt69YDEnv) | TLS, SSl, HTTPS від Андрія Созикіна  |ru | |
+| **Лекции по курсу Компьютерные сети** | [Youtube](https://www.youtube.com/playlist?list=PLf4R2kS4aMYazLYKqz1hQi_Upz0rfLFjy) | Лекції Артема Береснева по курсу Компʼютерні мережі  |ru | |
 | **Курсы Cisco CCNA 200-301** | [Youtube ч.1](https://www.youtube.com/playlist?list=PL0MV6px_XdxDJLaePIpq7PPllVLdL_kw_) | Cisco CCNA p.1  |ru | |
 | **Курсы Cisco CCNA 200-301** | [Youtube ч.2](https://www.youtube.com/playlist?list=PL0MV6px_XdxCkDz7yNCulKlK2I7144Yae) | Cisco CCNA p.2  |ru | |
+| **Уроки Cisco. От простого к интересному** | [Youtube](https://www.youtube.com/playlist?list=PL7CmqnO_QydgI7FyoWR6HVUZr-OOFxfXp) | Курс для початківців по Cisco  |ru | |
 | **CompTIA Network+ N10-007 Training Course** | [Youtube](https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd) | CompTIA Network+ N10-007 Exam Prep  |EN | |
 | **Computer Networks Neso Academy** | [Youtube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx) | Fundamental Network course  |EN | |
 | **Cisco Networking Academy - Networking Basics** | [skillsforall.com](https://skillsforall.com/course/networking-basics?courseLang=en-US) | Basic Network course  |EN | |
@@ -345,6 +358,7 @@
 | **ADV-IT Python для Начинающих** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYtHCActBzbuGVYlWpLYqXC6) | Курс для знайомства з Python від ADV-IT  |ru | |
 | **ADV-IT Python для НЕ Начинающих** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYt7Wmh8zBKjZ_ltaoDXSEmk) | Курс для продовження вивчення Python від ADV-IT  |ru | |
 | **Python Hub Studio** | [Youtube](https://www.youtube.com/@PythonHubStudio/playlists) | Непогані відео по Python та ООП  |ru | |
+| **PythonToday** | [Youtube](https://www.youtube.com/@PythonToday/playlists) | Відео по Python, Linux та Pentesting  |ru | |
 | **Python. Уровень 1. Базовый курс** | [Youtube](https://www.youtube.com/playlist?list=PLW-WSOmS5ONK3FQiV1XCmT24UtKuEYZ1j) | Добре структурований курс по основам Python   |ru | |
 | **Python для сетевых инженеров** | [Youtube](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY) | Дуже корисний великий курс    |ru | |
 | **Алгоритмы и структуры данных на Python 3** | [Youtube](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0) | Гарний курс по алгоритмам від Тимофія Хірʼянова  |ru | |

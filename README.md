@@ -8,7 +8,8 @@
 
 *Перелік не є закінченим. Доповнення і зауваження дуже вітаються.*
 
-*Також дякую телеграм-спільноті https://t.me/DevOpsMarathon та її очільнику - @edemus.*
+*Також дякую телеграм-спільноті https://t.me/DevOpsMarathon та її очільнику - @edemus,
+телеграм-спільноті DevOps Geeks та україномовному каналу [DevOps 01](https://www.youtube.com/@DevOps01).*
 
 **[Never give up!](https://www.youtube.com/watch?v=GC5E8ie2pdM&ab_channel=TinaTurner)**
 
@@ -67,7 +68,7 @@
 | **Another DevOps Roadmap** | [github.com/milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) | Another detailed DevOps roadmap  |![Git Secrets](https://img.shields.io/github/stars/milanm/DevOps-Roadmap?style=for-the-badge)  |  
 | **DevOps-Roadmap** | [github.com/devopshobbies/devops-roadmap](https://github.com/devopshobbies/devops-roadmap) |  DevOps Roadmap by Ahmadali Bagheri (free resourses included)   |![Git Secrets](https://img.shields.io/github/stars/devopshobbies/devops-roadmap?style=for-the-badge) |
 | **Become A DevOps Engineer in 2023** | [devopscube.com](https://devopscube.com/become-devops-engineerhttps://devopscube.com/become-devops-engineer) | Simple and nice roadmap  | |
-| **DevOps Roadmap** | [github.com/milanm/DevOps-Roadmap](https://roadmap.sh/devops?r=devops-beginner) | FOR NEWBIE! Step by step guide for DevOps, SRE or any other Operations Role  |  | 
+| **DevOps Roadmap** | [roadmap.sh/devops](https://roadmap.sh/devops?r=devops-beginner) | FOR NEWBIE! Step by step guide for DevOps, SRE or any other Operations Role  |  | 
 | **DevOps Roadmap** | [roadmap.sh](https://roadmap.sh/devops) | Step by step guide for DevOps, SRE or any other Operations Role in 2023  | |
 | **DevOps Roadmap** | [techworld-with-nana.com](https://www.techworld-with-nana.com/devops-roadmap) | Step by step guide outlining the most efficient path to become a DevOps engineer by TechWorld with Nana  | |
 | **Learn to Cloud** | [learntocloud.guide](https://learntocloud.guide/docs/Welcome) | Skills you need to learn to get into Cloud Computing  |  |
@@ -101,6 +102,7 @@
 | **Ресурси для вивчення DevOps-теми** | [dou.ua](https://dou.ua/forums/topic/42056/?from=similar_topics) | Підбірка ресурсів для вивчення DevOps від DOU  |UA | |
 | **ITSkills4U** | [itskills4u.com.ua](https://itskills4u.com.ua/) | FREE! Developed by AWS, the program includes AWS Cloud training programs and certification, English and Polish language classes, mentorship, and access to job opportunities  |EN | |
 | **StanfordOnline** | [edx.org](https://www.edx.org/school/stanfordonline?irclickid=WNB0XoxkWxyPRWhxQeRIaxGNUkF2qCQE-0kN1U0) | FREE! online courses from Stanford University  |EN | |
+| **Become A DevOps Engineer in 2023: A Practical Roadmap** | [devopscube.com](https://devopscube.com/become-devops-engineer) | Strong recommended roadmap with FREE courses  |EN | |
 | **A Cloud Guru** | [acloud.guru](https://acloud.guru/) | Paid online courses from A Cloud Guru  |EN | |
 | **KodeKloud** | [kodekloud.com](https://kodekloud.com/) | Paid online courses from KodeKloud  |EN | |
 | **O’Reilly** | [oreilly.com](https://www.oreilly.com/) | Paid online courses from O’Reilly  |EN | |
@@ -165,6 +167,7 @@
 | **Скринкаст по Git** | [Youtube](https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb) | Основні функції  Git |ru | |
 | **Основы Git, GitHub и GitHub Actions** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYstwxTEOU05E0URTHnbtA0l) | Курс по Git, GitHub та GitHub Actions |ru | |
 | **GitHub Actions Tutorial** | [Youtube](https://www.youtube.com/watch?v=R8_veQiYBjI&ab_channel=TechWorldwithNana) | GitHub Actions Tutorial from TechWorld with Nana |EN | |
+| **Git для розподіленої розробки програмного забезпечення** | [prometheus.org.ua](https://apps.prometheus.org.ua/learning/course/course-v1:LinuxFoundation+INTRO101+2023_T1/home) | Базовий Git від The Linux Foundation  |UA | |
 | **Git Tutorial for Beginners** | [w3schools.com](https://www.w3schools.com/git/default.asp?remote=github) | Git простими словами для початківців |EN | |
 | **Pro Git book. Підручник** | [git-scm.com](https://git-scm.com/book/uk/v2) | Основи Git. Підручник  |UA | |
 | **The Git Community Book** | [uleming.github.io](https://uleming.github.io/gitbook/index.html) | Добрі матеріали по Git у вигляді документації  |ru | |
@@ -188,6 +191,7 @@
 | **LPIC-2 (exam 201)** | [Youtube](https://www.youtube.com/playlist?list=PLmxB7JSpraidTqByo0ihkyExIbKfAB-B9) | Підготовка до екзамену LPIC-2 (exam 201) від Кирила Сємаєва  |ru | |
 | **Into the Terminal (Red Hat Enterprise Linux)** | [Youtube](https://www.youtube.com/playlist?list=PLXJyD2dL4oqeX-C3MvsMUJuEzWM4vLK2C) | Critical Administration Skills for Red Hat Enterprise Linux  |EN | |
 | **Linux Operating System — Crash Course for Beginners** | [Youtube](https://www.youtube.com/playlist?list=PLXJyD2dL4oqeX-C3MvsMUJuEzWM4vLK2C) | Learn the basics of the Linux Operating System in this crash course for beginners (in 3 hours)  |EN | |
+| **Основи Linux** | [prometheus.org.ua](https://apps.prometheus.org.ua/learning/course/course-v1:LinuxFoundation+INTRO_LINUX101+2023_T1/home) | Базовий Linux від The Linux Foundation  |UA | |
 | **The Linux Basic Course** | [Youtube](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK) | All beginners should know for system administration, cloud infrastructure, DevOps, programming  |EN | |
 | **Linux Fundamentals** | [coursera.org](https://www.coursera.org/learn/linux-fundamentals) | Basic part of the Learning Linux for LFCA Certification Specialization  |EN | |
 | **Linux Essentials** | [learning.lpi.org](https://learning.lpi.org/en/learning-materials/010-160/) | Basic part of the Learning Linux for LPIC Professional Certification track   |EN | |
@@ -211,6 +215,7 @@
 | **Computer Networks Neso Academy** | [Youtube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx) | Fundamental Network course  |EN | |
 | **Computer Networks** | [Youtube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx) | OS-based Network course from Neso Academy  |EN | |
 | **Computer Networking Course - Network Engineering** | [Youtube](https://www.youtube.com/watch?v=qiQR5rTSshw&ab_channel=freeCodeCamp.org) | CompTIA Network+ Exam Prep from freeCodeCamp.org  |EN | |
+| **Free CCNA 200-301 | Complete Course 2023** | [Youtube](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ) | CompTIA Network+ Exam Prep from Jeremy's IT Lab  |EN | |
 | **Cisco Networking Academy - Networking Basics** | [skillsforall.com](https://skillsforall.com/course/networking-basics?courseLang=en-US) | Basic Network course  |EN | |
 | **Network Fundamentals Course** | [educative.io](https://www.educative.io/module/An5VrvSlLQN6R6N8y/10370001/4813190514343936) | Practical Network course  |EN | |
 | **Free CCNA Course – the most complete guide** | [ictshore.com](https://www.ictshore.com/free-ccna-course-start/) | Complete CCNA guide (text)  |EN | |
@@ -237,7 +242,7 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Ansible** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N) | Курс з Ansible від ADV-IT  |ru | |
-| **Practical DevOps: Ansible** | [Youtube](https://www.youtube.com/watch?v=othMODPm4Jk&ab_channel=DevOps01) | Курс з Ansible від ADV-IT  |UA | |
+| **Practical DevOps: Ansible** | [Youtube](https://www.youtube.com/watch?v=othMODPm4Jk&ab_channel=DevOps01) | Курс з Ansible від DevOps01  |UA | |
 | **Ansible 101** | [Youtube](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN) | Ansible 101 introduces Ansible for Linux server administration by Jeff Geerling  |EN | |
 
 ### Jenkins
@@ -301,7 +306,9 @@
 | **Открытая вечерняя школа. Kubernetes для разработчиков** | [Youtube](https://www.youtube.com/playlist?list=PL8D2P0ruohOBSA_CDqJLflJ8FLJNe26K-) | Корисний великий плейлист для початківців  |ru | |
 | **Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]** | [Youtube](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana) | Big Beginners Kubernetes course  |EN | |
 | **Kubernetes [FULL COURSE in 10 Hours]** | [Youtube](https://www.youtube.com/watch?v=y3WTwzx5ABk&ab_channel=edureka%21) | Kubernetes Tutorial is ideal for both beginners as well as professionals who want to master the fundamentals of Kubernetes  |EN | |
+| **Основи Kubernetes** | [prometheus.org.ua](https://apps.prometheus.org.ua/learning/course/course-v1:LinuxFoundation+INTRO101+2023_T1/home) | Базовий Kubernetes від The Linux Foundation  |UA | |
 | **Introduction to Kubernetes** | [edx.org](https://www.edx.org/course/introduction-to-kubernetes) | Big Kubernetes course  |EN | |
+| **Just enough kubernetes to be dangerous** | [udemy.com](https://www.udemy.com/course/just-enough-kubernetes/) | Learn Kubernetes basics by practicing it  |EN | |
 | **Kubernetes trainings** | [kube.academy](https://kube.academy/coursess) | Mini Kubernetes trainings by KubeAcademy  |EN | |
 | **Play with Kubernetes** | [labs.play-with-k8s.com](https://labs.play-with-k8s.com/) | Kubernetes stand for labs  |EN | |
 | **Kubernetes CheatSheet** | [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/commands/) | MiniKube CheatSheets  |EN | |
@@ -413,6 +420,7 @@
 | **Изучаем Go** | [Youtube](https://www.youtube.com/playlist?list=PLQuaNOtBP3TpjiROGjy3-hEr5xL0fN9bX) | Додатковий міні-курс по Go з конкретними прикладами  |ru | |
 | **Разработка & Язык Go** | [Youtube](https://www.youtube.com/playlist?list=PLbTTxxr-hMmxZMXsvaE-PozXxktdJ5zLR) | Курс по Go від Максима Жашкевича  |ru | |
 | **Golang від NIX Education** | [education.nixsolutions.com](https://education.nixsolutions.com/course/view.php?id=12) | Безкоштовний курс по Go від NIX Solutions  |UA/EN | |
+ **Golang бесплатный курс с нуля** | [stepik.org](https://stepik.org/course/179158/syllabus) | Дуже простий базовий курс з GO  |ru | |
 | **A Tour of Go** | [go.dev](https://go.dev/tour/welcome/1) | Practical self-studying GO course  |EN | |
 | **Введение в программирование на Go** | [github.com/maxpoletaev/golang-book](https://github.com/maxpoletaev/golang-book) | Книга для навчання програмування мовою Go  |ru | |
 | **gopherlings** | [github.com/soypat](https://github.com/soypat/gopherlings) | Learn Go by fixing tiny incorrect programs  |EN | |

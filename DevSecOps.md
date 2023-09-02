@@ -8,7 +8,8 @@
 
 *Перелік не є закінченим. Доповнення і зауваження дуже вітаються.*
 
-*Також дякую телеграм-спільноті https://t.me/DevOpsMarathon та її очільнику - @edemus.*
+*Також дякую телеграм-спільноті https://t.me/DevOpsMarathon та її очільнику - @edemus,
+телеграм-спільноті DevOps Geeks та україномовному каналу [DevOps 01](https://www.youtube.com/@DevOps01).*
 
 **[Don't stop believin'!!](https://www.youtube.com/watch?v=1k8craCGpgs&ab_channel=journeyVEVO)**
 

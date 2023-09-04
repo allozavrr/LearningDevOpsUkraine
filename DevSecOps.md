@@ -40,6 +40,7 @@
    - **[Compliance-as-code](#compliance-as-code)**
    - **[IAC Security](#iac-security)**
     - *[Kubernetes YAML validating](#kubernetes-yaml-validating)*
+    - *[Порівняння інструментів](#порівняння-інструментів)*
   
 
 
@@ -539,3 +540,10 @@
 | **Copper** | [github.com/cloud66-oss](https://github.com/cloud66-oss/copper) | Useful tool with Kubernetes configuration files to enforce best practices, apply policies and compliance requirements  |EN | |
 | **Conftest** | [github.com/open-policy-agent](https://github.com/open-policy-agent/conftest) | Open source tool helps you write tests against structured configuration data  |EN | |
 | **Polaris** | [github.com/FairwindsOps](https://github.com/FairwindsOps/polaris#cli) | Open source policy engine for Kubernetes  |EN | |
+
+#### Порівняння інструментів
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **tool-compare** | [github.com/iacsecurity](https://github.com/iacsecurity/tool-compare) |  The goal of this repository is to help compare the different options so that users can choose the tool that best fits their own needs  |EN | |
+| **compares tools to validate and score Kubernetes YAML files** | [earnk8s.io](https://learnk8s.io/validating-kubernetes-yaml) | The article compares six static tools to validate and score Kubernetes YAML files for best practices and compliance  |EN | |

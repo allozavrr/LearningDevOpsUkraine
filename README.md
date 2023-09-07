@@ -52,6 +52,7 @@
    - **[Python](#python)**
    - **[Go](#go)**
    - **[Rust](#rust)**
+- **[SQL](#sql)**
 - **[Monitoring](#monitoring)**
 - **[DevSecOps](#devsecops)**
 - **[Interview](#interview)**
@@ -428,6 +429,14 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **Rust - язык программирования с нуля** | [Youtube](https://www.youtube.com/playlist?list=PLQuaNOtBP3Tps9JrGMs76d_YbOGygrLUJ) | Курс по Rust для новачків  |ru | |
 | **Rust Lang Lessons** | [Youtube](https://www.youtube.com/playlist?list=PLnalMG3z2RzF39Hg-PG-x_rH8Yr2ztYbV) | Уроки по Rust для новачків  |ru | |
+
+
+## SQL
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **SQL Tutorial - Full Database Course for Beginners** | [Youtube](https://youtu.be/HXV3zeQKqGY?si=d6lG8GZByYtz2Fn5) | Курс по SQL для новачків  |ru | |
+| **Learn SQL | Codecademy** | [codecademy.com](https://www.codecademy.com/learn/learn-sql) | Уроки по SQL для новачків  |ru | |
 
 
 ## Monitoring

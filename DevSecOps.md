@@ -114,7 +114,10 @@
 | **PenTesting.Cloud** | [pentesting.cloud](https://pentesting.cloud/) | A free pentesting learning platform  |EN | |
 | **GCP Goat** | [gcpgoat.joshuajebaraj.com](https://gcpgoat.joshuajebaraj.com/index.html) | Intentionally vulnerable GCP environment to learn and practice GCP Security  |EN | |
 
-
+## Articles
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **How Secrets Leak in CI/CD Pipelines** | [trufflesecurity.com](https://trufflesecurity.com/blog/secrets-leak-in-ci-cd/) | How to searh Secrets in CI/CD  |EN | |
 
 ## Tools
 

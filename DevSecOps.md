@@ -550,3 +550,19 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **tool-compare** | [github.com/iacsecurity](https://github.com/iacsecurity/tool-compare) |  The goal of this repository is to help compare the different options so that users can choose the tool that best fits their own needs  |EN | |
 | **compares tools to validate and score Kubernetes YAML files** | [earnk8s.io](https://learnk8s.io/validating-kubernetes-yaml) | The article compares six static tools to validate and score Kubernetes YAML files for best practices and compliance  |EN | |
+
+
+#### Порівняння інструментів
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **tool-compare** | [github.com/iacsecurity](https://github.com/iacsecurity/tool-compare) |  The goal of this repository is to help compare the different options so that users can choose the tool that best fits their own needs  |EN | |
+| **compares tools to validate and score Kubernetes YAML files** | [earnk8s.io](https://learnk8s.io/validating-kubernetes-yaml) | The article compares six static tools to validate and score Kubernetes YAML files for best practices and compliance  |EN | |
+
+
+#### Порівняння інструментів
+
+| Name | URL | Description | Language | 
+| :---------- | :---------- | :---------- | :----------: |
+| **tool-compare** | [github.com/iacsecurity](https://github.com/iacsecurity/tool-compare) |  The goal of this repository is to help compare the different options so that users can choose the tool that best fits their own needs  |EN | |
+| **compares tools to validate and score Kubernetes YAML files** | [earnk8s.io](https://learnk8s.io/validating-kubernetes-yaml) | The article compares six static tools to validate and score Kubernetes YAML files for best practices and compliance  |EN | |

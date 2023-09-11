@@ -294,6 +294,7 @@
 | **ZDay by Zfort: Docker** | [Youtube](https://www.youtube.com/playlist?list=PL5Xc41XnApvxs1haUwv2CYtgQApwe7oTK) | База для початківців від Дениса Прісухина |ru | |
 | **Docker Crash Course for Absolute Beginners** | [Youtube](https://www.youtube.com/watch?v=pg19Z8LL06w&ab_channel=TechWorldwithNana) | Docker Crash Course from TechWorld with Nana |EN | |
 | **Play with Docker Classroom** | [training.play-with-docker.com](https://training.play-with-docker.com/) | Mix of labs and tutorials that will help Docker users, including SysAdmins, IT Pros, and Developers |EN | |
+| **Docker Fundamentals** | [learn.cantrill.io](https://learn.cantrill.io/p/docker-fundamentals) |  This course is designed to provide a comprehensive introduction to the world of Docker and containerization  |EN | |
 
 ### Kubernetes
 

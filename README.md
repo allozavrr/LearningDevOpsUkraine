@@ -153,6 +153,7 @@
 | :---------- | :---------- | :---------- | :----------: |
 | **LeetCode** | [leetcode.com](https://leetcode.com/) | The best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews  |EN | |
 | **Codewars** | [codewars.com](https://www.codewars.com/) | Improve your development skills by training with your peers on code kata that continuously challenge and push your coding practice  |EN | |
+| **CodingDrills** | [codingdrills.com](https://www.codingdrills.com/) | Practice your coding skills with Ada, your personal AI tutor  |EN | |
 
 ## Git
 

@@ -1,4 +1,5 @@
 # LearningDevOpsUkraine
+
 **Доброго всім дня.**
 
 **Це невеличкий конспект з допомоги тим, хто хоче вивчати DevOps у 2023 році.**
@@ -17,7 +18,6 @@
     
    ![alt text](https://github.com/allozavrr/Screenshots/blob/main/DevopsBurger.png "Taste IT!")
 </details>    
-
 
 # Table of Contents
 
@@ -134,8 +134,11 @@
 | **DevOps resources** | [github.com/bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | This repository is about gathering any useful resources and information regarding DevOps   |![Git Secrets](https://img.shields.io/github/stars/bregman-arie/devops-resources?style=for-the-badge) |
 | **How They DevOps** | [github.com/bregman-arie/howtheydevops](https://github.com/bregman-arie/howtheydevops) | A curated collection of publicly available resources on how companies around the world practice DevOps  |![Git Secrets](https://img.shields.io/github/stars/bregman-arie/howtheydevops?style=for-the-badge) |
 | **DevOps exercises** | [github.com/bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE   |![Git Secrets](https://img.shields.io/github/stars/bregman-arie/devops-exercises?style=for-the-badge) |
+| **Free DevOps Books** | [github.com/rootusercop/Free-DevOps-Books-1](https://github.com/rootusercop/Free-DevOps-Books-1/tree/master) | This is a curated collection of free DevOps eBooks available on the Internet   |![Git Secrets](https://img.shields.io/github/stars/bootusercop/Free-DevOps-Books-1?style=for-the-badge) |
 | **Awesome Site Reliability Engineering** | [github.com/dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) | A curated list of awesome Site Reliability and Production Engineering resources  |![Git Secrets](https://img.shields.io/github/stars/astergon/awesome-sre?style=for-the-badge) |
 | **Test your Sysadmin skills** | [github.com/trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) | This project contains 284 test questions and answers that can be used as a test your knowledge or during an interview such as Linux/Networks  |![Git Secrets](https://img.shields.io/github/stars/trimstray/test-your-sysadmin-skills?style=for-the-badge) |
+| **DevOps-Bash-tools** | [github.com/HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) | Scripts for many popular DevOps technologies  |![Git Secrets](https://img.shields.io/github/stars/HariSekhon/DevOps-Bash-tools?style=for-the-badge) |
+| **Coding Interview University** | [github.com/jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | A short to-do list of study topics for becoming a software engineer (useful for your coding skills)  |![Git Secrets](https://img.shields.io/github/stars/jwasham/coding-interview-university?style=for-the-badge) |
 
 ### Labs / Trainings
 
@@ -269,6 +272,8 @@
 | **Practical DevOps: Terraform 01** | [Youtube](https://www.youtube.com/watch?v=wOI7fpZYIJk&ab_channel=DevOps01) | Terraform для початківців від DevOps01  |UA | |
 | **Terraform - From Zero to Certified Professional** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYsUzsBeN8rPe1EoqKWhMlnF) | Terraform - From Zero to Certified Professional від ADV-IT  |EN | |
 | **Terraform-The-Hard-Way** | [github.com/AdminTurnedDevOps](https://github.com/AdminTurnedDevOps/Terraform-The-Hard-Way) | This tutorial contains a full explanation of how to use Terraform in today's world  |EN | |
+| **Awesome Terraform** | [github.com/shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | A curated list of resources on HashiCorp's Terraform  |EN | |
+
 
 ## Containerization
 
@@ -469,6 +474,7 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Девопс и Поиск Работы в IT** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYuu1RAT4l1tCkZrJzkIaNgL) | Плейлист з порадами з проходження інтервʼю від ADV-IT  |ru | |
+| **Пошук роботи в ІТ. Як ефективно подаватись на вакансії. Проходимо рекрутмент-фільтр** | [Youtube](https://www.youtube.com/watch?v=RXX4AWGkR8o&ab_channel=DataDrivenDiscussions) | Випуск про те, як ефективно подаватись на вакансії, як пройти рекрутмент-фільтр   |UA | |
 | **Прямий ефір: технічне інтерв'ю DevOps-джуніора** | [Youtube](https://www.youtube.com/watch?v=S-uAOt2ZLQw&ab_channel=EPAMUkraineCareer) | Питання, які можуть бути задані на технічній співбесіді на рівні джуніора  |UA | |
 | **Співбесіда з DevOps. 300+ запитань для Junior, Middle, Senior** | [dou.ua](https://dou.ua/lenta/articles/interview-devops/) | Великий матеріал з питаннями для самопідготовки  |UA | |
 | **Preparing for a DevOps Engineer Interview: A Comprehensive Guide** | [dev.to](https://dev.to/tutunak/preparing-for-a-devops-engineer-interview-a-comprehensive-guide-26n4) | Really useful manual for a DevOps Engineer Interview  |EN | |

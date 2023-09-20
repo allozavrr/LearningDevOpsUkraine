@@ -271,7 +271,9 @@
 | **Terraform** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYujWDTYb-Zbofdl44Jxb2l8) | Terraform доступно від ADV-IT  |ru | |
 | **Practical DevOps: Terraform 01** | [Youtube](https://www.youtube.com/watch?v=wOI7fpZYIJk&ab_channel=DevOps01) | Terraform для початківців від DevOps01  |UA | |
 | **Terraform - From Zero to Certified Professional** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYsUzsBeN8rPe1EoqKWhMlnF) | Terraform - From Zero to Certified Professional від ADV-IT  |EN | |
+| **Terraform-The-Hard-Way** | [github.com/AdminTurnedDevOps](https://github.com/AdminTurnedDevOps/Terraform-The-Hard-Way) | This tutorial contains a full explanation of how to use Terraform in today's world  |EN | |
 | **Awesome Terraform** | [github.com/shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | A curated list of resources on HashiCorp's Terraform  |EN | |
+
 
 ## Containerization
 
@@ -316,8 +318,9 @@
 | **Play with Kubernetes** | [labs.play-with-k8s.com](https://labs.play-with-k8s.com/) | Kubernetes stand for labs  |EN | |
 | **Kubernetes CheatSheet** | [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/commands/) | MiniKube CheatSheets  |EN | |
 | **Fast-Kubernetes** | [github.com/omerbsezer](https://github.com/omerbsezer/Fast-Kubernetes) | Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm  |EN | |
-| **100 Days Of Kubernetes** | [00daysofkubernetes.io](https://100daysofkubernetes.io/) | 100 Days of Kubernetes is the challenge in which we aim to learn something new related to Kubernetes each day across 100 Days  |EN | |
+| **100 Days Of Kubernetes** | [100daysofkubernetes.io](https://100daysofkubernetes.io/) | 100 Days of Kubernetes is the challenge in which we aim to learn something new related to Kubernetes each day across 100 Days  |EN | |
 | **Fast Kubernetes** | [github.com/omerbsezer](https://github.com/omerbsezer/Fast-Kubernetes) | This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.  |EN | |
+| **kubernetes-examples** | [github.com/AdminTurnedDevOps](https://github.com/AdminTurnedDevOps/kubernetes-examples) | This repo contains a bunch of Kubernetes examples  |EN | |
 | **Kubernetes The Hard Way** | [github.com/kelseyhightower](https://github.com/kelseyhightower/kubernetes-the-hard-way) | This tutorial walks you through setting up Kubernetes the hard way  |EN | |
 
 

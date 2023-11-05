@@ -191,6 +191,7 @@
 | **ADV-IT Linux НЕ для Начинающих** | [Youtube](https://www.youtube.com/watch?v=hb1jtBm71MY&list=PLg5SS_4L6LYsgy5qLYZtvoaV34zn5iKPe&ab_channel=ADV-IT) | Курс для поглиблення знань з Linux від ADV-IT  |ru | |
 | **LPIC-1 (exam 101)** | [Youtube](https://www.youtube.com/playlist?list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc) | Підготовка до екзамену LPIC-1 (exam 101) від Кирила Сємаєва  |ru | |
 | **LPIC-2 (exam 201)** | [Youtube](https://www.youtube.com/playlist?list=PLmxB7JSpraidTqByo0ihkyExIbKfAB-B9) | Підготовка до екзамену LPIC-2 (exam 201) від Кирила Сємаєва  |ru | |
+| **Server. Linux. Системы и решения** | [Youtube](https://www.youtube.com/playlist?list=PLqVeG_R3qMSysWrn9lqcyxP50INzqAnbN) | Поглиблені та специфічні теми з Linux від RomNero  |ru | |
 | **Into the Terminal (Red Hat Enterprise Linux)** | [Youtube](https://www.youtube.com/playlist?list=PLXJyD2dL4oqeX-C3MvsMUJuEzWM4vLK2C) | Critical Administration Skills for Red Hat Enterprise Linux  |EN | |
 | **Linux Operating System — Crash Course for Beginners** | [Youtube](https://www.youtube.com/playlist?list=PLXJyD2dL4oqeX-C3MvsMUJuEzWM4vLK2C) | Learn the basics of the Linux Operating System in this crash course for beginners (in 3 hours)  |EN | |
 | **Основи Linux** | [prometheus.org.ua](https://apps.prometheus.org.ua/learning/course/course-v1:LinuxFoundation+INTRO_LINUX101+2023_T1/home) | Базовий Linux від The Linux Foundation  |UA | |
@@ -213,6 +214,7 @@
 | **Курсы Cisco CCNA 200-301** | [Youtube ч.1](https://www.youtube.com/playlist?list=PL0MV6px_XdxDJLaePIpq7PPllVLdL_kw_) | Cisco CCNA p.1  |ru | |
 | **Курсы Cisco CCNA 200-301** | [Youtube ч.2](https://www.youtube.com/playlist?list=PL0MV6px_XdxCkDz7yNCulKlK2I7144Yae) | Cisco CCNA p.2  |ru | |
 | **Уроки Cisco. От простого к интересному** | [Youtube](https://www.youtube.com/playlist?list=PL7CmqnO_QydgI7FyoWR6HVUZr-OOFxfXp) | Курс для початківців по Cisco  |ru | |
+| **Уроки Cisco Packet Tracer** | [Youtube](https://www.youtube.com/playlist?list=PLpFle7-wFzL5991JNn-J0LnVn6_6tDacB) | Курс для початківців по Cisco Packet Tracer  |ru | |
 | **CompTIA Network+ N10-007 Training Course** | [Youtube](https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd) | CompTIA Network+ N10-007 Exam Prep  |EN | |
 | **Computer Networks Neso Academy** | [Youtube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx) | Fundamental Network course  |EN | |
 | **Computer Networks** | [Youtube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx) | OS-based Network course from Neso Academy  |EN | |
@@ -244,6 +246,7 @@
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
 | **Ansible** | [Youtube](https://www.youtube.com/playlist?list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N) | Курс з Ansible від ADV-IT  |ru | |
+| **Основы Ansible 2.9 для сетевых инженеров** | [Youtube](https://www.youtube.com/playlist?list=PLah0HUih_ZRnuI_K5-GV4FdAO9dVkRIGF) | Непоганий курс з Ansible для початківців  |ru | |
 | **Practical DevOps: Ansible** | [Youtube](https://www.youtube.com/watch?v=othMODPm4Jk&ab_channel=DevOps01) | Курс з Ansible від DevOps01  |UA | |
 | **Ansible 101** | [Youtube](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN) | Ansible 101 introduces Ansible for Linux server administration by Jeff Geerling  |EN | |
 
@@ -295,6 +298,7 @@
 | **Docker - Всё что нужно знать чтобы начать работать с Docker, все основы в одном уроке** | [Youtube](https://www.youtube.com/watch?v=I18TNwZ2Nqg&ab_channel=ADV-IT) | Docker доступно від ADV-IT  |ru | |
 | **Docker - Полный курс Docker Для Начинающих** | [Youtube](https://www.youtube.com/watch?v=_uZQtRyF6Eg&t=6083s&ab_channel=BogdanStashchuk) | Гарний курс для початківців від Богдана Сташука |ru | |
 | **ZDay by Zfort: Docker** | [Youtube](https://www.youtube.com/playlist?list=PL5Xc41XnApvxs1haUwv2CYtgQApwe7oTK) | База для початківців від Дениса Прісухина |ru | |
+| **DevOps with Docker** | [devopswithdocker.com](https://devopswithdocker.com/) | Containers for Beginners |EN | |
 | **Docker Crash Course for Absolute Beginners** | [Youtube](https://www.youtube.com/watch?v=pg19Z8LL06w&ab_channel=TechWorldwithNana) | Docker Crash Course from TechWorld with Nana |EN | |
 | **Play with Docker Classroom** | [training.play-with-docker.com](https://training.play-with-docker.com/) | Mix of labs and tutorials that will help Docker users, including SysAdmins, IT Pros, and Developers |EN | |
 | **Docker Fundamentals** | [learn.cantrill.io](https://learn.cantrill.io/p/docker-fundamentals) |  This course is designed to provide a comprehensive introduction to the world of Docker and containerization  |EN | |
@@ -312,6 +316,7 @@
 | **Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]** | [Youtube](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana) | Big Beginners Kubernetes course  |EN | |
 | **Kubernetes [FULL COURSE in 10 Hours]** | [Youtube](https://www.youtube.com/watch?v=y3WTwzx5ABk&ab_channel=edureka%21) | Kubernetes Tutorial is ideal for both beginners as well as professionals who want to master the fundamentals of Kubernetes  |EN | |
 | **Основи Kubernetes** | [prometheus.org.ua](https://apps.prometheus.org.ua/learning/course/course-v1:LinuxFoundation+INTRO101+2023_T1/home) | Базовий Kubernetes від The Linux Foundation  |UA | |
+| **DevOps with Kubernetes** | [devopswithkubernetes.com](https://devopswithkubernetes.com/) | Introduction to Kubernetes practices |EN | |
 | **Introduction to Kubernetes** | [edx.org](https://www.edx.org/course/introduction-to-kubernetes) | Big Kubernetes course  |EN | |
 | **Just enough kubernetes to be dangerous** | [udemy.com](https://www.udemy.com/course/just-enough-kubernetes/) | Learn Kubernetes basics by practicing it  |EN | |
 | **Kubernetes trainings** | [kube.academy](https://kube.academy/coursess) | Mini Kubernetes trainings by KubeAcademy  |EN | |
@@ -425,6 +430,7 @@
 | **Изучаем Golang** | [Youtube](https://www.youtube.com/playlist?list=PLc2Vkg57qmuRNHp6NNvYRVgg3OP-b5E_v) | Курс по Go для новачків  |ru | |
 | **Изучаем Go** | [Youtube](https://www.youtube.com/playlist?list=PLQuaNOtBP3TpjiROGjy3-hEr5xL0fN9bX) | Додатковий міні-курс по Go з конкретними прикладами  |ru | |
 | **Разработка & Язык Go** | [Youtube](https://www.youtube.com/playlist?list=PLbTTxxr-hMmxZMXsvaE-PozXxktdJ5zLR) | Курс по Go від Максима Жашкевича  |ru | |
+| **Курс разработчика Golang** | [Youtube](https://www.youtube.com/playlist?list=PLysMDSbb9HcxpAb8lhnMaRpX890wSLz66) | Курс по Go від Uproger  |ru | |
 | **Golang від NIX Education** | [education.nixsolutions.com](https://education.nixsolutions.com/course/view.php?id=12) | Безкоштовний курс по Go від NIX Solutions  |UA/EN | |
  **Golang бесплатный курс с нуля** | [stepik.org](https://stepik.org/course/179158/syllabus) | Дуже простий базовий курс з GO  |ru | |
 | **A Tour of Go** | [go.dev](https://go.dev/tour/welcome/1) | Practical self-studying GO course  |EN | |

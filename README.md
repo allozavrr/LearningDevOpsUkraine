@@ -104,6 +104,7 @@
 | **ITSkills4U** | [itskills4u.com.ua](https://itskills4u.com.ua/) | FREE! Developed by AWS, the program includes AWS Cloud training programs and certification, English and Polish language classes, mentorship, and access to job opportunities  |EN | |
 | **StanfordOnline** | [edx.org](https://www.edx.org/school/stanfordonline?irclickid=WNB0XoxkWxyPRWhxQeRIaxGNUkF2qCQE-0kN1U0) | FREE! online courses from Stanford University  |EN | |
 | **Become A DevOps Engineer in 2023: A Practical Roadmap** | [devopscube.com](https://devopscube.com/become-devops-engineer) | Strong recommended roadmap with FREE courses  |EN | |
+| **Cantrill** | [acloud.guru](https://learn.cantrill.io/courses) | Paid online courses from Cantrill  |EN | |
 | **A Cloud Guru** | [acloud.guru](https://acloud.guru/) | Paid online courses from A Cloud Guru  |EN | |
 | **KodeKloud** | [kodekloud.com](https://kodekloud.com/) | Paid online courses from KodeKloud  |EN | |
 | **O’Reilly** | [oreilly.com](https://www.oreilly.com/) | Paid online courses from O’Reilly  |EN | |
@@ -428,6 +429,7 @@
 ### Go
 | Name | URL | Description | Language | 
 | :---------- | :---------- | :---------- | :----------: |
+| **Основи Golang** | [Youtube](https://www.youtube.com/playlist?list=PLxMmZTMfwi9dem4tOwQ5BZl7OBy8pkw90) | Прикольний мінікурс про основи Go  |UA | |
 | **Изучаем Golang** | [Youtube](https://www.youtube.com/playlist?list=PLc2Vkg57qmuRNHp6NNvYRVgg3OP-b5E_v) | Курс по Go для новачків  |ru | |
 | **Изучаем Go** | [Youtube](https://www.youtube.com/playlist?list=PLQuaNOtBP3TpjiROGjy3-hEr5xL0fN9bX) | Додатковий міні-курс по Go з конкретними прикладами  |ru | |
 | **Разработка & Язык Go** | [Youtube](https://www.youtube.com/playlist?list=PLbTTxxr-hMmxZMXsvaE-PozXxktdJ5zLR) | Курс по Go від Максима Жашкевича  |ru | |

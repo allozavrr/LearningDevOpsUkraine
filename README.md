@@ -120,6 +120,7 @@
 | **CatOps** | [Youtube](https://www.youtube.com/@catops/playlists) | Корисні підкасти CatOps спільноти  |UA | |
 | **Денис Васильєв** | [Youtube](https://www.youtube.com/@DenysVasyliev) | Senior про DevOps  |UA | |
 | **DataArt Online** | [Youtube](https://www.youtube.com/playlist?list=PLU6_HdJGVDx93bE8cb3gpwRzJX57C1wvt) | Плейлист про DevOps від DataArt Online  |UA | |
+| **AWS User Group Ukraine Lviv** | [Youtube](https://www.youtube.com/@awsusergroupukrainelviv1181/videos) | Канал із записами мітапів львівського AWS ком'юніті  |UA | |
 | **Tech World with Nana** | [YouTube](https://www.youtube.com/@TechWorldwithNana) | Really needed materials about all DevOps hard-skills  |EN | |
 | **NetworkChuck** | [YouTube](https://www.youtube.com/@NetworkChuck/playlists) | CCNA, CompTIA A+, CompTIA Network+  |EN | |
 | **Just me and Opensource** | [YouTube](https://www.youtube.com/@justmeandopensource/playlists) | A lot of trainings of DevOps tools, nice and full Kubernetes guide  |EN | |

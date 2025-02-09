@@ -330,8 +330,8 @@
 | **Fast Kubernetes** | [github.com/omerbsezer](https://github.com/omerbsezer/Fast-Kubernetes) | This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.  |EN | |
 | **kubernetes-examples** | [github.com/AdminTurnedDevOps](https://github.com/AdminTurnedDevOps/kubernetes-examples) | This repo contains a bunch of Kubernetes examples  |EN | |
 | **Kubernetes The Hard Way** | [github.com/kelseyhightower](https://github.com/kelseyhightower/kubernetes-the-hard-way) | This tutorial walks you through setting up Kubernetes the hard way  |EN | |
-
-
+| **Meshery** | [meshery.io](https://meshery.io) | A self-service engineering platform and open source cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications (multi-cloud). | EN | |
+| **Kanvas**  | [kanvas.new](https://kanvas.new) | A collaborative visual tool for designing and managing infrastructure, streamlining the process of planning and operating your digital architecture. | EN | |
 
 ## Clouds
 
